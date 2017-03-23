@@ -1,0 +1,96 @@
+\begin{thebibliography}{}
+
+\bibitem[\protect\citename{Cowell and Moss}2008]{Cow08}
+Andrew Cowell and Alonzo Moss.
+\newblock 2008.
+\newblock {\em {The Arapaho Language}}.
+\newblock Westview Press, Boulder.
+
+\bibitem[\protect\citename{de Marneffe and Manning}2008]{Marneffe2008}
+Marie-Catherine de~Marneffe and Christopher~D. Manning.
+\newblock 2008.
+\newblock {Stanford typed dependencies manual}.
+\newblock Revised: April 2015:1--22.
+
+\bibitem[\protect\citename{de Marneffe \bgroup et al.\egroup
+  }2014]{Marneffe2014}
+Marie-Catherine de~Marneffe, Timothy Dozat, Natalia Silveira, Katri Haverinen,
+  Filip Ginter, Joakim Nivre, and Christopher~D. Manning.
+\newblock 2014.
+\newblock {Universal Stanford Dependencies: A cross-linguistic typology}.
+\newblock {\em In Proceedings of the Ninth International Conference on Language
+  Resources and Evaluation (LREC'14)}, pages 4585--4592.
+
+\bibitem[\protect\citename{Goddard}1984]{Goddard1984}
+Ives Goddard.
+\newblock 1984.
+\newblock {The obviative in Fox narrative discourse}.
+\newblock In William Cowan, editor, {\em Papers of the Fifteenth Algonquian
+  Conference}, pages 273--286. Carleton University Ottawa.
+
+\bibitem[\protect\citename{Hajicova \bgroup et al.\egroup }2015]{Hajicova2015}
+Eva Hajicova, Marie Mikulova, and Jarmila Panevova.
+\newblock 2015.
+\newblock {Reconstructions of Deletions in a Dependency-based Description of
+  Czech: Selected Issues}.
+\newblock In {\em Proceedings of the Third International Conference on
+  Dependency Linguistics (Depling 2015)}, pages 131--140, Uppsala, Sweden.
+
+\bibitem[\protect\citename{Haverinen \bgroup et al.\egroup
+  }2014]{Haverinen2014}
+Katri Haverinen, Jenna Nyblom, Timo Viljanen, Veronika Laippala, Samuel
+  Kohonen, Anna Missil{\"{a}}, Stina Ojala, Tapio Salakoski, and Filip Ginter.
+\newblock 2014.
+\newblock {Building the essential resources for Finnish: the Turku Dependency
+  Treebank}.
+\newblock {\em Language Resources and Evaluation}, pages 1--39.
+
+\bibitem[\protect\citename{Lipenkova and Sou{\v{c}}ek}2014]{Lipenkova2014}
+Janna Lipenkova and Milan Sou{\v{c}}ek.
+\newblock 2014.
+\newblock {Converting Russian Dependency Treebank to Stanford Typed
+  Dependencies Representation}.
+\newblock In {\em Proceedings of the 14th Conference of the European Chapter of
+  the Association for Computational Linguistics}, pages 143--147, Gothenburg,
+  Sweden. Association for Computational Linguistics.
+
+\bibitem[\protect\citename{McDonald \bgroup et al.\egroup }2013]{McDonald2013}
+Ryan McDonald, Joakim Nivre, Yvonne Quirmbach-Brundage, {Yoav Goldberg},
+  Dipanjan Das, Kuzman Ganchev, Keith Hall, Slav Petrov, Hao Zhang, Oscar
+  T{\"{a}}ckstr{\"{o}}m, Claudia Bedini, N{\'{u}}ria~Bertomeu Castell{\'{o}},
+  and Jungmee Lee.
+\newblock 2013.
+\newblock {Universal Dependency Annotation for Multilingual Parsing Ryan}.
+\newblock In {\em ACL 2013 - 51st Annual Meeting of the Association for
+  Computational Linguistics, Proceedings of the Conference}, pages 92--97,
+  Sofia, Bulgaria.
+
+\bibitem[\protect\citename{Nivre}2015]{Nivre2015}
+Joakim Nivre.
+\newblock 2015.
+\newblock {Towards a universal grammar for natural language processing}.
+\newblock {\em Lecture Notes in Computer Science (including subseries Lecture
+  Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)},
+  9041:3--16.
+
+\bibitem[\protect\citename{Osborne and Liang}2015]{Osborne2015}
+Timothy Osborne and Junying Liang.
+\newblock 2015.
+\newblock {A Survey of Ellipsis in Chinese}.
+\newblock In {\em Proceedings of the Third International Conference on
+  Dependency Linguistics (Depling 2015)}, pages 271--280, Uppsala, Sweden.
+
+\bibitem[\protect\citename{Tsarfaty}2013]{Tsarfaty2013}
+Reut Tsarfaty.
+\newblock 2013.
+\newblock {A Unified Morpho-Syntactic Scheme of Stanford Dependencies}.
+\newblock {\em Proceedings of the 51st Annual Meeting of the Association for
+  Computational Linguistics (Volume 2: Short Papers)}, pages 578--584.
+
+\bibitem[\protect\citename{UniversalDependencies.org}2014]{ud2014}
+UniversalDependencies.org.
+\newblock 2014.
+\newblock {Universal dependency relations (single document)}.
+\newblock \url{http://universaldependencies.org/u/dep/all.html}.
+
+\end{thebibliography}

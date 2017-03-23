@@ -1,0 +1,1238 @@
+\_sh v3.0  400  Text
+
+\id 47d
+
+\ref 47d.001
+\tx coonkoonenowoo.
+\mb coon-   koonen - owoo
+\ge unable- open   - 1S
+\ps prefix- vti    - infl
+
+\ELANBegin 9.490
+\ELANEnd 10.880
+\ELANParticipant 58
+\ft I can't open it.
+\Notes 
+
+\ref 47d.002
+\tx ???
+\ELANBegin 11.460
+\ELANEnd 12.520
+\ELANParticipant 58
+\ft ???
+\Notes 
+
+\ref 47d.003
+\tx xonouu      heetciiteit.
+\mb xonouu      heet-   ciitei - t
+\ge immediately FUT-    enter  - 3.S
+\ps part        prefix- vai    - infl
+
+\ELANBegin 12.290
+\ELANEnd 13.900
+\ELANParticipant 38
+\ft He's going to come in right away.
+\Notes 
+
+\ref 47d.004
+\tx Noonowonenoo.
+\mb noo-    nowone - noo
+\ge REDUP-  drowsy - 1S
+\ps prefix- vai    - infl
+
+\ELANBegin 15.130
+\ELANEnd 16.560
+\ELANParticipant 38
+\ft I'm sleepy now.
+\Notes 
+
+\ref 47d.005
+\tx uhm-hmm.
+\mb uhm-hmm
+\ge uhm-hmm
+\ps PART
+
+\ELANBegin 16.520
+\ELANEnd 17.220
+\ELANParticipant 58
+\ft
+\Notes 
+
+\ref 47d.006
+\tx ci'            heeyou
+\mb ci'            heeyou
+\ge too            what (is it?)
+\ps proclitic/part pseudovii.INTERR
+
+\tx heetni'eenetiitoonin?
+\mb he-   et-     ni'-           eenetiitoon        - in
+\ge 2S-   FUT-    INSTR-         speaking           - 12POSS
+\ps infl- prefix- prefix.IMPERF- participle+pl.infl - infl
+
+\ELANBegin 38.210
+\ELANEnd 40.240
+\ELANParticipant 38
+\ft What else are we going to talk about?
+\Notes 
+
+\ref 47d.007
+\tx Koobetooot?
+\mb koo-       betooot
+\ge INTERR-    dance
+\ps proclitic- ni.#V.INDP???
+
+\ELANBegin 48.440
+\ELANEnd 49.640
+\ELANParticipant 38
+\ft Dances?
+\Notes 
+
+\ref 47d.008
+\tx betooot.
+\mb betooot
+\ge dance
+\ps ni.#V.INDP???
+
+\ELANBegin 49.450
+\ELANEnd 50.420
+\ELANParticipant 58
+\ft Dances.
+\Notes 
+
+\ref 47d.009
+\tx Hoonou3oot.
+\mb hoonou3oot
+\ge Christmas
+\ps ni.#V.INDP???
+
+\ELANBegin 52.270
+\ELANEnd 53.390
+\ELANParticipant 58
+\ft Christmas.
+\Notes 
+
+\ref 47d.010
+\tx hoonou3oot.
+\mb hoonou3oot
+\ge Christmas
+\ps ni.#V.INDP???
+
+\ELANBegin 53.310
+\ELANEnd 54.650
+\ELANParticipant 38
+\ft Christmas.
+\Notes 
+
+\ref 47d.011
+\tx Ci'            nee'eeP,                      nuhu' betooot,
+\mb ci'            nee'ee-           P           nuhu' betooot
+\ge too            that-             pause/break this  dance
+\ps proclitic/part proclitic+prefix- P           det   ni.DEF.PP.INDP
+
+\tx noh  tih'ini,          niini'ootinee3i',
+\mb noh  tih-       'ini   nii-    ni'ootinee - 3i'
+\ge and  when.PAST- DETACH IMPERF- sing well  - 3PL
+\ps part prefix-    deriv  prefix- vai        - infl
+
+\tx teecxo'  heeneise'enou'utii3i'.
+\mb teecxo'  heeneise'enou'utii - 3i'
+\ge long ago get things ready   - 3PL
+\ps part     vai.t.REDUP        - infl
+
+\ELANBegin 58.080
+\ELANEnd 68.020
+\ELANParticipant 38
+\ft That too...this dance, and when...they sang, a long time ago they would 
+put a lot of effort into getting it ready.
+\Notes 
+
+\ref 47d.012
+\tx 'oh     hiiwoonhehe' kookon   hoowuuhu'.
+\mb 'oh     hiiwoonhehe' kookon   hoowuuhu'
+\ge but/and now          just any NEG
+\ps part    part         part     part.adv
+
+\ELANBegin 72.850
+\ELANEnd 74.610
+\ELANParticipant 38
+\ft But today there's just nothing.
+\Notes 
+
+\ref 47d.013
+\tx bisnoononih'i3i'               heeyouhuu.
+\mb bis-    noo-    nonih'i - 3i'  heeyouhuu
+\ge all-    REDUP-  forget  - 3PL  thing
+\ps prefix- prefix- vai     - infl ni.IMPOBJ.
+
+\ELANBegin 75.310
+\ELANEnd 76.910
+\ELANParticipant 38
+\ft They've all forgotten everything.
+\Notes 
+
+\ref 47d.014
+\tx 'oo.
+\mb 'oo
+\ge yes
+\ps part
+
+\ELANBegin 77.260
+\ELANEnd 77.730
+\ELANParticipant 58
+\ft Yes.
+\Notes 
+
+\ref 47d.015
+\tx neeneistoo3i',                      teecxo', nuhu'
+\mb neeneis-                 too - 3i'  teecxo'  nuhu'
+\ge what/how-                do  - 3PL  long ago this
+\ps prefix.rel.REDUP.IMPERF- vai - infl part     det
+
+\tx hoonou3oot,
+\mb hoonou3oot
+\ge Christmas
+\ps ni.DEF.IMPOBJ.
+
+\tx hoowohneyoo['uu]toneihi3i',               see3ibiini.
+\mb hoowoh-  neyoo'uutoneihi           - 3i'  see3ib- iini
+\ge IC.many- decorated/dressed up      - 3PL  pine-   DETACH
+\ps prefix-  vai.PASS                  - infl prefix- deriv
+
+\ELANBegin 78.040
+\ELANEnd 94.000
+\ELANParticipant 38
+\ft What they did long ago for Christmas, evergreens were really decorated 
+up.
+\Notes 
+
+\ref 47d.016
+\tx nih'ookonooneyei'it                         nenitee.
+\mb nih-    'ookonooneyei'i              - t    nenitee
+\ge PAST-   take vow to conduct ceremony - 3.S  person
+\ps prefix- vai.o                        - infl na.SBJCT
+
+\ELANBegin 95.350
+\ELANEnd 97.190
+\ELANParticipant 38
+\ft A person would take a vow [to hold a dance and decorate a tree].
+\Notes 
+
+\ref 47d.017
+\tx beh'eihoho      nih'iinoh'ouwoot.
+\mb beh'eihoho      nih'ii-      noh'ouw - oot
+\ge old men         PAST.IMPERF- invite  - 3S/4
+\ps na.pl.obv.UNDER prefix-      vta     - infl
+
+\ELANBegin 100.500
+\ELANEnd 102.490
+\ELANParticipant 38
+\ft He would invite some elders.
+\Notes 
+
+\ref 47d.018
+\tx biibi3ehi3i'     wo'ei3
+\mb biibi3ehi - 3i'  wo'ei3
+\ge pray      - 3PL  or
+\ps vai       - infl part
+
+\tx ne'niitneyoo['uu]toneihit.
+\mb ne'-       niit-                neyoo'uutoneihi           - t
+\ge that-      where-               decorated/dressed up      - 3.S
+\ps proclitic- prefix.rel.IMPERF-   vai.PASS                  - infl
+
+\ELANBegin 103.320
+\ELANEnd 108.280
+\ELANParticipant 38
+\ft They prayed, or that's where [the tree] was decorated.
+\Notes 
+
+\ref 47d.019
+\tx uhm.
+\mb uhm
+\ge uhm
+\ps particle
+
+\ELANBegin 108.460
+\ELANEnd 109.430
+\ELANParticipant 58
+\ft
+\Notes 
+
+\ref 47d.020
+\tx kookon   hoowuuni.
+\mb kookon   hoowuuni
+\ge just any no/not
+\ps part     prefix.det
+
+\ELANBegin 109.140
+\ELANEnd 110.300
+\ELANParticipant 38
+\ft There's just nothing [like that now].
+\Notes 
+
+\ref 47d.021
+\tx 'oh     hiiwoonhehe', ceneecei'soo'.
+\mb 'oh     hiiwoonhehe'  cenee-    cei'soo'
+\ge but/and now           IC.REDUP- different
+\ps part    part          pref-     vii
+
+\ELANBegin 111.340
+\ELANEnd 115.280
+\ELANParticipant 38
+\ft And today it's very different/all changed.
+\Notes 
+
+\ref 47d.022
+\tx hoowoe'ooP hoowoe'inowuu
+\mb            hoowoe'in  - owuu
+\ge            not know   - 3PL
+\ps            prefix+vti - infl
+
+\tx tih'ini           wonooniii'oo3i'.
+\mb tih-       'ini   wonooniii'oo        - 3i'
+\ge when.PAST- DETACH IC.young generation - 3PL
+\ps prefix-    deriv  vai/ni              - infl.SBJCT
+
+\ELANBegin 115.960
+\ELANEnd 120.200
+\ELANParticipant 38
+\ft The younger generation doesn't know about when [this was done].
+\Notes 
+
+\ref 47d.023
+\tx Howoo ne'P
+\mb howoo ne'-       P
+\ge also  that-      pause/break
+\ps part  proclitic- P
+
+\tx neyeih'in
+\mb ne-   yeih'                 - in
+\ge 1S-   home                  - 12POSS
+\ps infl- ni.oblposs+loc/plposs - infl.PP.LOC
+
+\tx nihco'oniini                      neisonoo.
+\mb nih-    co'on-  iini              ne-   isonoo
+\ge PAST-   always- get married (man) 1S-   father
+\ps prefix- prefix- vai               infl- na.obl.poss.SBJCT
+
+\ELANBegin 122.300
+\ELANEnd 125.360
+\ELANParticipant 38
+\ft My father always used to [do that] at our home too.
+\Notes Note intended either neyeih'inoo 'our home' (excl) or heyeih'in 'our home (incl).
+
+\ref 47d.024
+\tx hi'in                no'koohuuhoot            beh'eihehi'
+\mb hi'in                no'koohuuh        - oot  beh'eihehi'
+\ge that(aforementioned) bring over by car - 3S/4 old      man
+\ps det.ADJCT            vta               - infl na.UNDER
+
+\tx hoonino'        wo'ei3 wesP.
+\mb hoonino'        wo'ei3 wesP
+\ge porcupine quill or     -      ***
+\ps na.UNDER        part   -      ***
+
+\ELANBegin 127.360
+\ELANEnd 133.700
+\ELANParticipant 38
+\ft [for] that, he would fetch an old man, [such as] Quill or... {Quill was 
+Benny Goggles}.
+\Notes 
+
+\ref 47d.025
+\tx Nih'iico'oniini             biibi3ehi3i'
+\mb nih'ii-      co'on-  iini   biibi3ehi - 3i'
+\ge PAST.IMPERF- always- DETACH pray      - 3PL
+\ps prefix-      prefix- deriv  vai       - infl
+
+\tx nuhu' cei3wooono'.
+\mb nuhu' cei3wooo - no'
+\ge this  spirit   - NA.PL
+\ps det   na       - infl.DEF.IMPOBJ
+
+\ELANBegin 137.590
+\ELANEnd 141.450
+\ELANParticipant 38
+\ft They would always pray to these spirits.[??]
+\Notes 
+
+\ref 47d.026
+\tx Ne'nih'iini               neyoo['uu]toneet.
+\mb ne'-       nih-    'ini   neyoo'uuton         - eet
+\ge that-      PAST-   DETACH decorate/dress   up - 1PL/3
+\ps proclitic- prefix- deriv  vta                 - infl
+
+\ELANBegin 142.920
+\ELANEnd 147.210
+\ELANParticipant 38
+\ft Then we would decorate [the tree].
+\Notes 
+
+\ref 47d.027
+\tx noh  ne'cihciiteit                  neh'eeno hisee3,
+\mb noh  ne'-    cih-     ciitei - t    neh'eeno hisee3
+\ge and  then-   to here- enter  - 3.S  this     pine          tree
+\ps part prefix- prefix-  vai    - infl det.EMPH na.DEF.IMPOBJ
+
+\ELANBegin 148.330
+\ELANEnd 152.700
+\ELANParticipant 38
+\ft And then this tree entered [the house],
+\Notes 
+
+\ref 47d.028
+\tx hih'ow3o'uuni...
+\mb hih-         'ow3o'- uuni
+\ge 3S.PAST-     never-  DETACH
+\ps infl+prefix- prefix- deriv
+
+\ELANBegin 153.820
+\ELANEnd 155.100
+\ELANParticipant 38
+\ft they never...
+\Notes 
+
+\ref 47d.029
+\tx nihco'oniini           uhh,     live, nih'iico'oniini             you            know trees                      alive all  all  year long.
+\mb nih-    co'on-  iini   uhh      live  nih'ii-      co'on-  iini   you            know trees                      alive all  all  year long
+\ge PAST-   always- DETACH uhh      live  PAST.IMPERF- always- DETACH you            know trees                      alive all  all  year long
+\ps prefix- prefix- deriv  particle ENGL  prefix-      prefix- deriv  ENG.VENG.SBJCT ENG  ENGL.VENGL???SBJCT ENGL  ENGL ENGL ENGL ENGL
+
+\ELANBegin 159.670
+\ELANEnd 168.270
+\ELANParticipant 38
+\ft they always uhh, live, it was always an evergreen tree.
+\Notes 
+
+\ref 47d.030
+\tx uhm,     uhm-hmm.
+\mb uhm      uhm-hmm
+\ge uhm      uhm-hmm
+\ps particle PART
+
+\ELANBegin 168.260
+\ELANEnd 169.560
+\ELANParticipant 58
+\ft
+\Notes 
+
+\ref 47d.031
+\tx ne'nii'tonouneihit.
+\mb ne'-       nii'-        tonoun - eihi      - t
+\ge that-      when.IMPERF- use    - PASS      - 3.S
+\ps proclitic- prefix-      vta    - deriv.vai - infl
+
+\ELANBegin 174.170
+\ELANEnd 176.110
+\ELANParticipant 38
+\ft That's when it was used.
+\Notes 
+
+\ref 47d.032
+\tx Ne'nih'iisinihii3i'.
+\mb ne'-       nih'iisi-          nihii - 3i'
+\ge that-      PAST.what/how-     say   - 3PL
+\ps proclitic- prefix+prefix.rel- vai   - infl
+
+\ELANBegin 181.930
+\ELANEnd 183.390
+\ELANParticipant 38
+\ft That's what they said.
+\Notes 
+
+\ref 47d.033
+\tx Noh  ne'cihciiteneit                     ho'oowuu'.
+\mb noh  ne'-    cih-     ciiten      - eit  ho'oowuu'
+\ge and  then-   to here- take inside - 4/3S house
+\ps part prefix- prefix-  vta         - infl ni.loc.LOC
+
+\ELANBegin 184.440
+\ELANEnd 187.160
+\ELANParticipant 38
+\ft And then they brought the tree inside the house.
+\Notes 
+
+\ref 47d.034
+\tx Nih'onobee'                 nuh'uuno.
+\mb nih-    'onobee      - '    nuh'uuno
+\ge PAST-   joyous/merry - 0S   this
+\ps prefix- vii          - infl det.EMPH.SBJCT
+
+\ELANBegin 188.180
+\ELANEnd 189.910
+\ELANParticipant 38
+\ft It was a happy occasion.
+\Notes 
+
+\ref 47d.035
+\tx Hoonou3oot  Nih'ii3i'
+\mb hoonou3oot  nih-    'ii  - 3i'
+\ge Christmas   PAST-   said - 3PL
+\ps ni.PP.ADJCT prefix- vai  - infl
+
+\ELANBegin 191.030
+\ELANEnd 192.580
+\ELANParticipant 38
+\ft Hanging [of decorations] they said.
+\Notes 
+
+\ref 47d.036
+\tx Neyoo['uu]toneihit.
+\mb neyoo'uutoneihi             - t
+\ge decorated/dressed   up      - 3.S
+\ps vai.PASS                    - infl
+
+\ELANBegin 194.030
+\ELANEnd 195.440
+\ELANParticipant 38
+\ft It was decorated.
+\Notes 
+
+\ref 47d.037
+\tx Neeneisinihii3i'.
+\mb neeneisi-                nihii - 3i'
+\ge what/how-                say   - 3PL
+\ps prefix.redup.IMPERF.rel- vai   - infl
+
+\ELANBegin 200.410
+\ELANEnd 201.640
+\ELANParticipant 38
+\ft That's what they say.
+\Notes 
+
+\ref 47d.038
+\tx Niineyeiwoowonoote'inowoo.
+\mb nii-    neyei-  woo-    wonoote'in - owoo
+\ge IMPERF- try-    REDUP-  remember   - 1S
+\ps prefix- prefix- prefix- vti        - infl
+
+\ELANBegin 201.640
+\ELANEnd 203.400
+\ELANParticipant 38
+\ft I try to remember all that.
+\Notes 
+
+\ref 47d.039
+\tx uhm-hmm. Hoonou3oot.  Nuh'uuno dances.
+\mb uhm-hmm  hoonou3oot   nuh'uuno dances
+\ge uhm-hmm  Christmas    this     dances
+\ps PART     ni.#V.OBJCT. det.EMPH ENGL.#V.DEF.OBJCT.
+
+\ELANBegin 206.510
+\ELANEnd 210.380
+\ELANParticipant 58
+\ft Christmas. These dances.
+\Notes 
+
+\ref 47d.040
+\tx uhm-hmm.
+\mb uhm-hmm
+\ge uhm-hmm
+\ps PART
+
+\ELANBegin 210.330
+\ELANEnd 211.000
+\ELANParticipant 38
+\ft
+\Notes 
+
+\ref 47d.041
+\tx koobeexo'niihi'              somebody,
+\mb koo-       beexo'- n - iihi' somebody
+\ge INTERR-    only-   ? - ADV   somebody
+\ps proclitic- prefix- ? - deriv ENGL.#V???
+
+\tx bells,
+\mb bells
+\ge bells
+\ps ENGL#V.???
+
+\ELANBegin 210.930
+\ELANEnd 214.340
+\ELANParticipant 58
+\ft ??? somebody, bells,
+\Notes 
+
+\ref 47d.042
+\tx nih'ookonooneyei'it                         nenitee.
+\mb nih-    'ookonooneyei'i              - t    nenitee
+\ge PAST-   take vow to conduct ceremony - 3.S  person
+\ps prefix- vai.o                        - infl na.SBJCT.
+
+\ELANBegin 216.470
+\ELANEnd 218.440
+\ELANParticipant 38
+\ft A person would take a vow [to put on a dance].
+\Notes 
+
+\ref 47d.043
+\tx uhm-hmm.
+\mb uhm-hmm
+\ge uhm-hmm
+\ps PART
+
+\ELANBegin 218.360
+\ELANEnd 219.350
+\ELANParticipant 58
+\ft
+\Notes 
+
+\ref 47d.044
+\tx ci'nih'ini                      woo3eeni'i,
+\mb ci'            - nih-    'ini   woo3eeni - 'i
+\ge too            - PAST-   DETACH many     - 0.PL
+\ps proclitic/part - prefix- deriv  vii      - infl
+
+\tx wooteexoo3i'         neniteeno.
+\mb wooteex      - oo3i' nenitee - no
+\ge IC.honor (?) - 3PL/4 person  - OBV.PL
+\ps vta          - infl  na      - infl.UNDER.
+
+\ELANBegin 221.500
+\ELANEnd 226.530
+\ELANParticipant 38
+\ft There were a lot of them too, they honored people [at these dances].
+\Notes 
+
+\ref 47d.045
+\tx At   that memorial.
+\ps ENGL ENGL ENGL.#V.DEF.LOC
+\ELANBegin 227.140
+\ELANEnd 228.630
+\ELANParticipant 38
+\ft
+\Notes 
+
+\ref 47d.046
+\tx Nihwoo3ee'       nuh'uuno                ahh      ???,
+\mb nih-    woo3ee'  nuh'uuno                ahh      *???,
+\ge PAST-   be a lot this                    ahh      ***
+\ps prefix- vii      det.EMPH.SBJCT.2V.SBJCT particle ***
+
+\tx wohoe'iisih'i                co'oniini.
+\mb wohoe'-    iis-        ih'i  co'on-  iini
+\ge DUBIT-     what/how-   named always- DETACH
+\ps proclitic- prefix.rel- vai   prefix- deriv
+
+\ELANBegin 230.330
+\ELANEnd 235.310
+\ELANParticipant 38
+\ft There was a lot of this, ahh, what-you-call-it, always.
+\Notes 
+
+\ref 47d.047
+\tx uhm-hmm.
+\mb uhm-hmm
+\ge uhm-hmm
+\ps PART
+
+\ELANBegin 235.350
+\ELANEnd 236.020
+\ELANParticipant 58
+\ft
+\Notes 
+
+\ref 47d.048
+\tx 'oh     woow     hinee
+\mb 'oh     woow     hinee
+\ge but/and now.PERF that
+\ps part    part     det.PP.LOC
+
+\tx niitbii3ihiitooni',                     New
+\mb niit-              bii3ihiitooni - '    new
+\ge where-             people eat    - 0S   new
+\ps prefix.rel.IMPERF- vai.impers    - infl ENGL
+
+\tx Year's, Christmas, feast
+\mb year's  christmas  feast
+\ge year's  christmas  feast
+\ps ENGL    ENGL       ENGL.IMPOBJ.
+
+\tx nih'ii3i'.
+\mb nih-    'ii  - 3i'
+\ge PAST-   said - 3PL
+\ps prefix- vai  - infl
+
+\ELANBegin 238.610
+\ELANEnd 245.950
+\ELANParticipant 38
+\ft And now that [place] where they eat, New Year's, Christmas, a feast 
+they said.
+\Notes 
+
+\ref 47d.049
+\tx 'oh     henee3neeniini'oo'.
+\mb 'oh     henee3nee- nii-    ni'oo'
+\ge but/and IC.very-   REDUP-  good
+\ps part    prefix-    prefix- vii
+
+\ELANBegin 247.020
+\ELANEnd 248.550
+\ELANParticipant 38
+\ft And it was really good.
+\Notes 
+
+\ref 47d.050
+\tx Nih'iiwoo3ee'.
+\mb nih'ii-      woo3ee'
+\ge PAST.IMPERF- be a lot
+\ps prefix-      vii
+
+\ELANBegin 249.770
+\ELANEnd 251.050
+\ELANParticipant 38
+\ft There was a lot of that.
+\Notes 
+
+\ref 47d.051
+\tx 'oh     huut wooniini
+\mb 'oh     huut woon-        iini
+\ge but/and here most recent- DETACH
+\ps part    part prefix-      deriv
+
+\tx ne'cihwonP                           last year
+\mb ne'-    cih-     won-    P           last year
+\ge then-   to here- ALLAT-  pause/break last year
+\ps prefix- prefix-  prefix- P           ENGL ENGL.SBJCT
+
+\tx cihwonno'useenoo'
+\mb cih-     won-    no'useenoo - '
+\ge to here- ALLAT-  arrive     - 0S
+\ps prefix-  prefix- vii        - infl
+
+\ELANBegin 253.840
+\ELANEnd 258.010
+\ELANParticipant 38
+\ft And here recently, then last year [the time for this] arrived.
+\Notes 
+
+\ref 47d.052
+\tx Beenhehe' neniteeno'      heeneentoo3i',
+\mb beenhehe' neniteeno'      heeneentoo               - 3i'
+\ge a little  people          wherever present/located - 3PL
+\ps part      na.pl.PP.SBJCT. vai.REDUP                - infl
+
+\ELANBegin 258.190
+\ELANEnd 260.490
+\ELANParticipant 38
+\ft just a few people were there,
+\Notes 
+
+\ref 47d.053
+\tx beebeet   bii3hiitooni',       hoowuuni,
+\mb beebeet   bii3ihiitooni - '    hoowuuni
+\ge just/only people eat    - 0S   no/not
+\ps part      vai.impers    - infl prefix.det
+
+\ELANBegin 260.490
+\ELANEnd 262.350
+\ELANParticipant 38
+\ft They just ate. There were no
+\Notes 
+
+\ref 47d.054
+\tx beebetoeeheti3i'
+\mb bee-    betoeeheti                      - 3i'
+\ge REDUP-  have honor dance for each other - 3PL
+\ps prefix- vai.recip                       - infl
+
+\tx niibootno;               bisiini
+\mb niiboot - no             bis-    iini
+\ge song    - NI.PL          all-    DETACH
+\ps ni      - infl.#V.SBJCT. prefix- deriv
+
+\tx ceecei'sou'u.
+\mb cee-    cei'sou'          - u
+\ge REDUP-  different/various - 0.PL
+\ps prefix- vii+pl            - infl
+
+\ELANBegin 265.180
+\ELANEnd 270.410
+\ELANParticipant 38
+\ft honoring dances or songs; everything has changed.
+\Notes 
+
+\ref 47d.055
+\tx uhm-hmm.
+\mb uhm-hmm
+\ge uhm-hmm
+\ps PART
+
+\ELANBegin 270.390
+\ELANEnd 270.990
+\ELANParticipant 58
+\ft
+\Notes 
+
+\ref 47d.056
+\tx heenentou'u,
+\mb heen-   entou'     - u
+\ge REDUP-  be located - 0.PL
+\ps prefix- vii        - infl
+
+\tx nihtootonouno'.
+\mb nih-    too-    tonoun - o'
+\ge PAST-   REDUP-  use    - 3S
+\ps prefix- prefix- vti    - infl
+
+\ELANBegin 270.960
+\ELANEnd 273.120
+\ELANParticipant 38
+\ft They were around, he[leader] used them.
+\Notes 
+
+\ref 47d.057
+\tx Hiiwoonhehe'
+\mb hiiwoonhehe'
+\ge now
+\ps part
+
+\tx tih'eenesooku'oonoo,                 'oh
+\mb tih-       'een-   esooku'oo  - noo  'oh
+\ge when.PAST- REDUP-  watch s.t. - 1S   but/and
+\ps prefix-    prefix- vai        - infl part
+
+\tx hoowu'un.
+\mb hoowuuni
+\ge no/not
+\ps prefix.det
+
+\tx nihbi'bii3hiitooni',
+\mb nih-    bi'-    bii3ihiitooni - '
+\ge PAST-   just-   people eat    - 0S
+\ps prefix- prefix- vai.impers    - infl
+
+\tx ne'cesisooneyeixootiini'.
+\mb ne'-    cesis-  eeneyeixootiini                      - '
+\ge then-   begin-  people   are walking apart/departing - 0S
+\ps prefix- prefix- vii.IMPERS                           - infl
+
+\ELANBegin 277.690
+\ELANEnd 287.030
+\ELANParticipant 38
+\ft Now when I went to watch, there was none of that. They just ate, and 
+then everyone started to leave.
+\Notes 
+
+\ref 47d.058
+\tx nihno'eeckoohuutooni',                       XXX.
+\mb nih-    no'eeckoohuutooni             - '    *XXX
+\ge PAST-   people arrive back home       - 0S   ***
+\ps prefix- vii.impers                    - infl ***
+
+\ELANBegin 286.900
+\ELANEnd 288.890
+\ELANParticipant 58
+\ft They all went home.
+\Notes 
+
+\ref 47d.059
+\tx nii3oo3oxonoohobeti3i'                                        hiiwoonhehe'.
+\mb nii-    3oo-    3oxon-            noohobeti            - 3i'  hiiwoonhehe'
+\ge IMPERF- REDUP-  mean/cruel/harsh- look at each other   - 3PL  now
+\ps prefix- prefix- prefix-           vai.recip            - infl part
+
+\ELANBegin 289.580
+\ELANEnd 292.120
+\ELANParticipant 58
+\ft Today they [just sit around] looking at each other in a mean way.
+\Notes 
+
+\ref 47d.060
+\tx hiiwoonhehe',
+\mb hiiwoonhehe'
+\ge now
+\ps part
+
+\tx nii3oo3oxonoohobetiitooni'.
+\mb nii-    3oo-    3oxon-            noohobetiitooni                  - '
+\ge REDUP-  REDUP-  mean/cruel/harsh- people are looking at each other - 0S
+\ps prefix- prefix- prefix-           vii.IMPERS                       - infl
+
+\ELANBegin 291.160
+\ELANEnd 293.860
+\ELANParticipant 38
+\ft Yeah, today they just sit around looking at each other in a mean way. 
+{Note approving repetition of preceding funny phrase}
+\Notes 
+
+\ref 47d.061
+\tx Hoowoohneeneniniixoo3etiitoon.
+\mb hoowooh-   nee-    neniniixoo3etiitooni
+\ge no longer- REDUP-  people are shaking hands
+\ps prefix-    prefix- vii.IMPERS
+
+\ELANBegin 295.260
+\ELANEnd 297.710
+\ELANParticipant 38
+\ft People don't shake hands anymore.
+\Notes 
+
+\ref 47d.062
+\tx Nihco'onnii3P
+\mb nih-    co'on-  nii3-   P
+\ge PAST-   always- with-   pause/break
+\ps prefix- prefix- prefix- P
+
+\tx auxiliary,        tih'entoot,
+\mb auxiliary         tih-       'entoo      - t
+\ge women's auxiliary when.PAST- located at  - 3.S
+\ps ENGL.PP.SBJCT.    prefix-    vai         - infl
+
+\ELANBegin 303.830
+\ELANEnd 307.640
+\ELANParticipant 38
+\ft We always took part, the Women's Auxiliary, when it was around,
+\Notes 
+
+\ref 47d.063
+\tx uhm-hmm
+\mb uhm-hmm
+\ge uhm-hmm
+\ps PART
+
+\ELANBegin 307.470
+\ELANEnd 308.310
+\ELANParticipant 58
+\ft
+\Notes 
+
+\ref 47d.064
+\tx tihnii3P                       tih'entou'.
+\mb tih-       nii3-   P           tih-       'entou'
+\ge when.PAST- with-   pause/break when.PAST- be located
+\ps prefix-    prefix- P           prefix-    vii
+
+\ELANBegin 307.730
+\ELANEnd 309.230
+\ELANParticipant 38
+\ft When we took part, when it was around.
+\Notes 
+
+\ref 47d.065
+\tx Memorial Club.
+\ps ENGL.    ENGL.#V.LOC
+\ELANBegin 309.950
+\ELANEnd 311.230
+\ELANParticipant 38
+\ft
+\Notes 
+
+\ref 47d.066
+\tx Ne'niitP                                  hi'in
+\mb ne'-       niit-              P           hi'in
+\ge that-      where-             pause/break that(aforementioned)
+\ps proclitic- prefix.rel.IMPERF- P           det.PP.SBJCT.
+
+\tx nihbii3bee3i'.
+\mb nih-    bii3bee - 3i'
+\ge PAST-   cook    - 3PL
+\ps prefix- vai     - infl
+
+\ELANBegin 312.500
+\ELANEnd 314.460
+\ELANParticipant 38
+\ft That's where, those [women] cooked [for everyone].
+\Notes 
+
+\ref 47d.067
+\tx Right around Christmas or New Years.
+\ELANBegin 316.510
+\ELANEnd 320.260
+\ELANParticipant 38
+\ft
+\Notes 
+
+\ref 47d.068
+\tx uhm-hmm.
+\mb uhm-hmm
+\ge uhm-hmm
+\ps PART
+
+\ELANBegin 320.240
+\ELANEnd 321.080
+\ELANParticipant 58
+\ft
+\Notes 
+
+\ref 47d.069
+\tx nih'onobee',
+\mb nih-    'onobee      - '
+\ge PAST-   joyous/merry - 0S
+\ps prefix- vii          - infl
+
+\tx tih'oonoxoehetit,
+\mb tih-       'oon-   oxoeheti              - t
+\ge when.PAST- REDUP-  make each other laugh - 3.S
+\ps prefix-    prefix- vai.recip             - infl
+
+\tx tihbii3wooni'.
+\mb tih-       bii3woo   - ni'
+\ge when.PAST- book      - 1PL
+\ps prefix-    vai + 1PL - infl
+
+\ELANBegin 323.730
+\ELANEnd 330.790
+\ELANParticipant 38
+\ft It was joyous, when they made each other laugh, when we cooked.
+\Notes 
+
+\ref 47d.070
+\tx nooxeihi' tih'ini           neinoo                noh  neneeninoo              wooce',          nihnoobe', White O  and those guys,
+\mb nooxeihi' tih-       'ini   neinoo                noh  neneeni-  noo           wooce'
+\ge maybe     when.PAST- DETACH 1S.mother             and  IC.it is- 1S            you know that...
+\ps part      prefix-    deriv  infl+oblposs.#V.SBJCT part vai-/na   infl.#V.SBJCT part
+
+\ELANBegin 332.060
+\ELANEnd 340.970
+\ELANParticipant 58
+\ft Maybe when my mother and I you know, ??? White O [Goggles] and those 
+guys, {These dances used to be an occasion for in-law teasing, making 
+each other laugh. Can't do that now, people get mad.}
+\Notes 
+
+\ref 47d.071
+\tx oh       yeah.
+\mb oh       yeah
+\ge oh       yeah
+\ps particle particle
+
+\ELANBegin 342.680
+\ELANEnd 343.810
+\ELANParticipant 38
+\ft
+\Notes 
+
+\ref 47d.072
+\tx hestoo.
+\mb hestoo
+\ge sure!
+\ps part
+
+\ELANBegin 342.950
+\ELANEnd 343.810
+\ELANParticipant 58
+\ft Yeah, you bet!
+\Notes 
+
+\ref 47d.073
+\tx nih'ii-niistonoo3i'
+\mb nih'ii-      niiston  - oo3i'
+\ge PAST.IMPERF- make for - 3PL/4
+\ps prefix-      vta      - infl
+
+\tx betooneibP
+\mb
+\ge
+\ps 
+
+\tx beteeneixo'ono.
+\mb beteen- eixo'o   - no
+\ge holy-   clothing - NI.PL
+\ps prefix- ni       - infl.SECOBJ.
+
+\ELANBegin 344.290
+\ELANEnd 349.160
+\ELANParticipant 38
+\ft They made him a dancing outfit. 
+\Notes {Out of cardboard and so forth, tied feathers on, meant to be laughable}
+
+\ref 47d.074
+\tx Tihcoocoo'obeti3i'                             teecxo'.
+\mb tih-       coo-    coo'obeti            - 3i'  teecxo'
+\ge when.PAST- REDUP-  tease each other     - 3PL  long ago
+\ps prefix-    prefix- vai.recip            - infl part
+
+\ELANBegin 351.170
+\ELANEnd 353.480
+\ELANParticipant 38
+\ft They teased each other back in the old days.
+\Notes 
+
+\ref 47d.075
+\tx 'oh     hiiwoonhehe' hoowuuni.
+\mb 'oh     hiiwoonhehe' hoowuuni
+\ge but/and now          no/not
+\ps part    part         prefix.det
+
+\ELANBegin 355.610
+\ELANEnd 356.930
+\ELANParticipant 38
+\ft But they don't [do] that today.
+\Notes 
+
+\ref 47d.076
+\tx Nee'eesih[ot]ehk               nenitee,
+\mb nee'eesih       - ot    - ehk  nenitee
+\ge do thus to s.o. - 2S/3S - SUBJ person
+\ps vta.rel         - infl  - infl na.UNDER.
+
+\tx heetniini      hesnoneenoo'oot.
+\mb heetni- ini    hesnoneenoo'oo - t
+\ge FUT-    DETACH get angry      - 3.S
+\ps prefix- deriv  vai            - infl
+
+\ELANBegin 356.960
+\ELANEnd 359.950
+\ELANParticipant 38
+\ft If you do that to a person today, he will get angry.
+\Notes 
+
+\ref 47d.077
+\tx 'oh     nih'ooP, nih'oonobee',
+\mb 'oh              nih-    'onobee       - '
+\ge but/and          PAST-   joyous/merry  - 0S
+\ps part             prefix- vii           - infl
+
+\tx nihco'oncoo'obeti3i'.
+\mb nih-    co'on-  coo'obeti            - 3i'
+\ge PAST-   always- tease each other     - 3PL
+\ps prefix- prefix- vai.recip            - infl
+
+\ELANBegin 362.010
+\ELANEnd 366.260
+\ELANParticipant 38
+\ft But it was joyous, they always teased each other.
+\Notes 
+
+\ref 47d.078
+\tx Neinoo,               nihbiinoot          heinoo,                 noh
+\mb neinoo                nih-    biin - oot  he-   inoo              noh
+\ge 1S.mother             PAST-   give - 3S/4 2S-   mother            and
+\ps infl+oblposs.PP.AGENT prefix- vta  - infl infl- na.oblposs.UNDER. part
+
+\tx uhh      Anita          heinoo,              teecxo'
+\mb uhh      anita          he- inoo             teecxo'
+\ge uhh      anita          2S- mother           long ago
+\ps particle ENGL.UNDER infl-   na.oblposs.UNDER part
+
+\tx hi'in                can-cans              wooce'.
+\mb hi'in                can-cans              wooce'
+\ge that(aforementioned) can-can dancer outfit you know that...
+\ps det                  ENGL.DEF.SECOBJ       part
+
+\ELANBegin 366.840
+\ELANEnd 375.900
+\ELANParticipant 58
+\ft My mother gave your mother, and uhh, Anita your mother, a long time 
+ago, those can-can skirts, you know. 
+\Notes {A kind of hoop to make skirts stick out}
+
+\ref 47d.079
+\tx Can-cans              he'ii3ou'u.
+\mb can-cans              he'ii3ou'u
+\ge can-can dancer outfit something
+\ps ENGL.#V.SECOBJ        vii/ni.ITER.#V.SECOBJ.
+
+\ELANBegin 381.510
+\ELANEnd 383.290
+\ELANParticipant 38
+\ft Can-cans or something. 
+\Notes {They called people out onto the dance floor and dressed them}
+
+\ref 47d.080
+\tx Cologne,       White             O.  
+\ps ENGL.#V.SECOBJ ENGL.#V.SECOBJ???
+
+\ELANBegin 387.170
+\ELANEnd 389.140
+\ELANParticipant 58
+\ft
+\Notes {This was given as a gag gift, suggesting the person needed to smell better.}
+
+\ref 47d.081
+\tx Yeah,
+\mb yeah
+\ge yeah
+\ps particle
+
+\tx nihnoononowutootiini'
+\mb nih-    noon-          onowutootiini                  - '
+\ge PAST-   REDUP-         people are enjoying themselves - 0S
+\ps prefix- prefix.IMPERF- vii.IMPERS                     - infl
+
+\tx teecxo'. Hiiwoonhehe' kookon   hoowuuni.
+\mb teecxo'  hiiwoonhehe' kookon   hoowuuni
+\ge long ago now          just any no/not
+\ps part     part         part     prefix.det
+
+\ELANBegin 389.990
+\ELANEnd 397.530
+\ELANParticipant 38
+\ft Yeah they really had a good time long ago. Today there's just none of 
+that.
+\Notes 
+
+\ref 47d.082
+\tx Wonnottonohowoonoo
+\mb won-    nottonohowoo                - noo
+\ge ALLAT-  order for oneself (by mail) - 1S
+\ps prefix- vai.selfb                   - infl
+
+\tx hini'iitiino                can-cans
+\mb hini'iitiino                can-cans
+\ge that (aforementioned) there can-can          dancer outfit
+\ps det.EMPH                    ENGL.DEF.IMPOBJ
+
+\tx ni'ii3ooninoo.
+\mb ni'ii3oon           - inoo
+\ge thing called        - pers.PL
+\ps ni.DEPPART + PLPOSS - infl.IMPOBJ
+
+\ELANBegin 400.460
+\ELANEnd 405.110
+\ELANParticipant 38
+\ft I went and ordered those can-cans, as they call them.
+\Notes 
+
+\ref 47d.083
+\tx No'koohuunoo'.
+\mb no'koohuunoo       - '
+\ge brought by vehicle - 0S
+\ps vii.PASS           - infl
+
+\ELANBegin 405.610
+\ELANEnd 406.940
+\ELANParticipant 38
+\ft [The box] arrived.
+\Notes 
+
+\ref 47d.084
+\tx Neisonoo                 nih'iit,            heeyou
+\mb ne-   isonoo             nih-    'ii  - t    heeyou
+\ge 1S-   father             PAST-   said - 3.S  what (is it?)
+\ps infl- na.obl.poss.SBJCT. prefix- vai  - infl pseudovii.INTERR
+
+\tx nih'iit,            koolampshade
+\mb nih-    'ii  - t    koo-       lampshade
+\ge PAST-   said - 3.S  INTERR-    lampshade
+\ps prefix- vai  - infl proclitic- ENGL.PRED???
+
+\tx nih'iit.
+\mb nih-    'ii  - t
+\ge PAST-   said - 3.S
+\ps prefix- vai  - infl
+
+\ELANBegin 407.990
+\ELANEnd 411.040
+\ELANParticipant 38
+\ft My father said, what is this, he said, is it a lampshade, he said.
+\Notes 
+
+\ref 47d.085
+\tx Kooneetoniinoo?
+\mb koo-       ne-   et-     oniinoo
+\ge INTERR-    1S-   FUT-    ???
+\ps proclitic- infl- prefix- ???
+
+\ELANBegin 412.810
+\ELANEnd 414.110
+\ELANParticipant 38
+\ft ???
+\Notes 
+
+
+\ELANMediaURL file:///G:/ELDP/47/47d/47d Audio.wav
+\ELANMediaMIME audio/x-wav
+\ELANMediaURL file:///G:/ELDP/47/47d/47d.avi
+\ELANMediaMIME video/*

@@ -1,0 +1,49 @@
+\documentclass[11pt]{article}
+\usepackage{acl2016}
+\usepackage{geometry}
+ \geometry{top=2.4in}
+\usepackage{times}
+\usepackage{url}
+\usepackage{latexsym}
+\usepackage{url}
+\usepackage{graphicx}
+\usepackage{changepage}
+\usepackage{multirow}
+\usepackage{amssymb}
+\usepackage{pifont}
+\newcommand{\cmark}{\ding{51}}%
+\newcommand{\xmark}{\ding{55}}%
+\usepackage{array}
+\renewcommand{\arraystretch}{1.2}
+\usepackage{tikz-dependency}
+\usepackage{gb4e}
+\exewidth{(\thexnumi)}
+\aclfinalcopy
+\setlength\titlebox{5cm}
+
+\title{Applying Universal Dependency to the Arapaho Language}
+\author{Irina Wagner\\
+  University of Colorado Boulder\\
+  Department of Linguistics\\
+  {\tt irina.wagner@colorado.edu} \\\And
+  Andrew Cowell \\
+  University of Colorado Boulder \\
+  Department of Linguistics \\
+  {\tt james.cowell@colorado.edu} \\ 
+  \And
+  Jena D. Hwang\\
+  IHMC\\
+  {\tt jhwang@ihmc.us}}
+\date{}
+
+\begin{document}
+\maketitle
+
+\nocite{Marneffe2008,ud2014,Tsarfaty2013,Haverinen2014,Lipenkova2014,Nivre2015,Hajicova2015,Osborne2015,Cow08,Marneffe2014,McDonald2013,Goddard1984}  
+
+\bibliographystyle{acl}
+\bibliography{Dependency}
+
+
+
+\end{document}

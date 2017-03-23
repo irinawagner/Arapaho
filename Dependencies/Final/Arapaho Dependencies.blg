@@ -1,0 +1,48 @@
+This is BibTeX, Version 0.99d (TeX Live 2015)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: Arapaho Dependencies.aux
+The style file: acl.bst
+Database file #1: Dependency.bib
+Warning--to sort, need author or key in Marneffe2010
+You've used 12 entries,
+            2490 wiz_defined-function locations,
+            632 strings with 7299 characters,
+and the built_in function-call counts, 5913 in all, are:
+= -- 628
+> -- 244
+< -- 8
++ -- 85
+- -- 85
+* -- 416
+:= -- 902
+add.period$ -- 48
+call.type$ -- 12
+change.case$ -- 89
+chr.to.int$ -- 12
+cite$ -- 14
+duplicate$ -- 256
+empty$ -- 429
+format.name$ -- 99
+if$ -- 1281
+int.to.chr$ -- 1
+int.to.str$ -- 0
+missing$ -- 11
+newline$ -- 73
+num.names$ -- 35
+pop$ -- 113
+preamble$ -- 1
+purify$ -- 102
+quote$ -- 0
+skip$ -- 220
+stack$ -- 0
+substring$ -- 320
+swap$ -- 93
+text.length$ -- 8
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 92
+warning$ -- 1
+while$ -- 49
+width$ -- 16
+write$ -- 170
+(There was 1 warning)

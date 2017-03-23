@@ -1,0 +1,13 @@
+Arapaho is a poly-synthetic agglutinating language that belongs to the Algonquian language family. Because the language is in critical condition having less than two hundred native fluent speakers, there have been attempts at documenting and preserving the language. As a result, today this language boasts the largest annotated corpus of spoken and written data among other ``dying'' languages. One of the most recent initiatives is aimed at syntactic dependency annotations for further implementation to a natural processing program such as Sketch Engine or Tree Bank. 
+    
+    As for the language itself, a few important remarks need to be made. As a poly-synthetic language, Arapaho marks most of its important information on verbs. A single verb can be the only word in the clause but at the same time it can also specify its own arguments %(example with an icorporation). 
+Verbs in Arapaho belong to one of the four categories: intransitive inanimate verbs (\textsc{vii}; verbs that only have one argument, subject, which is represented by an inanimate nominal), intransitive animate (\textsc{vai}; intransitive verbs that have an animate nominal as their subject), transitive animate (\textsc{vta}; transitive verbs that have animate object-like argument), and transitive inanimate (\textsc{vti}; transitive verbs that have inanimate object-like arguments). However, transitivity in Arapaho is not just a syntactic distinction, but also a semantic one. So a \textsc{vii} or {vai} verb may still be semantically transitive and even have overt object-like arguments. For example,
+\begin{exe}
+\ex \label{vai.o} \textit{Semantically transitive verb.}
+\gll {nih'ii-koo-ko'uyei-3i'} biino\\
+{\textsc{pst.impf}-\textsc{redup}-pick things-3\textsc{pl}}  chokecherries\\
+\trans{\textit{``They were picking chokecherries.''}}
+\end{exe}
+In example (\ref{vai.o}), the verb \textit{nih'iikooko'uyei3i'} ``they were picking something'' is intransitive because it does not index argument other than the subject, \textit{-3i'} ``they''. Transitive verbs are different morphologically and do not indicate another argument in the clause. 
+
+Overt arguments are rare in this language \cite{Cow08}, and usually only one, if any, would appear for transitive verbs. 

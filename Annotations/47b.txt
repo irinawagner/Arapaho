@@ -1,0 +1,1343 @@
+\_sh v3.0  400  Text
+
+\id 47b
+
+\ref 47b.001
+\tx that Bible,
+\mb that bible
+\ge that bible
+\ps ENG  ENGL.#V.DEF.INDP???
+
+\tx neih'ii3ooninoo.
+\mb neih-        'ii3oon             - inoo
+\ge 1S.PAST-     thing called...     - pers.PL
+\ps infl+prefix- na.DEPPART + PLPOSS - infl.#V.INDP???
+
+\ELANBegin 3.800
+\ELANEnd 5.390
+\ELANParticipant 38
+\ft That Bible, as we call it.
+\notes 
+
+\ref 47b.002
+\tx Other books             neeneentou'u.
+\mb other books             neen-          eentou'    - u
+\ge other books             REDUP-         be located - 0.PL
+\ps ENGL  ENGL.DEF.PP.SBJCT prefix.IMPERF- vii        - infl
+
+\ELANBegin 7.100
+\ELANEnd 8.960
+\ELANParticipant 38
+\ft There are other books.
+\notes 
+
+\ref 47b.003
+\tx “XXX 'oh     hetneihoownee'eestoo,”
+\mb *XXX   'oh     hetneihoow-         nee'ees-              too
+\ge ***    but/and 3S.FUT.NEG-         thus-                 do
+\ps ***    part    infl+prefix+prefix- proclitic+prefix.rel- vai
+
+\tx nih'ii3i'.
+\mb nih-    'ii  - 3i'
+\ge PAST-   said - 3PL
+\ps prefix- vai  - infl
+
+\ELANBegin 10.690
+\ELANEnd 15.490
+\ELANParticipant 38
+\ft “But you can't do it like that,” they said.
+\notes 
+
+\ref 47b.004
+\tx Nuh'uuno
+\mb nuh'uuno
+\ge this
+\ps det.EMPH.PP.ADJCT
+
+\tx neeneishowoo'oono'.
+\mb neeneis-                 howoo'oo                 - no'
+\ge what/how-                perform worship/ceremony - 12
+\ps prefix.rel.REDUP.IMPERF- vai                      - infl
+
+\ELANBegin 16.630
+\ELANEnd 19.300
+\ELANParticipant 38
+\ft The way we conduct ceremonies.
+\notes 
+
+\ref 47b.005
+\tx Biibi3ehiitooni'          nuhu'
+\mb biibi3ehiitooni    - '    nuhu'
+\ge people are praying - 0S   this
+\ps vii.impers         - infl det.PP.SBJCT
+
+\tx nee'eetou'u.
+\mb nee'eetou'                  - u
+\ge that is where it is located - 0.PL
+\ps vii.rel                     - infl
+
+\ELANBegin 20.850
+\ELANEnd 23.040
+\ELANParticipant 38
+\ft One prays, that's where the language is.
+\notes 
+
+\ref 47b.006
+\tx “Heetneihoowuni'ciitei              nuhu' ciibeet,    wo3onohoe,” nih'ii3i'.
+\mb heetneihoowu-        - ni'-    ciitei nuhu' ciibeet     wo3onohoe     nih-    'ii  - 3i'
+\ge 2.FUT.NEG-           - able-   enter  this  sweat lodge book          PAST-   said - 3PL
+\ps infl+prefix+prefix-  - prefix- vai    det   ni.DEF.LOC  ni.ADJCT?     prefix- vai  - infl
+
+\ELANBegin 26.400
+\ELANEnd 30.850
+\ELANParticipant 38
+\ft “You can't go in the sweat lodge with a book,” they said.
+\notes 
+
+\ref 47b.007
+\tx uhm-hmm.
+\mb uhm-hmm
+\ge uhm-hmm
+\ps PART
+
+\ELANBegin 30.850
+\ELANEnd 31.570
+\ELANParticipant 58
+\ft
+\notes 
+
+\ref 47b.008
+\tx wo'ei3 nuhu'      beteenP
+\mb wo'ei3 nuhu'      beteen- P
+\ge or     this       holy-   pause/break
+\ps part   det.#V.LOC prefix- P
+
+\ELANBegin 31.050
+\ELANEnd 32.190
+\ELANParticipant 38
+\ft Or this holy [ceremony]...
+\notes 
+
+\ref 47b.009
+\tx neeneisbeteentooni',                      hetneihoowuuniiwouh'unowuu                    wo3onohoe.
+\mb neeneis-                 beteentoo - ni'  hetneihoow-         uu-     niiwouh'un - owuu wo3onohoe
+\ge what/how-                worship   - 1PL  3S.FUT.NEG-         IMPERF- hold/carry - 3PL  book
+\ps prefix.rel.REDUP.IMPERF- vai       - infl infl+prefix+prefix- prefix- vti        - infl ni.OBJCT.
+
+\ELANBegin 32.290
+\ELANEnd 35.500
+\ELANParticipant 38
+\ft How they worship, they won't be able to bring a book along.
+\notes 
+
+\ref 47b.010
+\tx Ne'niisP
+\mb ne'-       niis-       P
+\ge that-      how.IMPERF- pause/break
+\ps proclitic- prefix.rel- P
+
+\tx ne'niisniitonou'u                               teecxo'.
+\mb ne'-       niis-       niiton          - ou'u   teecxo'
+\ge that-      how.IMPERF- hear/understand - 1S/3PL long ago
+\ps proclitic- prefix.rel- vta             - infl   part
+
+\ELANBegin 36.080
+\ELANEnd 40.950
+\ELANParticipant 38
+\ft That's what I heard them say a long time ago.
+\notes 
+
+\ref 47b.011
+\tx 'oh     niine'eeno'  nuh'uuno,     huutiino
+\mb 'oh     niine'eeno'  nuh'uuno      huutiino
+\ge but/and here are.3PL this          around here
+\ps part    pseudovai    det.EMPH.PRED part
+
+\tx nee'ee3e'inowoo.
+\mb nee'ee3-              e'in - owoo
+\ge thus-                 know - 1S
+\ps proclitic+prefix.rel- vti  - infl
+
+\ELANBegin 43.250
+\ELANEnd 46.990
+\ELANParticipant 38
+\ft But here they are [now trying that], that's the way I see it here now.
+\notes 
+
+\ref 47b.012
+\tx Noh  huut ceniini'oo'    nuh'uuno
+\mb noh  huut cenii-  ni'oo' nuh'uuno
+\ge and  here IC.NEG- good   this
+\ps part part prefix- vii    det.EMPH
+
+\tx neyei3eino'oowu', nuh'uuno        ceeP
+\mb neyei3eino'oowu'  nuh'uuno        cee-    P
+\ge school            this            REDUP-  pause/break
+\ps ni.DEF.LOC.       det.EMPH.IMPOBJ prefix- P
+
+\tx beetceecebkoohuutii3i'
+\mb beet-    cee-    cebkoohuutii    - 3i'
+\ge want to- REDUP-  run/manage s.t. - 3PL
+\ps prefix-  prefix- vai.t           - infl
+
+\ELANBegin 48.620
+\ELANEnd 56.340
+\ELANParticipant 38
+\ft And here it's not good in the schools, They want to run the schools 
+[without knowing Arapaho].
+\notes 
+
+\ref 47b.013
+\tx Sorry, no cans.
+\ELANBegin 57.830
+\ELANEnd 59.310
+\ELANParticipant 62
+\ft
+\notes 
+
+\ref 47b.014
+\tx hohou.
+\mb hohou
+\ge thank you
+\ps part
+
+\ELANBegin 59.330
+\ELANEnd 60.020
+\ELANParticipant 58
+\ft Thank you.
+\notes 
+
+\ref 47b.015
+\tx 'iiheihoo. Hohou.
+\mb 'iiheihoo  hohou
+\ge oh gosh!   thank you
+\ps part       part
+
+\ELANBegin 59.350
+\ELANEnd 61.880
+\ELANParticipant 38
+\ft Gee, thanks!
+\notes 
+
+\ref 47b.016
+\tx Yeah,    nee'eeP                       nehe' nih'oo3oo,
+\mb yeah     nee'ee-           P           nehe' nih'oo3oo
+\ge yeah     that-             pause/break this  White                 person
+\ps particle proclitic+prefix- P           det   na.#V.DEF.SBJCT???
+
+\tx no'ote'inowoo       huut.
+\mb no'ot-  e'in - owoo huut
+\ge a lot-  know - 1S   here
+\ps prefix- vti  - infl part
+
+\ELANBegin 74.330
+\ELANEnd 79.990
+\ELANParticipant 38
+\ft Yeah, this White guy, I(??) Know a lot here.
+\notes 
+
+\ref 47b.017
+\tx Niiteco'onno'useet,             wo'ei3
+\mb nii-    teco'on- no'usee - t    wo'ei3
+\ge IMPERF- always-  arrive  - 3.S  or
+\ps prefix- prefix-  vai     - infl part
+
+\tx niiniiteheibeit,         ahh
+\mb nii-    niiteheib - eit  ahh
+\ge IMPERF- help      - 4/3S ahh
+\ps prefix- vta       - infl particle
+
+\tx Johnny    Cash            nuhu',
+\mb Johnny    Cash            nuhu'
+\ge Johnny    Cash            this
+\ps pers name SBJCT.pers name det.SBJCT
+
+\tx niiniibei'ikuu3ei'it.
+\mb nii-    niibei'ikuu3ei'i        - t
+\ge IMPERF- play musical instrument - 3.S
+\ps prefix- vai.o                   - infl
+
+\ELANBegin 79.990
+\ELANEnd 96.280
+\ELANParticipant 38
+\ft He always comes here and [Al] helps him, ahh J.C. this one who plays 
+the guitar.
+\notes This is a nickname used for Alonzo Moss, Sr., who is known for singing Johnny Cash's songs (in English and Arapaho) and playing the guitar, 
+as well as for wearing dark clothes, a cowboy hat, and dark glasses, much like Johnny Cash as well.
+He works closely with Andrew Cowell.
+
+\ref 47b.018
+\tx heetniixoohoo3ihoot.
+\mb heetn-  iixoohoo3ih - oot
+\ge FUT-    show        - 3S/4
+\ps prefix- vta         - infl
+
+\ELANBegin 100.300
+\ELANEnd 102.210
+\ELANParticipant 58
+\ft He will teach him.
+\notes 
+
+\ref 47b.019
+\tx heetniixoohoo3ihoot
+\mb heetn-  iixoohoo3ih - oot
+\ge FUT-    show        - 3S/4
+\ps prefix- vta         - infl
+
+\tx niisniibei'ikuu3ei'it.
+\mb niis-       niibei'ikuu3ei'i        - t
+\ge how.IMPERF- play musical instrument - 3.S
+\ps prefix.rel- vai.o                   - infl
+
+\ELANBegin 102.280
+\ELANEnd 105.030
+\ELANParticipant 38
+\ft He will teach him how to play the guitar.
+\notes 
+
+\ref 47b.020
+\tx Niibeebeto'oocebiihinee3i'
+\mb nii-    bee-    beto'oo-    cebiihinee - 3i'
+\ge IMPERF- REDUP-  being holy- compete    - 3PL
+\ps prefix- prefix- prefix-     vai        - infl
+
+\tx hiikoot  nehe' Al        Moss.
+\mb hiikoot  nehe' Al        Moss
+\ge moreover this  Al        Moss
+\ps part     det   pers name DEF.SBJCT.pers name
+
+\ELANBegin 109.670
+\ELANEnd 112.920
+\ELANParticipant 38
+\ft And what's more, they get all holy when they gamble, this Al Moss [and 
+his ilk]. {I.e. he blesses/prays over the machine}
+\notes 
+
+\ref 47b.021
+\tx Ne'nii'no'otoyei[ti]3i'.
+\mb ne'-       nii'-            no'ot-  oyei - 3i'
+\ge that-      when.IMPERF-     a lot-  win  - 3PL
+\ps proclitic- prefix-          prefix- vai  - infl
+
+\ELANBegin 113.510
+\ELANEnd 115.270
+\ELANParticipant 38
+\ft That's when they win a lot.
+\notes 
+
+\ref 47b.022
+\tx XXX  totoos      nih'oo3ouseino',
+\mb *XXX totoos      nih'oo3ousei - no'
+\ge ***  even though white woman  - NA.PL
+\ps ***  part        na           - infl.SBJCT.2V.UNDER.
+
+\tx ne'niistoo3i'
+\mb ne'-       niistoo - 3i'
+\ge that-      do      - 3PL
+\ps proclitic- vai     - infl
+
+\tx keihcii3o'noohowoono'.
+\mb keih-                  cii3o'- noohow - oono'
+\ge INTERR.2S.PAST-        never-  see    - 2/3PL
+\ps proclitic+infl+prefix- prefix- vta    - infl
+
+\ELANBegin 123.890
+\ELANEnd 129.740
+\ELANParticipant 58
+\ft Even White women, that's what they do, did you even happen to see them?
+\notes 
+
+\ref 47b.023
+\tx uhm.
+\mb uhm
+\ge uhm
+\ps particle
+
+\ELANBegin 129.670
+\ELANEnd 130.070
+\ELANParticipant 38
+\ft
+\notes 
+
+\ref 47b.024
+\tx Cross here.
+\ELANBegin 130.310
+\ELANEnd 131.240
+\ELANParticipant 58
+\ft
+\notes 
+
+\ref 47b.025
+\tx neihoowniisni'itoo.
+\mb neihoow-     niis-       ni'itoo
+\ge 1.NEG-       how.IMPERF- do good
+\ps infl+prefix- prefix.rel- vai
+
+\ELANBegin 135.040
+\ELANEnd 136.510
+\ELANParticipant 38
+\ft I can't do it good like that.
+\notes 
+
+\ref 47b.026
+\tx (Laughter)
+\ELANBegin 136.900
+\ELANEnd 139.210
+\ELANParticipant 58
+\ft
+\notes 
+
+\ref 47b.027
+\tx Kookon   neenehinowoo               nuhu'
+\mb kookon   neen-          ehin - owoo nuhu'
+\ge just any REDUP-         wipe - 1S   this
+\ps part     prefix.IMPERF- vti  - infl det
+
+\tx screen.         Hoowuuni.
+\mb screen          hoowuuni
+\ge screen          no/not
+\ps ENGL.DEF.OBJCT. prefix.det
+
+\ELANBegin 139.560
+\ELANEnd 142.260
+\ELANParticipant 38
+\ft I just wipe this screen [of the machine] back and forth. It doesn't 
+[help/work].
+\notes 
+
+\ref 47b.028
+\tx (Laughter)
+\ELANBegin 142.200
+\ELANEnd 148.420
+\ELANParticipant 58
+\ft
+\notes 
+
+\ref 47b.029
+\tx Nii-niisni'itoot                   Al        Moss.
+\mb nii-    niis-       ni'itoo - t    Al        Moss
+\ge IMPERF- how.IMPERF- do good - 3.S  Al        Moss
+\ps prefix- prefix.rel- vai     - infl pers name SBJCT.pers name
+
+\ELANBegin 148.540
+\ELANEnd 150.360
+\ELANParticipant 38
+\ft Al Moss knows how to do it good.
+\notes 
+
+\ref 47b.030
+\tx Niito', ne'nii'hiicoo3neeniini.
+\mb niito'  ne'-       nii'-        hiicoo3neen- iini
+\ge first   that-      when.IMPERF- smoking (?)- DETACH
+\ps part    proclitic- prefix-      prefix-      deriv
+
+\ELANBegin 155.950
+\ELANEnd 157.800
+\ELANParticipant 38
+\ft First [he touches it], then he smokes.
+\notes 
+
+\ref 47b.031
+\tx Teeteeneno'           nuhu' machines.
+\mb tee-    teenen - o'   nuhu' machines
+\ge REDUP-  touch  - 3S   this  machines
+\ps prefix- vti    - infl det   ENGL.DEF.OBJCT.
+
+\ELANBegin 157.800
+\ELANEnd 159.510
+\ELANParticipant 38
+\ft He touches these machines [in a holy way].
+\notes 
+
+\ref 47b.032
+\tx (Laughter)
+\ELANBegin 159.330
+\ELANEnd 166.520
+\ELANParticipant 58
+\ft
+\notes 
+
+\ref 47b.033
+\tx Toonheetn-iicebiihineet
+\mb toon-      heetn-  ii-     cebiihinee - t
+\ge INDEF-     FUT-    IMPERF- gamble     - 3.S
+\ps proclitic- prefix- prefix- vai        - infl
+
+\tx nuhu', beteesP beesbeteesouP
+\mb nuhu'
+\ge this
+\ps det
+
+\tx beesbeteetosoo',
+\mb bees-   beteetosoo'
+\ge big-    one           hundred
+\ps prefix- ni.DEF.ADJCT.
+
+\ELANBegin 172.210
+\ELANEnd 181.410
+\ELANParticipant 38
+\ft Whenever he is going to gamble, hundred dollar bills,
+\notes 
+
+\ref 47b.034
+\tx niibeh3eiisini'
+\mb nii-    beh-    3eiisini        - '
+\ge IMPERF- all-    placed inside   - 0S
+\ps prefix- prefix- vii.PASS.IMPERF - infl
+
+\tx nih'iitP                       billfold.
+\mb nih'iit-           P           billfold
+\ge PAST.where-        pause/break billfold
+\ps prefix+prefix.rel- P           ENGL
+
+\ELANBegin 181.480
+\ELANEnd 184.840
+\ELANParticipant 38
+\ft They are all in his billfold.
+\notes 
+
+\ref 47b.035
+\tx Niisiyoo3oo nooxeihi'.
+\mb niisiyoo3oo nooxeihi'
+\ge sack        maybe
+\ps ni.#V.LOC   part
+
+\ELANBegin 185.980
+\ELANEnd 187.390
+\ELANParticipant 38
+\ft In his bag/purse maybe.
+\notes 
+
+\ref 47b.036
+\tx nooxeihi' hini'
+\mb nooxeihi' hini'
+\ge maybe     that(aforementioned)
+\ps part      det
+
+\tx hiwosouhuno
+\mb hi-   wosouhu - no
+\ge 3S-   sock    - OBV.PL
+\ps infl- na      - infl.DEF.PP.LOC.
+
+\tx ne'niiteh3eiino'                                     ci'.
+\mb ne'-       niitoh-            3eiin           - o'   ci'
+\ge that-      where-             put inside s.t. - 3S   too
+\ps proclitic- prefix.rel.IMPERF- vti             - infl proclitic/part
+
+\ELANBegin 197.020
+\ELANEnd 200.830
+\ELANParticipant 58
+\ft In his socks too maybe is where he puts them.
+\notes 
+
+\ref 47b.037
+\tx yeah.
+\mb yeah
+\ge yeah
+\ps particle
+
+\ELANBegin 200.830
+\ELANEnd 201.530
+\ELANParticipant 38
+\ft
+\notes 
+
+\ref 47b.038
+\tx you know I was listening.
+\ELANBegin 216.550
+\ELANEnd 217.710
+\ELANParticipant 38
+\ft
+\notes 
+
+\ref 47b.039
+\tx Nehe' that Alvena              nih'eenetit,
+\mb nehe' that Alvena              nih-    'eeneti - t
+\ge this  that Alvena              PAST-   speak   - 3.S
+\ps det   ENG  DEF.SBJCT.pers name prefix- vai     - infl
+
+\ELANBegin 220.160
+\ELANEnd 222.550
+\ELANParticipant 38
+\ft This, that Alvena [Friday] was talking,
+\notes 
+
+\ref 47b.040
+\tx hih'oo!
+\mb hih'oo
+\ge allright!
+\ps part
+
+\ELANBegin 222.820
+\ELANEnd 223.710
+\ELANParticipant 58
+\ft Okay,
+\notes 
+
+\ref 47b.041
+\tx Hetneihoowbii3ih            hoowuno'usee.
+\mb hetneihoow-         bii3ihi hoowu-  no'usee
+\ge 3S.FUT.NEG-         eat     NEG-    arrive
+\ps infl+prefix+prefix- vai     prefix- vai
+
+\ELANBegin 226.431
+\ELANEnd 228.621
+\ELANParticipant 58
+\ft She's not going to eat, she didn't show up.
+\notes 
+
+\ref 47b.042
+\tx hmm.
+\mb hmm
+\ge hmm
+\ps PART
+
+\ELANBegin 228.531
+\ELANEnd 229.001
+\ELANParticipant 38
+\ft
+\notes 
+
+\ref 47b.043
+\tx Xohuu       cih'eeneti!
+\mb xohuu       cih-        'eeneti
+\ge keep on(??) EMPH.IMPER- speak
+\ps PART        prefix-     vai
+
+\ELANBegin 237.441
+\ELANEnd 239.171
+\ELANParticipant 38
+\ft keep talking!
+\notes 
+
+\ref 47b.044
+\tx wohei nooxeihi' noosouniiheneiht
+\mb wohei nooxeihi' noosou-   niiheneihi - t
+\ge okay  maybe     IC.still- own        - 3.S
+\ps part  part      prefix-   vai        - infl
+
+\tx hini'                Greymorning           nuh'uuno.
+\mb hini'                Greymorning           nuh'uuno
+\ge that(aforementioned) Greymorning           this
+\ps det                  DEF.SBJCT.pers name   det.EMPH.IMPOBJ.
+
+\ELANBegin 247.951
+\ELANEnd 250.821
+\ELANParticipant 38
+\ft Maybe that Greymorning still owns/is in charge of this [Immersion 
+School].
+\notes 
+
+\ref 47b.045
+\tx Neyei3oot.
+\mb neyei3oot
+\ge education/learning
+\ps ni.#V.INDP
+
+\ELANBegin 252.431
+\ELANEnd 253.531
+\ELANParticipant 38
+\ft Education.
+\notes 
+
+\ref 47b.046
+\tx Noosouneeneinooxuwutiit                       heeyouhuu.
+\mb noosoun-  eeneinooxuwutii              - t    heeyouhuu
+\ge IC.still- be boss over things/be bossy - 3.S  thing
+\ps prefix-   vai.t.REDUP                  - infl ni.IMPOBJ.
+
+\ELANBegin 259.011
+\ELANEnd 261.491
+\ELANParticipant 38
+\ft He is still bossing things around.
+\notes 
+
+\ref 47b.047
+\tx Beetnosouneenit.
+\mb beet-    nosou-  neeni - t
+\ge want to- still-  it is - 3.S
+\ps prefix-  prefix- vai   - infl
+
+\ELANBegin 261.491
+\ELANEnd 262.851
+\ELANParticipant 38
+\ft He wants it to still be him.
+\notes 
+
+\ref 47b.048
+\tx Heetnooxohoeniisi3ei'it
+\mb heetn-  ooxohoe-          niisi3ei'i - t
+\ge FUT-    exchange/replace- work       - 3.S
+\ps prefix- prefix-           vai        - infl
+
+\ELANBegin 268.421
+\ELANEnd 270.211
+\ELANParticipant 38
+\ft [Someone else] will be hired to replace [the current Immersion Program 
+director], [they said].
+\notes 
+
+\ref 47b.049
+\tx “Niibeetniitonou'u                      nuhu'
+\mb nii-    beet-    niiton          - ou'u   nuhu'
+\ge IMPERF- want to- hear/understand - 1S/3PL this
+\ps prefix- prefix-  vta             - infl   det
+
+\tx tei'yoonoh'o'   heenetiit,” nih'iit.
+\mb tei'yoonoh'o'   heenetiit     nih-    'ii  - t
+\ge children        speaking      PAST-   said - 3.S
+\ps na.pl.DEF.UNDER ni.???ADJCT   prefix- vai  - infl
+
+\ELANBegin 282.431
+\ELANEnd 285.681
+\ELANParticipant 38
+\ft “I want to hear these children talking,” [Greymorning(?) said].
+\notes This use of the participle for 'speaking' appears to be an English interference. It is not grammatical in Arapaho, and not otherwise documented in this usage.
+
+\ref 47b.050
+\tx Ne'nii'no'useenoo.
+\mb ne'-       nii'-        no'usee - noo
+\ge that-      when.IMPERF- arrive  - 1S
+\ps proclitic- prefix-      vai     - infl
+
+\ELANBegin 286.091
+\ELANEnd 287.291
+\ELANParticipant 38
+\ft That's when I arrived [to take over running the program].
+\notes 
+
+\ref 47b.051
+\tx Huutiino    niitehei'inoo           nuhu',
+\mb huutiino    niitehei'i       - noo  nuhu'
+\ge around here help with things - 1S   this
+\ps part        vai.o            - infl det.LOC
+
+\tx yii3e'einiihi'.
+\mb yii3e'ein-           iihi'
+\ge over that direction- ADV
+\ps prefix-              deriv
+
+\ELANBegin 288.431
+\ELANEnd 293.180
+\ELANParticipant 38
+\ft I help[ed] out here, and over there [at Arapahoe too].
+\notes 
+
+\ref 47b.052
+\tx 'oh     hu'un
+\mb 'oh     hu'un
+\ge but/and that(aforementioned)
+\ps part    det.AGENT.
+
+\tx ciibeetniini'ihi3i'                          hinee
+\mb cii-    beet-    nii-    ni'ih      - i3i'   hinee
+\ge NEG-    want to- REDUP-  treat well - 3PL/1S that
+\ps prefix- prefix-  prefix- vta        - infl   det
+
+\tx Council of  Elders,        hee3neeniihi'.
+\mb council of  elders         hee3neen- iihi'
+\ge council of  elders         real-     ADV
+\ps ENGL    ENG ENGL.DEF.AGENT prefix-   deriv
+
+\ELANBegin 294.870
+\ELANEnd 301.140
+\ELANParticipant 38
+\ft But that COE, they don't want to treat me right, they really don't.
+\notes 
+
+\ref 47b.053
+\tx Ceece3o'oh         kouuteni3i'.
+\mb ceece3o'oh         kouuten      - i3i'
+\ge before you know it dismiss/fire - 3PL/1S
+\ps part               vta          - infl
+
+\ELANBegin 301.140
+\ELANEnd 302.860
+\ELANParticipant 38
+\ft All of a sudden they fired me.
+\notes 
+
+\ref 47b.054
+\tx kouskuu3P                  kouskuu3ei'ee3i'.
+\mb kouskuu3     - P           kouskuu3     - ei'ee3i'
+\ge dump out/off - pause/break dump out/off - 3PL/1PL
+\ps vta          - P           vta          - infl
+
+\ELANBegin 304.830
+\ELANEnd 307.370
+\ELANParticipant 38
+\ft They dumped us.
+\notes 
+
+\ref 47b.055
+\tx Nih'ini        he3ebiini,     hitenei'ee3i',
+\mb nih-    'ini   he3eb-  iini   hiten    - ei'ee3i'
+\ge PAST-   DETACH there-  DETACH get/take - 3PL/1PL
+\ps prefix- deriv  prefix- deriv  vta      - infl
+
+\tx “heetniisitone3en.”
+\mb heet-   niisiton - e3en
+\ge FUT-    work for - 1S/2S
+\ps prefix- vta      - infl
+
+\ELANBegin 315.030
+\ELANEnd 322.440
+\ELANParticipant 38
+\ft They took us over there, “I will work for you,” [I said].
+\notes 
+
+\ref 47b.056
+\tx Teebe    three months     niisi3ei'inoo,
+\mb teebe    three months     niisi3ei'i - noo
+\ge just now three months     work       - 1S
+\ps part     ENGL  ENGL.ADJCT vai        - infl
+
+\tx cesisoo', ceecei'soo'.
+\mb cesisoo'  cee-    cei'soo'
+\ge begin     REDUP-  different
+\ps vii       prefix- vii
+
+\ELANBegin 326.470
+\ELANEnd 330.210
+\ELANParticipant 38
+\ft I had just been working there three months, it started, and [then] it 
+was very different.
+\notes 
+
+\ref 47b.057
+\tx “Nono3iihi'
+\mb nono3-   iihi'
+\ge earlier- ADV
+\ps prefix-  deriv
+
+\tx heibeexnee'eeneesciinenoo.”
+\mb hei-         beex-   nee'eenees-                             ciinen         - oo
+\ge 2S.IMPERF-   should- those are the ways-                     put/place down - 3S
+\ps infl+prefix- prefix- proclitic+prefix.rel.REDUP-             vta            - infl
+
+\ELANBegin 331.920
+\ELANEnd 334.600
+\ELANParticipant 38
+\ft “You should have appointed [someone else] in the first place,” [I told 
+them, when they started giving me trouble].
+\notes 
+
+\ref 47b.058
+\tx “Neetneihoowciito3onohoe[ne'].”
+\mb ne-   et-     neihoow-     ciito3onohoe
+\ge 1S-   FUT-    1.NEG-       put in papers/application
+\ps infl- prefix- infl+prefix- vai.o
+
+\ELANBegin 339.320
+\ELANEnd 341.390
+\ELANParticipant 38
+\ft “I'm not going to put in an application,” [I originally said to them].
+\notes 
+
+\ref 47b.059
+\tx “Neneenin
+\mb neneeni-  n
+\ge IC.it is- 2S
+\ps vai-      infl
+
+\tx tohuuheeneisinono'eitin[i'],
+\mb tohuu-        heeneis-          inono'eiti    - n
+\ge since.IMPERF- whatever/however- speak Arapaho - 2S
+\ps prefix-       prefix.rel.REDUP- vai           - infl
+
+\tx ne'nih'ini,
+\mb ne'-       nih-    'ini
+\ge that-      PAST-   DETACH
+\ps proclitic- prefix- deriv
+
+\tx ne'nih'iteneen,”                   nih'ii3i'.
+\mb ne'-       nih-    'iten    - een    nih-    'ii  - 3i'
+\ge that-      PAST-   get/take - 1PL/2S PAST-   said - 3PL
+\ps proclitic- prefix- vta      - infl   prefix- vai  - infl
+
+\ELANBegin 342.250
+\ELANEnd 346.840
+\ELANParticipant 38
+\ft “You, because you know how to speak Arapaho, that's why we selected 
+you,” they said.
+\notes 
+
+\ref 47b.060
+\tx Nih'ooxohoeP
+\mb nih-    'ooxohoe-         P
+\ge PAST-   replace/exchange- pause/break
+\ps prefix- prefix-           P
+
+\tx ne'bii'inoo3i',           nehtiihoo3i'
+\mb ne'-    bii'in    - oo3i' nehtiih   - oo3i'
+\ge then-   find s.o. - 3PL/4 recognize - 3PL/4
+\ps prefix- vta       - infl  vta       - infl
+
+\tx he'iiteenou'u
+\mb he'iiteenou'u
+\ge which one
+\ps vii/ni.ITER.UNDER
+
+\tx nuhu' niiciinono'eitit.
+\mb nuhu' nii-    cii-    inono'eiti    - t
+\ge this  IMPERF- NEG-    speak Arapaho - 3.S
+\ps det   prefix- prefix- vai/na        - infl.DEF.UNDER.
+
+\ELANBegin 350.110
+\ELANEnd 355.520
+\ELANParticipant 38
+\ft Then they replaced [me with]...they found and recognized/hired this one,
+this one who doesn't speak Arapaho.
+\notes 
+
+\ref 47b.061
+\tx beesbeetou3eihii.
+\mb bees-   beetou3eihii
+\ge big-    graduate/educated
+\ps prefix- na.#V.UNDER.
+
+\ELANBegin 356.930
+\ELANEnd 358.640
+\ELANParticipant 38
+\ft A highly-educated one.
+\notes 
+
+\ref 47b.062
+\tx 'oh     hoowtonoun          nuhu' hinono'eitiit.
+\mb 'oh     hoow-        tonoun nuhu' hinono'eitiit
+\ge but/and 3.NEG-       use    this  Arapaho       language
+\ps part    infl+prefix- vti    det   ni.DEF.OBJCT.
+
+\ELANBegin 362.270
+\ELANEnd 364.600
+\ELANParticipant 38
+\ft But he doesn't use Arapaho.
+\notes 
+
+\ref 47b.063
+\tx co'onP
+\mb co'on-  P
+\ge always- pause/break
+\ps prefix- P
+
+\tx beexo'co'onih'oo3ouyeitit.
+\mb beexo'- co'on-  nih'oo3ouyeiti - t
+\ge only-   always- speak English  - 3.S
+\ps prefix- prefix- vai            - infl
+
+\ELANBegin 369.330
+\ELANEnd 372.070
+\ELANParticipant 58
+\ft He just always speaks English.
+\notes 
+
+\ref 47b.064
+\tx Hoowoe'inowuu.
+\mb hoowoe'in  - owuu
+\ge not know   - 3PL
+\ps prefix+vti - infl
+
+\ELANBegin 372.590
+\ELANEnd 374.020
+\ELANParticipant 58
+\ft [The folks at the Immersion School] don't know [Arapaho].
+\notes 
+
+\ref 47b.065
+\tx Woow     woow     neneetinoo'ootowoo
+\mb woow     woow     neneetinoo'oot           - owoo
+\ge now.PERF now.PERF IC.get sick and tired of - 1S
+\ps part     part     vti                      - infl
+
+\tx heeneesoo'.
+\mb heeneesoo                - '
+\ge how things are           - 0S
+\ps vii.rel.REDUP            - infl
+
+\ELANBegin 380.070
+\ELANEnd 388.020
+\ELANParticipant 38
+\ft Now, now I'm getting tired of/fed up with how things are going.
+\notes 
+
+\ref 47b.066
+\tx Heetnii'ce'no'usee3i                           neh'eeno nih'oo3oo.
+\mb heet-   nii'-        ce'-    no'usee - 3i      neh'eeno nih'oo3oo
+\ge FUT-    when.IMPERF- back-   arrive  - 3S.ITER this     White         person
+\ps prefix- prefix-      prefix- vai     - infl    det.EMPH na.DEF.SBJCT.
+
+\ELANBegin 399.800
+\ELANEnd 404.420
+\ELANParticipant 38
+\ft I wonder when this white guy is going to come back again. {Reference is 
+to Cowell, who is not in the room while the camera is running}.
+\notes 
+
+\ref 47b.067
+\tx woow     benee3tooni'.
+\mb woow     benee3too - ni'
+\ge now.PERF IC.finish - 1PL
+\ps part     vai       - infl
+
+\ELANBegin 405.650
+\ELANEnd 407.000
+\ELANParticipant 58
+\ft We're done now.
+\notes 
+
+\ref 47b.068
+\tx woow     benee3tooni'.
+\mb woow     benee3too - ni'
+\ge now.PERF IC.finish - 1PL
+\ps part     vai       - infl
+
+\ELANBegin 406.960
+\ELANEnd 408.180
+\ELANParticipant 38
+\ft We're done now.
+\notes 
+
+\ref 47b.069
+\tx One hour.
+\ELANBegin 410.730
+\ELANEnd 411.570
+\ELANParticipant 38
+\ft
+\notes 
+
+\ref 47b.070
+\tx Boy!
+\ELANBegin 411.700
+\ELANEnd 412.600
+\ELANParticipant 58
+\ft
+\notes 
+
+\ref 47b.071
+\tx heetbiineino'        bei'ci3ei'i.
+\mb heet-   biin - eino' bei'ci3ei'i
+\ge FUT-    give - 3/12  money
+\ps prefix- vta  - infl  ni.pl.SECOBJ
+
+\ELANBegin 415.870
+\ELANEnd 417.930
+\ELANParticipant 38
+\ft He will give us money.
+\notes 
+
+\ref 47b.072
+\tx Heetniiwoncebiihineeni'.
+\mb heetn-  ii-     won-    cebiihinee - ni'
+\ge FUT-    IMPERF- ALLAT-  gamble     - 1PL
+\ps prefix- prefix- prefix- vai        - infl
+
+\ELANBegin 418.200
+\ELANEnd 420.290
+\ELANParticipant 58
+\ft We will go gamble.
+\notes 
+
+\ref 47b.073
+\tx heetihwoncebiihineeni'.
+\mb heetih-  won-    cebiihinee - ni'
+\ge so that- ALLAT-  gamble     - 1PL
+\ps prefix-  prefix- vai        - infl
+
+\ELANBegin 420.300
+\ELANEnd 422.160
+\ELANParticipant 38
+\ft We will go gamble.
+\notes 
+
+\ref 47b.074
+\tx Hini'iit                   one  machine,
+\mb hini'iit                   one  machine
+\ge that(aforementioned) there one  machine
+\ps det                        ENGL ENGL.DEF.PP.LOC
+
+\tx hookuuhuh'o'
+\mb hookuuhuh'o'
+\ge little mice
+\ps na.dim.pl.PP.SBJCT
+
+\tx niicihbisinoo'oo3i'.
+\mb nii-    cih-     bisinoo'oo         - 3i'
+\ge IMPERF- to here- com(ing) into view - 3PL
+\ps prefix- prefix-  vai                - infl
+
+\ELANBegin 424.960
+\ELANEnd 429.150
+\ELANParticipant 38
+\ft That one machine, little mice appear [in the frames when you're 
+playing].
+\notes 
+
+\ref 47b.075
+\tx Hini'
+\mb hini'
+\ge that(aforementioned)
+\ps det.
+
+\tx neih3i'okunoonin,
+\mb heih-        3i'okunoon                       - in
+\ge 2S.PAST-     one  sitting at/with             - 12POSS
+\ps infl+prefix- na.DEPPART  + PLPOSS             - infl.DEF.#V.DEF.LOC.
+
+\ELANBegin 431.590
+\ELANEnd 433.010
+\ELANParticipant 38
+\ft The one we (I??) Was sitting at,
+\notes Note 'machine' (for gambling) treated as animate.
+
+\ref 47b.076
+\tx beenhehe' niisbisinoo'oot
+\mb beenhehe' niis-       bisinoo'oo         - t
+\ge a little  how.IMPERF- com(ing) into view - 3.S
+\ps part      prefix.rel- vai                - infl
+
+\tx nehe';
+\mb nehe'
+\ge this
+\ps det.LOC.
+
+\ELANBegin 434.590
+\ELANEnd 436.290
+\ELANParticipant 38
+\ft [Only] a few were appearing at this [machine];
+\notes 
+
+\ref 47b.077
+\tx hooxoehetinoo.
+\mb hooxoeheti           - noo
+\ge IC.make o.s. laugh   - 1S
+\ps vai.refl             - infl
+
+\ELANBegin 438.110
+\ELANEnd 439.150
+\ELANParticipant 38
+\ft I was making myself laugh.
+\notes 
+
+\ref 47b.078
+\tx Here, hookuu,   hookuun,      noh
+\mb here  hookuu    hookuun       noh
+\ge here  mouse     mouse!        and
+\ps ENG   na.PP.VOC na.VOC.PP.VOC part
+
+\tx nihcihbisinoo'oo[3i'].
+\mb nih-    cih-     bisinoo'oo           - 3i'
+\ge PAST-   to here- com(ing)   into view - 3PL
+\ps prefix- prefix-  vai                  - infl
+
+\ELANBegin 441.310
+\ELANEnd 444.210
+\ELANParticipant 38
+\ft Here, mouse!, mouse! And they all appeared
+\notes 
+
+\ref 47b.079
+\tx Cee3ni'itoonoo.
+\mb cee3-        ni'itoo - noo
+\ge by accident- do good - 1S
+\ps prefix-      vai     - infl
+
+\ELANBegin 445.260
+\ELANEnd 446.570
+\ELANParticipant 38
+\ft I accidentally did good [and won].
+\notes 
+
+\ref 47b.080
+\tx cee3ni'itoon.
+\mb cee3-        ni'itoo - n
+\ge by accident- do good - 2S
+\ps prefix-      vai     - infl
+
+\ELANBegin 447.740
+\ELANEnd 449.340
+\ELANParticipant 58
+\ft You accidentally did good.
+\notes 
+
+\ref 47b.081
+\tx Tootheetou'              hi'in
+\mb toot-      heetou'       hi'in
+\ge where?-    where located that(aforementioned)
+\ps proclitic- vii.rel       det.SBJCT
+
+\tx across here?
+\mb across here
+\ge across here
+\ps ENGL   ENG
+
+\ELANBegin 451.710
+\ELANEnd 454.700
+\ELANParticipant 58
+\ft Where is that one, across here? {I.e. at the Ethete casino?}
+\notes 
+
+\ref 47b.082
+\tx yeah,    that one  machine.
+\mb yeah     that one  machine
+\ge yeah     that one  machine
+\ps particle ENG  ENGL ENGL.#V.DEF.SBJCT
+
+\ELANBegin 454.670
+\ELANEnd 456.520
+\ELANParticipant 38
+\ft
+\notes 
+
+\ref 47b.083
+\tx Nih'oo3oo,   nih'oo3oo    down at   Arapahoe,
+\mb nih'oo3oo    nih'oo3oo    down at   Arapahoe
+\ge White person White person down at   Arapahoe,     WY
+\ps na.PP.SBJCT. na.PP.SBJCT. ENGL ENGL LOC.place name
+
+\tx nooxeihi' nihno'otoyeit.
+\mb nooxeihi' nih-    no'ot-  oyei - t
+\ge maybe     PAST-   a lot-  win  - 3.S
+\ps part      prefix- prefix- vai  - infl
+
+\ELANBegin 460.160
+\ELANEnd 463.290
+\ELANParticipant 38
+\ft A white person, a white person down at Arapahoe, maybe he won a lot.
+\notes 
+
+\ref 47b.084
+\tx uhm.
+\mb uhm
+\ge uhm
+\ps particle
+
+\ELANBegin 463.260
+\ELANEnd 464.390
+\ELANParticipant 58
+\ft
+\notes 
+
+\ref 47b.085
+\tx Neyei3itiinoo         hinee hii3einoon,    'oh     hoowuuni.
+\mb neyei3itii     - noo  hinee hii3einoon     'oh     hoowuuni
+\ge try s.t. (out) - 1S   that  buffalo        but/and no/not
+\ps vai.t          - infl det   na.DEF.IMPOBJ. part    prefix.det
+
+\ELANBegin 469.260
+\ELANEnd 475.660
+\ELANParticipant 58
+\ft I try that [machine] with buffalos, but it doesn't [pay out].
+\notes 
+
+\ref 47b.086
+\tx ceenokuuP              heetnooP hoonoonP
+\mb ceenoku  - P                    hoon-   oon-    P
+\ge sit down - pause/break          REDUP-  REDUP-  pause/break
+\ps vai      - P                    prefix- prefix- P
+
+\tx hoonoo3itoo3oono',
+\mb hoon-   oo3itoo3         - oono'
+\ge REDUP-  tell story about - 12/3
+\ps prefix- vta              - infl
+
+\ELANBegin 488.660
+\ELANEnd 492.630
+\ELANParticipant 38
+\ft ??? We will tell stories about him,
+\notes 
+
+\ref 47b.087
+\tx niitiino ne'ce'P                     ce'no'useet
+\mb          ne'-    ce'-    P           ce'-    no'usee - t
+\ge          then-   back-   pause/break back-   arrive  - 3.S
+\ps          prefix- prefix- P           prefix- vai     - infl
+
+\tx nehe' noonoo3itoo3eet                         XXX
+\mb nehe' noon-          oo3itoo3         - eet   *XXX
+\ge this  REDUP-         tell story about - 1PL/3 ***
+\ps det   prefix.IMPERF- vta              - infl  ***
+
+\tx Al        Moss.
+\mb Al        Moss
+\ge Al        Moss
+\ps pers name UNDER.pers name
+
+\ELANBegin 497.390
+\ELANEnd 503.840
+\ELANParticipant 38
+\ft ??? he comes back, we are telling stories are told about Al Moss.
+\notes 
+
+\ref 47b.088
+\tx He'ihwoteekooh.
+\mb he'ih-    woteekoohu
+\ge NARRPAST- drive to town
+\ps prefix-   vai
+
+\ELANBegin 511.650
+\ELANEnd 512.930
+\ELANParticipant 38
+\ft He was driving to town.
+\notes 
+
+\ref 47b.089
+\tx Nehe' 3oo3ouuteiseet,
+\mb nehe' 3oo3ouuteisee - t
+\ge this  IC.walk ridge - 3.S
+\ps det   vai           - infl.DEF.SECOBJ.
+
+\tx ni'ii3P                      ni'ii3eet.
+\mb ni'ii3         - P           ni'ii3ee          - t
+\ge call s.o. thus - pause/break be called thus    - 3.S
+\ps vta            - P           vai.mid           - infl
+
+\ELANBegin 517.450
+\ELANEnd 520.100
+\ELANParticipant 38
+\ft That Ridgewalker, he's called.
+\notes 
+
+\ref 47b.090
+\tx nooxeihi'
+\mb nooxeihi'
+\ge maybe
+\ps part
+
+\tx nih'iine'ce'tookohei'it
+\mb nih'ii-      ne'-    ce'-    tookohei'i   - t
+\ge PAST.IMPERF- then-   again-  take a drink - 3.S
+\ps prefix-      prefix- prefix- vai.o        - infl
+
+\tx nih'oo3ounec.   Noh
+\mb nih'oo3ounec    noh
+\ge whiskey/alcohol and
+\ps ni.IMPOBJ.      part
+
+\ELANBegin 521.520
+\ELANEnd 525.970
+\ELANParticipant 38
+\ft Maybe he got a drink again, of hard liquor. And
+\notes 
+
+\ref 47b.091
+\tx heetbeeP
+\mb heet-   bee-    P
+\ge FUT-    REDUP-  pause/break
+\ps prefix- prefix- P
+
+\tx cihbeebeniikoohut.
+\mb cih-     beebeniikoohu            - t
+\ge to here- stagger around (drunk)   - 3.S
+\ps prefix-  vai.REDUP                - infl
+
+\ELANBegin 528.200
+\ELANEnd 530.540
+\ELANParticipant 38
+\ft he will, he was staggering around drunk.
+\notes 
+
+
+\ELANMediaURL file:///G:/ELDP/47/47b/47b Audio.wav
+\ELANMediaMIME audio/x-wav
+\ELANMediaURL file:///G:/ELDP/47/47b/47b.avi
+\ELANMediaMIME video/*

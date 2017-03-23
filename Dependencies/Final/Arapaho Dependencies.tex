@@ -1,0 +1,429 @@
+\documentclass[11pt]{article}
+\usepackage{acl2016}
+\usepackage{times}
+\usepackage{url}
+\usepackage{latexsym}
+\usepackage{url}
+\usepackage{graphicx}
+\usepackage{changepage}
+\usepackage{multirow}
+\usepackage{amssymb}
+\usepackage{pifont}
+\newcommand{\cmark}{\ding{51}}%
+\newcommand{\xmark}{\ding{55}}%
+\usepackage{array}
+\renewcommand{\arraystretch}{1.2}
+\usepackage{tikz-dependency}
+\usepackage{gb4e}
+\exewidth{(\thexnumi)}
+%\aclfinalcopy
+\setlength\titlebox{5cm}
+\title{Applying Universal Dependency to the Arapaho Language}
+\author{Irina Wagner and Andrew Cowell\\
+  University of Colorado Boulder\\
+  Department of Linguistics\\
+  {\tt \{irina.wagner,andrew.cowell\}@colorado.edu} \\\And
+  Jena D. Hwang\\
+  IHMC\\
+  {\tt jhwang@ihmc.us}}
+\date{}
+
+\begin{document}
+\maketitle
+\begin{abstract}
+
+  This paper discusses the use of Universal Dependency for annotations of a Native North American language Arapaho (Algonquian). While some relations of the universal dependency perfectly correspond with those in Arapaho, language specific annotations of verbal arguments elucidate problems of assuming certain syntactic categories across languages. By critiquing the influence of grammatical structures of major European and Asian languages in establishing the \textsc{ud} framework, this paper develops guidelines for annotating a poly-synthetic agglutinating language and sets a path to developing a more comprehensive cross-linguistic approach to syntactic annotations of language data. 
+ \end{abstract}
+
+\section{Introduction}
+	The recent initiatives to create a cross-linguistic system of annotation rely on Universal Dependency (\textsc{ud}) as a system of describing the syntactic connection between words \cite{Nivre2015,Marneffe2014}. While research shows this annotation type is effective not only for monolingual parsers but also cross-linguistically across multiple platforms, the universality of this approach is based on the assumptions of similar syntactic structures of major, often European, languages \cite{McDonald2013}. Without doubt, those are also the languages that receive predominant attention in the computational sphere, the languages whose technological presence requires a thorough analysis and annotation. However, if the goal of natural language processing is truly to develop a universal cross-linguistic strategy for annotating and analyzing linguistic data, it is important to attend to lesser described languages that may present strikingly different syntactic structures and dependencies. 
+
+	Applying the \textsc{ud} rules while annotating the data from the Arapaho (Algonquian) language, several specific features were observed to fall outside of the charted labels. Since the language does not have a fixed word order and allows discontinuous constituency, dependencies on the previous word were avoided and re-analyzed. The most problematic dependency distinction in this language is the variation in relations between a verb and its arguments. This paper examines the correlation of the dependency relations in the \textsc{ud} scheme and their practical application for the Arapaho data. Using the \textsc{ud} framework, we create guidelines for annotating this data. In considerations of space, this paper primarily focuses on the argument structures defined by the \textsc{ud} and their correspondences to the Arapaho syntactic patterns. An additional discussion of non-verbal roots and topicality problematizes some of the common assumptions in discounting pragmatic features while analyzing syntactic dependencies. 
+    
+    In the following pages, we first provide a short note on the Arapaho language and the procedures of annotations (\ref{arapaho}); discuss issues of mapping the labels for subject, objects, and noun modifiers of the \textsc{ud} onto the Arapaho dependencies (\ref{map}); define the mechanism of analysis of non-verbal roots (\ref{backref}); and suggest further ways of developing these annotation guidelines (\ref{concl}).
+\section{Arapaho data and annotations} \label{arapaho}
+Arapaho is an Algonquian poly-synthetic agglutinating language spoken by less than 200 people in the Wind River Indian Reservation in Wyoming. Because the language is in critical condition, there have been attempts at documenting and preserving it. A large transcribed and annotated spoken corpus has been created and parts of it are now available in the Endangered Languages Archive\footnote{http://elar.soas.ac.uk/deposit/0194}. A total of around eighty thousand lines transcribed, translated, and grammatically analyzed is available for further processing. The current attempts at establishing the dependency scheme for this language initiate the new type of analysis of this data to allow machine processing. 
+\subsection{Some features of the Arapaho language}
+The current paper largely relies on the previous description of the Arapaho grammar by \newcite{Cow08}. There are several intriguing features of the grammar, but the ones most relevant to this study are its complex verbal morphology, split semantic and syntactic transitivity, and the system of obviation. 
+\subsubsection{Verbal complexity}
+As is observed in many other poly-synthetic languages, Arapaho verbs are highly complex and mark multiple grammatical and semantic features. So, in example (\ref{poly}), a single verb demonstrates incorporation of not only the usual tense, aspect, mode, person, and number features, but also the manner of action and an incorporated object. 
+
+\small
+\begin{exe}
+\ex \label{poly}
+he'ih'ii-xoo-xook-bix-ohoe-koohuut-oo-no'\\
+\textit{``Their hands would go right through them and appear on the other side.''}
+\end{exe}
+\normalsize
+A single verb can be a full clause conveying a full thought. Verbal prefixes code grammatical as well as many semantic features, inhibiting the dependency analysis since this framework only considers the relations between individual words.
+\subsubsection{Transitivity}
+The category of verbal transitivity is both syntactic and semantic \cite{Cow08}. To understand how many arguments are allowed in a verb's frame, one must examine both the morphological and the semantic structure of a verb. So, while semantically a verb \textit{to'oo3ei } ``to hit things'' may appear transitive, grammatically it is intransitive, requiring only one argument, the subject, as in \textit{too'oo3einoo} ``I am hitting (unspecified) things.'' The transitivity of a verb is expressed in its inflection which must agree in person and number with its arguments. Truly transitive verbs carry inflections agreeing with both of its arguments:
+\begin{exe}
+\ex \label{trans} 
+\small
+\gll {Nih-to'ow-oo-t} nuhu' \textbf{hinen-ino}\\
+{\textsc{pst}-hit-\textsc{3/4-3S}} this man-OBV.PL\\
+\trans{\textit{``He hit these men''}}
+\end{exe}
+\normalsize
+Even though only one of the two arguments appears in the sentence, the verb \textit{nihto'owoot} ``s/he hit him/her'' is marked to agree both with the semantic agent and undergoer of the verb. This semantic distinction in the arguments is not observed in intransitive and semi-transitive verbs. Because such verbs deomnstrate morphological agreement only with one nominal\footnote{We use  phrases ``nominal'' and ``nominal expression'' to refer to nouns, noun phrases and nominalized verbs that function as noun phrases.}, other nominals are considered outside of the argument structure of a verb even if they specify the semantic patient or theme. 
+
+\small
+\begin{exe}
+\ex \label{vai.o} 
+\gll {nih'ii-koo-ko'uyei-3i'} \textbf{biino}\\
+{\textsc{pst.impf}-\textsc{redup}-pick things-3\textsc{pl}}  \textbf{chokecherries}\\
+\trans{\textit{``They were picking chokecherries.''}}
+\end{exe}
+\normalsize
+So in the example (\ref{vai.o}), the noun \textit{biino} ``chokecherries'' is not reflected in verbal morphology, but corresponds with its semantics by specifying the the object of picking. Being outside of the argument structure of this verb, syntactically the noun is better understood as a verbal adjunct specifying the manner of action while semantically it is still the patient. So the designation of the relationship between such arguments and verbs as \textit{dobj} of the universal dependencies is wrong because it does not consider verbal morphology, whereas the label of \textit{nmod} would not account for its semantic role.
+ \subsubsection{Obviation}
+Unlike many languages, Arapaho does not rely on word order or case markers to disambiguate between overt nominals; rather it uses a system of obviation that incorporates a distinction based on animacy, the combination of verbal morphosyntax and pragmatics to mark particular grammatical roles. This system clearly distinguishes between two third person referents by marking one of them (a less salient one in the discourse) as obviative and leaving the other referent unmarked (proximate). In Algonquian languages, the obviation is argued to be a pragmatic feature structuring discourse outside of a single clause \cite{Goddard1984}. Verbal morphology also shows agreement with these categories: the transitive verb inflection clearly marks which argument is acting on  the other. So, instead of the usual three persons, Arapaho has four, with the fourth person being the obviative argument. In the example below, the obviative argument is the noun \textit{hiinoon} ``his mother'' which corresponds with the verbal subjunctive inflection \textit{-eihok} ``4\textsuperscript{th} person acting on 3\textsuperscript{rd} singular.'' 
+
+\small
+\begin{exe}
+\ex \label{obviation}
+\gll {Hohou}, {hee3\textbf{eihok}} {\textbf{hiinoon}} {3eeyokooxuu}.\\
+{thank you} {say to s.o.-\textsc{4/3s.subj}} {his/her mother} {Tipi-pole Child} \\
+\trans \textit{``Thank you,'' his mother said to Under-the-Tipi-Pole Child.}
+\end{exe}
+\normalsize
+As it is observed in this example, obviation does not correspond with a semantic or a syntactic role of an argument. Neither it depends on the transitivity of a verb. Rather, obviative status lines up with the semantic role of an obviative coded in verbal morphology. Based on this feature of transitivity and obviation, the current paper suggests to employ the semantic labels in marking the syntactic relations. 
+\subsection{Annotation procedures}
+We are not aware of previous attempts at dependency annotations with other Algonquian languages, however, dependency grammar has been one of the theoretical approaches in Algonquian syntax.  The guidelines discussed below were created based on the annotations of a small set of Arapaho narratives. In the first phase of the project, the dependency relations were outlined based on annotations of a small sample of five traditional narratives. The annotators were given a protocol established without the considerations of the \textsc{ud} framework but based purely on the Algonquian syntax patterns. Several problems using these syntax patterns clarified and specified the dependency relations, leading to the creation of a new set of labels. 
+
+In the second phase of the project, these new labels were further standardized based on the principles of the Stanford Dependencies \cite{Marneffe2010}. Using this new set of relations, a total of 3616 lines\footnote{What we call ``lines'' here refers to a ToolBox line which represent a single clause, or a complete thought.} of elicited personal and traditional oral narratives as well as 593 lines of conversational data were annotated. The disfluency of the conversational data indicated major issues with this annotation scheme which prompted us to turn to the \textsc{ud}-based system. The guidelines presented here have been used to remark the previous annotations of the data used in the second phase.
+
+The next part of the project includes more manual annotations using the guidelines proposed here. Having already annotated a few thousand lines of narratives, the focus of the following work will be on conversational data followed by machine learning.
+
+\section{Mapping the \textsc{ud} scheme} \label{map}
+Out of the forty dependencies proposed by the \textsc{ud}, thirty Arapaho dependencies have one-to-one correspondence. Additional seventeen specifications and relations have been added to describe language-specific instances. The final scheme of Arapaho's nominal argument dependencies is presented in Table \ref{table:map}. Some of the dependencies were not used in the Arapaho scheme because such dependencies merely do not exist in this language. So, for example, the language does not have a grammatical category of an adjective; therefore, the dependency \textit{amod} has not been used; instead descriptive verbs are analyzed as relative clauses, \textit{acl}.  Example (\ref{acl}) demonstrates the relative clause dependency where verb modifies the noun in the same manner that an adjective would.
+
+\small
+\begin{exe}
+\ex \label{acl}%con89.074
+\begin{adjustwidth*}{-0.1in}{-0.1in}
+\begin{dependency}
+\begin{deptext}
+niibe'ei'i \& siikoocei'ikuu3oo \& nihnohkokoo'ohuni'i.\\
+\textsc{vii} \& \textsc{ni} \& \textsc{vii}\\
+\end{deptext}
+\depedge [edge unit distance=1ex]{1}	{2}	{acl}
+\end{dependency}
+\gll \textbf{nii-be'ei-'i} siikoocei'ikuu3oo nih-nohk-okoo'ohuni-'i.\\
+{\textsc{impf}-red-\textsc{0pl}} {rubber item} {\textsc{pst-instr}-sealed with stiff object-\textsc{0pl}}\\
+\trans \textit{``They would be sealed with the red rubber gasket.''}
+\end{adjustwidth*}
+\end{exe}
+\normalsize
+In addition, there are no relative pronouns in the language, so the dependency relation \textit{marker} is also obsolete in the current scheme. Similarly, there is no category of a number or numeral, instead the number can be expressed by a verb or a particle, at which instance it is analyzed just like other particles with the dependency of \textit{advmod} to the word that it modifies. In sum, omitted \textsc{ud} relations are the ones that are either expressed by some other dependency or non-existent in the Arapaho language. 
+
+\begin{table*}[!ht]
+\centering \small
+\begin{tabular}{l l p{4in}}
+\hline
+\textbf{\textsc{ud}} & \textbf{Arapaho Dependencies} & \textbf{Notes}\\ \hline
+nsubj &	nsubj(:obv) &  Nominal subjects of \textsc{vii}, \textsc{vai}, and \textsc{vti} verbs.\\
+csubj & csubj(:obv) & Clausal subjects of \textsc{vii}, \textsc{vai}, and \textsc{vti} verbs.\\
+nsubjpass & nusubjpass(:obv) & \cmark\\
+csubjpass & csubjpass(:obv) & \cmark\\
+\multirow{3}{*} {\xmark} & agent & Proximate agent of \textsc{vta} expressed by a noun.\\
+& nagent:obv & Obviative agent of \textsc{vta} expressed by a clause.\\
+& nagent:oblique(:obv) & Oblique agents of passive verbs\\
+\multirow{3}{*} {\xmark} & cagent & Proximate agent of \textsc{vta} expressed by a clause.\\
+& cagent:obv & Obviative agent of \textsc{vta} expressed by a clause.\\
+& cagent:oblique(:obv) & Oblique agents of passive verbs\\
+\multirow {3}{*}{dobj} & dobj & Inanimate nominals as objects of \textsc{vti}\\
+& dobj:under & Animate proximate nominals, undergoers of \textsc{vta}\\
+& dobj:under:obv & Animate obviative undergoers of \textsc{vta}\\
+iobj & iobj & Secondary objects of \textsc{vta} not expressed in the verb\\
+ccomp & ccomp & Additional specification of dependency (e.g., dobj, dobj:under, iobj, nmod) is required\\
+xcomp & \xmark & \\
+\multirow {2}{*}{nmod} & nmod & Adjuncts of verbs\\
+& nmod:impobj & Implied objects of \textsc{vai.o, vai.t}, and incorporated verbs\\
+& nmod:objad & Objects of adverbial particles and some verbal prefixes\\
+& nmod:instr & Objects of instrumental particles and instrumental verbal prefixes\\
+\hline
+\end{tabular}
+\caption{\label{table:map}Mapping of the \textsc{ud} argument labels and Arapaho nominal argument labels.}
+\end{table*}
+
+Several \textsc{ud} dependencies perfectly line up with the Arapaho scheme. So such relations as noun modifiers, adverbial modifiers, adverbial clauses, determiners, appositives, relative clauses, case markers, and a few more have a direct correspondence. For example, an adverbial clause in Arapaho is very similar, if not the same, as adverbial clauses described for other languages in the \textsc{ud}. Arapaho adverbial clauses, as it is seen in the example below, lack a distinct word introducing it; instead, the head of an adverbial clause exhibits particular morphological markers indicating its dependency. So in the example (\ref{advcl}) this distinction is made by the subjunctive mode indicating that the verb \textit{bih'iyoohok} ``when it is dark'' is a dependent of the main verb of the sentence.
+
+\small
+\begin{exe}
+\ex \label{advcl} %Con124.051
+\begin{dependency}
+\begin{deptext}
+Bih'iyoohok \& ce'no'useeni'.\\
+\textsc{vii} \& \textsc{vai}\\
+\end{deptext}
+\depedge [edge unit distance=1ex]{1}	{2}	{advcl}
+\end{dependency}
+\gll \textbf{Bih'iyoo-hok} ce'-no'usee-ni'.\\
+{dark-\textsc{subjunct}} {back-arrive-\textsc{1pl}}\\
+\trans \textit{``When it's dark, we'll come back.''}
+\end{exe}
+\normalsize
+In general, dependencies between function words and content words mirror the same dependencies in the \textsc{ud} framework, and most of these dependency labels are used. 
+
+The most complicated dependency relations tend to be between the content words, and especially the relations between the verb and its arguments. From the \textsc{ud} scheme, only one of such relations matches the Arapaho scheme with some modifications: \textit{nsubj} and \textit{csubj} correspond to subjects of intransitive verbs and transitive inanimate verbs. Similarly, subjects of passive verbs also correspond to the \textit{nsubjpass} and \textit{csubjpass} dependencies. Additional provisions are made in Arapaho scheme to account for the obviation status. In the following section, we discuss all of the provisions and additions made to the argument dependencies.
+\subsection{Subjects}
+While there is some correspondence between the \textsc{ud}'s \textit{nsubj} and subjects in Arapaho, it is, nonetheless, problematic to analyze subjects based purely on syntax since there is no syntactic features that would index the particular verbal arguments. Because nominals can take any position in the sentence and because they are not marked by a case corresponding with its syntactic role, the only certain way of finding a subject is in the person and number verbal agreement. The proximate and obviative distinction also does not clarify the syntactic role of the nominal, so with transitive verbs, the proximate form can be either agent or undergoer, and thus roughly correspond to either subject or object in English. In other words, the distinction of subject is not really important in the Arapaho language, especially with transitive verbs, and a relationship that is based on obviation would mark the dependencies more clearly. In response to this, the current dependency scheme adopted the \textsc{ud} dependency of \textit{nsubj} and \textit{csubj} with the additional marker \textit{:obv} to index the obviative arguments of intransitive verbs expressed in the verbal morphology. The proximate counterparts are not marked. In the example (\ref{nsubj:obv}), the obviative noun agreeing with the verb is such subject.
+
+\small
+\begin{exe}
+\ex \label{nsubj:obv} %Con109.064
+\begin{adjustwidth*}{-0.1in}{-0.1in}
+\begin{dependency}
+\begin{deptext}
+no'useeni3 \& nuhu' \& koo'ohwuu.\\
+\textsc{vai} \& \textsc{det} \& \textsc{na}\\
+\end{deptext}
+\depedge [edge unit distance=1ex]{3}	{1}	{nsubj:obv}
+\end{dependency}
+\gll no'usee-ni3 nuhu' \textbf{koo'ohw-uu}.\\
+{arrive-\textsc{4s}} this coyote-obv.\\
+\trans \textit{``This coyote came.''}
+\end{adjustwidth*}
+\end{exe}
+\normalsize
+Similarly, the \textit{nsubj} and \textit{csubj} dependency is also used for animate arguments of transitive inanimate verbs (\textsc{vti}) and inanimate arguments of intransitive inanimate verbs (\textsc{vii}). However, transitive verbs exhibit a double marker on indicating both the proximate and obviative participants, as well as the direction of action (agential relationship) between the two. The proximate participant can be either agent or patient, as can the obviative participant. So, an additional label employing the semantic distinction, \textit{nagent} (nominal agent) is introduced.
+
+\small
+\begin{exe}
+\ex \label{agent:obv}%con3.137
+\begin{dependency}
+\begin{deptext}
+hiniisonoon \& heenei'itowuuneit.\\
+\textsc{na} \& \textsc{vta}\\
+\end{deptext}
+\depedge{1}	{2}	{nagent:obv}
+\end{dependency}
+\gll \textbf{hi-niisonoon} {heen-ei'towuun-eit}.\\
+\textsc{3s}-father.obv {\textsc{redup}-tell s.o.-\textsc{4/3s}}\\
+\trans \textit{His father tells him.}
+\end{exe}
+\normalsize
+The following example further demonstrates the mismatch between subject and agent in Arapaho. Here, the verb is in passive voice, and the ``subject'' of the verb is ``my grandfathers.'' However, this ``subject' is obviative, and it is the oblique agent (``my father'') which is proximate.
+ 
+ \small
+\begin{exe}
+\ex \label{middle}
+\begin{dependency}
+\begin{deptext}
+Neisonoo \& nihcihwonbiineihini3i \& nebesiiwoho'.\\
+\textsc{na} \& \textsc{vai.pass}	\& \textsc{na}\\
+\end{deptext}
+\depedge [edge unit distance=1.5ex]{1}{2}{nagent:oblique}
+\depedge[edge unit distance=1ex]{3}	{2}	{nsubjpass:obv}
+\end{dependency}
+\gll \textbf{ne-isonoo} {nih-cih-won-biin-\textbf{eihi-ni3i}} {ne-besiiwoho'} \\
+\textbf{\textsc{1s}-father} {\textsc{pst}-to here-\textsc{allat}-give-\textsc{pass}-\textsc{4pl}} \textsc{1s}-grandfathers.obv\\
+\trans \textit{``My grandfathers were given (sth) by my father''}
+\end{exe}
+\normalsize
+Since the verb is passivized and thus intransitive, only one argument is reflected in its morphology, the obviative subject \textit{nebesiiwoho'} ``my grandfathers.'' The label of \textit{nagent} is kept with an additional marker \textit{:oblique} to indicate that the argument \textit{neisonoo} ``my father'' is not expressed in verbal morphology. Importantly, such oblique agents are different from noun modifiers, which are discussed further in the paper, because they specify the actor of the verb rather than its manner. 
+
+The subject relationship is not clearly defined in the Arapaho language. Instead, it is possible to talk about nominal expressions that are indexed by verbal morphology either as sole arguments of (syntactically) intransitive verbs or agential arguments (proximate or obviative) of the transitive animate verbs. We propose to account for this distinction as well as the distinction in obviation, which is clearly marked in nominal and verbal morphology.
+\subsection{Objects}
+The prototypical objects of transitive verbs do not easily fit the \textit{dobj} relation in Arapaho. This is primarily because Arapaho verbs commonly undergo complex secondary derivation to produce verb stems which allow one to promote an animate argument to a core argument, marked inflectionally on the verb disregarding its semantic role. Thus, benefactives, recipients, goals, and even themes are typically the ``object'' marked inflectionally on the verb. Conversely, other arguments that would be classic ``direct'' objects in English are demoted, and not marked inflectionally on the verb. On the other hand, because the promoted animate argument is marked inflectionally, it can also easily be dropped from overt mention in the sentence, while unmarked items are much more likely to be mentioned explicitly.
+
+Thus, when the manual for universal dependencies  notes that \textit{dobj} is the most patient-like argument of a verb, this is in direct tension with the tendencies of Arapaho transitive verb dependencies. Additionally, when it notes that ``if there is just one object, it should be labeled \textit{dobj}, regardless of the morphological case or semantic role that it bears'' \cite{ud2014}, this raises additional problems, since the actual `object' marked on the Arapaho verb is highly likely not to appear in the sentence. The only exception and full correspondence to the \textsc{ud}'s definition of the direct object is the inanimate object of an inanimate transitive verb (\textsc{vti}):
+
+\small
+\begin{exe}
+\ex \label{objct} %con15.014
+\begin{dependency}
+\begin{deptext}
+niico'ontonounowoo \& nuhu' \& niinen.\\
+\textsc{vti} \& \textsc{det} \& \textsc{ni}\\
+\end{deptext}
+\depedge [edge unit distance=1ex]{3}	{1}	{dobj}
+\end{dependency}
+\gll nii-co'on-tonoun-owoo nuhu' \textbf{niinen}.\\
+{\textsc{impf}-always-use-\textsc{1s}} this {piece of fat}\\
+\trans \textit{``I always use this fat.''}
+\end{exe}
+\normalsize
+Because the verb is transitive inanimate, it requires two arguments, only one of which (the animate agent) is marked inflectionally. The second argument can only be expressed by an inanimate noun and can either precede or follow the verb. So the overt nominal in the example above represents a prototypical direct object for transitive inanimate verbs. Meanwhile, transitive animate verbs can have up to three arguments (e.g., ditransitive verbs), with the two animate arguments being expressed inflectionally on the verb. So technically, ditransitive constructions may have only one overt nominal not corresponding to either of the person markers in verbal inflection. According to the \textsc{ud} definition cited above, such a nominal should be considered a direct object. In the following example, the true ``object'' of the Arapaho verb is ``you,'' (since it is in imperative form) while ``your eyes'' is not marked on the verb, and is thus from the perspective of Arapaho grammar an oblique form. 
+
+\small
+\begin{exe}
+\ex \label{objse} %con110.060
+\begin{dependency}
+\begin{deptext}
+Cihneeneeciihi \& hesiiseii.\\
+\textsc{vta} \& \textsc{ni} \\
+\end{deptext}
+\depedge [edge unit distance=1ex]{2}{1}	{dobj}
+\end{dependency}
+\gll Cih-nee-neeciih-i \textbf{he-siiseii}\\
+{\textsc{emph.imper-redup}-lend-\textsc{1s.imper}} {\textsc{2s}-eyes}\\
+\trans \textit{``Lend me your eyes.''}
+\end{exe}
+
+\normalsize
+There is no direct agreement between the secondary object \textit{hesiiseii} ``your eyes'' and the verb. Ideally, this should be represented by \textit{iobj} relation which emphasizes the indirect syntactic relation between the verb and the nominal. 
+
+Furthermore, objects of a transitive animate verb (\textsc{vta}) and transitive inanimate verb (\textsc{vti}) are different from the point of view of the grammar\footnote{\textsc{vti} objects are not reflected in verbal morphology.} and their respective part of speech designation\footnote{Only the animate nominal expressions (\textsc{na}) can be the objects of \textsc{vta}.}. Hence, a further specification of the \textit{dobj} is necessary for transitive verbs. To stay consistent with the labels proposed for the \textit{nagent} and \textit{cagent} relations, the additional labels employed are \textit{:under} and \textit{:obv}.
+
+\small
+\begin{exe}
+\ex \label{under}
+\begin{dependency}
+\begin{deptext}
+Neisonoo \& nihcihwonbiinoot \& nebesiiwoho'.\\
+\textsc{na} \& \textsc{vta}	\& \textsc{na}\\
+\end{deptext}
+\depedge [edge unit distance=1.5ex]{1}{2}{nsubj:agent}
+\depedge[edge unit distance=1ex]{3}	{2}	{dobj:under:obv}
+\end{dependency}
+\gll \textbf{ne-isonoo} {nih-cih-won-biin-oot} \textbf{ne-besiiwoho'} \\
+\textbf{\textsc{1s}-father} {\textsc{pst}-to here-\textsc{allat}-give-\textsc{3s/4}} \textbf{\textsc{1s}-grandfathers.obv}\\
+\trans \textit{``My father came to give [me] to my grandfather.''}
+\end{exe}
+\normalsize
+In the example (\ref{under}), the object clearly marked on the verb is the fourth person, or the obviative. Specifying this dependency relation disambiguates between the nominals and enables the correct translation of the sentence.
+
+So, in the current scheme the distinction between different types of objects is further clarified. The \textit{iobj} is reserved only for the secondary objects of the ditransitive verbs which show no verbal agreement. Meanwhile, the \textit{dobj} is used to mark the dependency relation between the transitive inanimate verb and its object also not specified in the verbal morphology. Label \textit{dobj:under} with the additional specification of obviation indicates the dependency relation between transitive animate verbs and the undergoers specified in the verbal morphology. 
+\subsection{Noun Modifiers}
+The dependency relation of noun modifier corresponds rather well to the noun modifiers in Arapaho. It is primarily used for the disambiguation between direct or indirect objects of transitive verbs and the implied, incorporated objects, or otherwise, adjuncts.
+
+Having argued that some overt nominals of transitive animate nouns play a role of a secondary, or indirect object, we now also  argue that such label in the same context can be inappropriate as well. Using the \textsc{ud} rules for distinguishing the dependency in the example below would lead to analyzing the nominal \textit{koxouhtiit} ``handgame'' as a direct object of the main verb. But as one can see from the translation, it would also lead to a wrong analysis. Similarly, the indirect object analysis would also be incorrect. Indeed, annotating this noun as an oblique or an adjunct, \textit{nmod}, is the only way of ensuring the correct analysis and translation. 
+
+\small
+\begin{exe}
+\ex \label{handgame} 
+\begin{dependency}
+\begin{deptext}
+Ceebe'eiheinoo \& koxouhtiit\\
+\textsc{vta}\& \textsc{ni}\\
+\end{deptext}
+\depedge [edge unit distance=1.5ex]{2}{1}{nmod}
+\end{dependency}
+\gll ceebe'eih-einoo \textbf{koxouhtiit}.\\
+\textsc{ic}.beat-\textsc{3s/1s} handgame\\
+\trans \textit{``He beats me in handgame.''}
+\end{exe}
+\normalsize
+When adjuncts are used with semi-transitive verbs, the \textit{nmod} relation is further suffixed with \textit{:objim} to note that the noun modifier further specifies the under-specified objects  of semi-transitive verbs. Essentially, while these nominals are analyzed and marked as noun modifiers, for a successful translation they need to be marked as direct objects, which we have argued against in the previous section. In avoidance of the incorrect translation as well as incorrect analysis, the label \textit{nmod:objim} is used. In the following example, the noun \textit{bei'ci3ei'i} ``money'' semantically is the object of the semi-transitive verb. However, as we argue, marking it as direct or indirect object would violate the principles of Arapaho syntax.
+
+
+\small
+\begin{exe}
+\ex \label{nmod:objim}%con123.006
+\begin{dependency}
+\begin{deptext}
+neeyeih'oonotooneenou'u \& bei'ci3ei'i.\\
+\textsc{vai.o}\& \textsc{ni}\\
+\end{deptext}
+\depedge {2}{1}{nmod:objim}
+\end{dependency}
+\gll neeyeih-'oonotoonee-nou'u \textbf{bei'ci3ei'i}.\\
+{\textsc{ic}.try-\textsc{redup}-borrow things-12.\textsc{iter}} money\\
+\trans \textit{``Whenever we try to borrow money.''}
+\end{exe}
+
+\normalsize
+In addition, some of these implied or incorporated objects with overt nominal expressions can be modified by an adverbial particle similar to a preposition in English. 
+
+\small
+\begin{exe}
+\ex \label{objad}
+\begin{dependency}
+\begin{deptext}
+nih'iinou'oo3i' \& neci' \& hi3oobei'i'\\
+\textsc{vai}\& \textsc{na} \& \textsc{part}\\
+\end{deptext}
+\depedge {3}{2}{case}
+\depedge{2}{1}{nmod:objad}
+\end{dependency}
+\gll nih-'iinou'oo-3i' \textbf{nec-i'} \textbf{hi3oobei'-i'}\\
+{\textsc{pst}-float around-\textsc{3pl}} \textbf{water-\textsc{loc}} \textbf{{under sth-LOC}}\\
+\trans \textit{``They were floating around under the water''}
+\end{exe}
+
+\normalsize
+In the example above, particle \textit{hi3oobei'i'} ``under'' is a dependent of the adjunct \textit{neci'} ``water-\textsc{loc}.'' This relation is reflected in the locative case marker on the noun showing a direct dependency with the particle. The Arapaho dependency scheme additionally distinguishes the instrumental case since there are special case markers defined by an adverbial or an adverbial prefix. So where the prefixes \textit{hi'-, nohk-}, and \textit{nii3-} are present or where the corresponding adverbial particles appear, the nominal adjunct is considered to be instrumental (\textit{nmod:instr}). So in example (\ref{acl}), the relation between the head of the relative clause \textit{siikoocei'iikuu3oo} ``rubber item'' and the main verb is \textit{nmod:instr}. 
+
+Finally, an additional dependency \textit{poss}, possessor modifier, is being used for possessive constructions with an overt possessor. Similar to Finnish \cite{Tsarfaty2013,Haverinen2014}, in Arapaho, it is possible to distinguish between the subject and the object of a possession. However, unlike in other languages, no special genitive construction exists to mark this type of relation. Instead, the possessor and possessed appear side-by-side. The possessed in such constructions has a third (or fourth) person possessive marker. So in a phrase \textit{nii'ehihi' hi-siiseii} ``little bird his-eyes'' the possessor is ``little bird'' since the possessive prefix \textit{hi-} ``his'' directly references this third person. The dependency relation marked here is possessor nominal modifying another nominal. 
+
+The examples above demonstrate that not all of the arguments that may semantically appear similar to the dependencies established in \textsc{ud} are the same in Arapaho. While under-specification of the semantic relationships can be beneficial in establishing some commonalities cross-linguistically, it can also result in misrepresentation of some of the relations and lowered efficiency in machine learning \cite{Lipenkova2014}. The major underspecification for the Arapaho language is the omission of proximate-obviative distinction: while we realize that it could potentially be problematic in cross-linguistic applicability, omitting this distinction disregards one of the main features of Algonquian syntax, and renders automatic translation of English transitive verbs into Arapaho effectively impossible.
+\section{Non-verbal roots} \label{backref}
+Adopting the relation of a root as the independent word in a clause or sentence allows us to avoid issues arising from securing the root node with verbs. So, like in the \textsc{ud} scheme, our annotations do not attach the node of a root to a particular part of speech even though they are usually represented by verbs. The main reason for doing this is avoiding the potential analysis of what is not there \cite{Nivre2015,Hajicova2015,Osborne2015}. In our annotations, the \textit{root} often represents a pragmatically independent word, as for example in predicative type constructions \cite{Cow08}. Such constructions are used to topicalize one of the verbal arguments or the manner of action (i.e., verbal particles)
+similar to existential constructions in other languages. However, instead of marking the predicate as a root of the sentence as it is done in the Russian TreeBank \cite{Marneffe2014}, the topicalized nominal or the particle is the root in Arapaho. The relation between the root and the predicate is \textit{backreference}:
+\begin{exe}
+\ex \label{topic}
+\small
+\begin{dependency}
+\begin{deptext}
+Ni'ook \& he'ne'nih'iisih'it.\\
+\textsc{name} \& \textsc{vai.pass}\\
+\end{deptext}
+\deproot [edge unit distance=1.5ex]{1}{root}
+\depedge {2}{1}{backref}
+\end{dependency}
+\begin{adjustwidth*}{-0.2in}{-0.2in}
+\gll \textbf{{Ni'ook}} {he'ne'-nih-'iisih'i-t}\\
+\textbf{{Puffy Eyes}} {that-\textsc{pst}-how named-\textsc{3s}}\\
+\trans \textit{``Puffy Eyes, that is how he is named.''}
+\end{adjustwidth*}
+\end{exe}
+\normalsize
+In example (\ref{topic}), the argument of the verb \textit{he'ne'nih'iisih'it} ``that is how he is named'' is not realized overtly, and the verbal prefix \textit{ne'-} ``that is'' references back to the topical argument, making the verb actually a dependent on it. Were we to analyze distinct morphological elements, this prefix would act as a copula between the two. Overall, the reasoning for treating such topicalized elements (which sometimes may take other than the clause-initial position) comes from the combination of the pragmatics and morphology: nearly all of the verbal clauses with prefixes \textit{ne'-} ``that'' and \textit{nee'ees-} ``that is how'' are backreference dependents of such roots. 
+\section{Conclusion} \label{concl}
+In this paper we demonstrate the use of Universal Dependency scheme with a language typologically different from the ones often included in machine-learning technologies. In using the \textsc{ud} framework, several unmentioned issues stemming from the reliance on the word order were noticed. For example, in the current annotation scheme, we reanalyzed the relationship of \textit{parataixis} to account for verbs of citations, so that dependency would be traced from such a verb to the root of the whole clause. Similarly, the discourse marker dependencies were modified to include and analyze interjections. Unfortunately, it is outside of the scope of the paper to discuss these issues, but we hope that expanding this project to annotating conversational data and applying the annotated data to machine learning methods will further reveal some additional insights on analysis of discontinuous constituency. 
+
+In critiquing the \textsc{ud}, we, nonetheless, want to stress the eloquence of such an approach. Unlike the phrase structure annotations, \textsc{ud} allows to account for inconsistent phrase structures and dislocated tokens so often encountered in the Arapaho language. At the same time, however, we argue that to stay considerate of many linguistic nuances in annotations of such a morphologically and syntactically complex language like Arapaho, it is often necessary to include the semantic and pragmatic levels of analysis. 
+
+\newpage
+\section*{Appendix: Abbreviations}
+
+\begin{table}[ht]
+\centering \small
+\begin{tabular}{l p{2.3in}}
+\textsc{0pl} & inanimate plural\\
+12 & first person plural inclusive\\
+\textsc{3s/4} or \textsc{1pl/2pl} & the first number indicates the person and number acting on the following person and number (he to him; we to you.pl)\\
+\textsc{allat} & allative\\
+\textsc{det} & determiner\\
+\textsc{detach} &	detached adverbial prefix\\
+\textsc{dim} &	diminutive\\
+\textsc{emph} & emphatic\\
+\textsc{fut} &	future tense\\
+\textsc{ic} &	phonological initial change\\
+\textsc{imper} & imperative\\
+\textsc{impf} &	imperfect\\
+\textsc{iter} & iterative\\
+\textsc{loc} &	locative\\
+\textsc{na} &	animate noun\\
+\textsc{name} &	name\\
+\textsc{narrpast} &	narrative past tense\\
+\textsc{ni} &	inanimate noun\\
+\textsc{part} &	particle\\
+\textsc{pass} &	passive voice\\
+\textsc{pl} &	plural\\
+\textsc{pst} &	past tense\\
+\textsc{redup} &	reduplication\\
+\textsc{rel} &	relative prefix\\
+\textsc{s} &	singular\\
+\textsc{selfben} &	self-benefactive\\
+\textsc{vai} &	animate intransitive verb\\
+\textsc{vai.o} &	animate intransitive verb with an implied object\\
+\textsc{vai.pass} &	animate intranstive passive verb\\
+\textsc{vai.t} &	animate intransitive verb with a specific implied object\\
+\textsc{vii} &	inanimate intransitive verb\\
+\textsc{vta} &	transitive verb with animate object\\
+\textsc{vti} &	transitive verb with inanimate object\\
+\end{tabular}
+\end{table}
+
+\normalsize
+% include your own bib file like this:
+\bibliographystyle{acl}
+\bibliography{Dependency}
+
+
+
+\end{document}

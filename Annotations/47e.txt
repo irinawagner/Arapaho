@@ -1,0 +1,452 @@
+\_sh v3.0  400  Text
+
+\id 47e
+
+\ref 47e.001
+\tx woow     beneebee3iheet                     hinee
+\mb woow     benee-    bee3ih           - eet   hinee
+\ge now.PERF IC.REDUP- finish with s.o. - 1PL/3 that
+\ps part     prefix-   vta              - infl  det
+
+\tx Al        Moss.
+\mb Al        Moss
+\ge Al        Moss
+\ps pers name DEF.UNDER.pers name
+
+\ELANBegin 5.280
+\ELANEnd 7.530
+\ELANParticipant 38
+\ft Now we've finished off/taken care of Al Moss.
+\Notes 
+
+\ref 47e.002
+\tx yeah,    nii'oo'.
+\mb yeah     nii'oo'
+\ge yeah     IC.good
+\ps particle vii
+
+\ELANBegin 7.650
+\ELANEnd 8.880
+\ELANParticipant 58
+\ft Yeah, it is good.
+\Notes 
+
+\ref 47e.003
+\tx I gave her a call. Teeth, elk or something. A ribbon on it.
+\ELANBegin 12.760
+\ELANEnd 19.460
+\ELANParticipant 58
+\ft
+\Notes 
+
+\ref 47e.004
+\tx oh it's uhh, that, that, that, that boss over there, he should be 
+doing something, he should be cleaning that bus up.
+\ELANBegin 21.640
+\ELANEnd 29.020
+\ELANParticipant 38
+\ft
+\Notes 
+
+\ref 47e.005
+\tx that box over there. That sits over there.
+\ELANBegin 31.380
+\ELANEnd 34.160
+\ELANParticipant 58
+\ft
+\Notes 
+
+\ref 47e.006
+\tx it's clean.
+\ELANBegin 35.190
+\ELANEnd 36.450
+\ELANParticipant XXX
+\ft
+\Notes 
+
+\ref 47e.007
+\tx okay,
+\ELANBegin 36.230
+\ELANEnd 37.240
+\ELANParticipant 38
+\ft
+\Notes 
+
+\ref 47e.008
+\tx well tell her, go for a ride.
+\ELANBegin 39.710
+\ELANEnd 42.150
+\ELANParticipant 58
+\ft
+\Notes 
+
+\ref 47e.009
+\tx Did you go eat over there?
+\ELANBegin 57.870
+\ELANEnd 59.640
+\ELANParticipant 58
+\ft
+\Notes 
+
+\ref 47e.010
+\tx I just got some chips.
+\ELANBegin 60.310
+\ELANEnd 61.810
+\ELANParticipant 62
+\ft
+\Notes 
+
+\ref 47e.011
+\tx Chips, is that all?
+\ELANBegin 62.360
+\ELANEnd 63.640
+\ELANParticipant 58
+\ft
+\Notes 
+
+\ref 47e.012
+\tx umm.
+\ELANBegin 63.390
+\ELANEnd 64.050
+\ELANParticipant 62
+\ft
+\Notes 
+
+\ref 47e.013
+\tx You don't eat meat?
+\ELANBegin 64.600
+\ELANEnd 65.990
+\ELANParticipant 58
+\ft
+\Notes 
+
+\ref 47e.014
+\tx I do.
+\ELANBegin 66.760
+\ELANEnd 67.350
+\ELANParticipant 62
+\ft
+\Notes 
+
+\ref 47e.015
+\tx oh.
+\ELANBegin 67.580
+\ELANEnd 68.300
+\ELANParticipant 58
+\ft
+\Notes 
+
+\ref 47e.016
+\tx Had lots over there.
+\ELANBegin 69.270
+\ELANEnd 70.710
+\ELANParticipant 38
+\ft
+\Notes 
+
+\ref 47e.017
+\tx At the tribal office.
+\ELANBegin 71.070
+\ELANEnd 72.280
+\ELANParticipant 58
+\ft
+\Notes 
+
+\ref 47e.018
+\tx oh, they did? I didn't know anything about it.
+\ELANBegin 72.240
+\ELANEnd 74.900
+\ELANParticipant 62
+\ft
+\Notes 
+
+\ref 47e.019
+\tx you didn't?
+\ELANBegin 74.860
+\ELANEnd 75.680
+\ELANParticipant 58
+\ft
+\Notes 
+
+\ref 47e.020
+\tx I thought you just meant next door.
+\ELANBegin 75.670
+\ELANEnd 76.970
+\ELANParticipant 62
+\ft
+\Notes 
+
+\ref 47e.021
+\tx no. College XXX
+\ELANBegin 77.420
+\ELANEnd 82.080
+\ELANParticipant 58
+\ft
+\Notes 
+
+\ref 47e.022
+\tx you just need to...it´s just to say that you got your money.
+\ELANBegin 81.030
+\ELANEnd 84.690
+\ELANParticipant 62
+\ft
+\Notes 
+
+\ref 47e.023
+\tx tribal college.
+\ELANBegin 84.900
+\ELANEnd 86.080
+\ELANParticipant 38
+\ft
+\Notes 
+
+\ref 47e.024
+\tx I didn't get anything.
+\ELANBegin 86.080
+\ELANEnd 87.770
+\ELANParticipant 58
+\ft
+\Notes 
+
+\ref 47e.025
+\tx oh heck.
+\ELANBegin 92.190
+\ELANEnd 93.420
+\ELANParticipant 38
+\ft
+\Notes 
+
+\ref 47e.026
+\tx I´ll be looking for a job.
+\ELANBegin 95.980
+\ELANEnd 97.360
+\ELANParticipant 38
+\ft
+\Notes 
+
+\ref 47e.027
+\tx You will be? Why?
+\ELANBegin 97.960
+\ELANEnd 98.950
+\ELANParticipant 62
+\ft
+\Notes 
+
+\ref 47e.028
+\tx That, uhh, grant money that was paying my wages,
+\ELANBegin 99.880
+\ELANEnd 104.300
+\ELANParticipant 38
+\ft
+\Notes 
+
+\ref 47e.029
+\tx hohou.
+\mb hohou
+\ge thank you
+\ps part
+
+\ELANBegin 104.330
+\ELANEnd 104.830
+\ELANParticipant 62
+\ft
+\Notes 
+
+\ref 47e.030
+\tx hohou.
+\mb hohou
+\ge thank you
+\ps part
+
+\ELANBegin 104.830
+\ELANEnd 105.650
+\ELANParticipant 58
+\ft
+\Notes 
+
+\ref 47e.031
+\tx they're not going to fund it again, because of how they're doing it 
+down in Arapaho.
+\ELANBegin 105.580
+\ELANEnd 110.040
+\ELANParticipant 38
+\ft
+\Notes 
+
+\ref 47e.032
+\tx You mean they spent all the money down there and...?
+\ELANBegin 111.720
+\ELANEnd 113.710
+\ELANParticipant 62
+\ft
+\Notes 
+
+\ref 47e.033
+\tx How come you're calling me Alvena Friday?
+\ELANBegin 113.810
+\ELANEnd 115.690
+\ELANParticipant 38
+\ft
+\Notes 
+
+\ref 47e.034
+\tx Oops, oh!
+\ELANBegin 115.670
+\ELANEnd 116.620
+\ELANParticipant 62
+\ft
+\Notes 
+
+\ref 47e.035
+\tx You got a bug on your shirt.
+\ELANBegin 116.610
+\ELANEnd 118.050
+\ELANParticipant 58
+\ft
+\Notes 
+
+\ref 47e.036
+\tx Biisee.
+\mb biisee
+\ge bug
+\ps na.#V.INDP
+
+\ELANBegin 120.820
+\ELANEnd 121.590
+\ELANParticipant 58
+\ft Bug.
+\Notes 
+
+\ref 47e.037
+\tx There it is.
+\ELANBegin 123.020
+\ELANEnd 123.710
+\ELANParticipant 38
+\ft
+\Notes 
+
+\ref 47e.038
+\tx There it is.
+\ELANBegin 123.600
+\ELANEnd 124.360
+\ELANParticipant 58
+\ft
+\Notes 
+
+\ref 47e.039
+\tx Bedbug.
+\ELANBegin 124.870
+\ELANEnd 125.760
+\ELANParticipant 58
+\ft
+\Notes 
+
+\ref 47e.040
+\tx Little black bug. He got White Man bugs.
+\ELANBegin 129.480
+\ELANEnd 132.960
+\ELANParticipant 58
+\ft
+\Notes 
+
+\ref 47e.041
+\tx nih'oo3oubiiseeno'.
+\mb nih'oo3ou-    biisee - no'
+\ge white person- bug    - NA.PL
+\ps prefix-       na     - infl.#V.INDP
+
+\ELANBegin 135.510
+\ELANEnd 136.750
+\ELANParticipant 62
+\ft White man bugs.
+\Notes 
+
+\ref 47e.042
+\tx yeah.
+\mb yeah
+\ge yeah
+\ps particle
+
+\ELANBegin 136.480
+\ELANEnd 137.610
+\ELANParticipant 38
+\ft
+\Notes 
+
+\ref 47e.043
+\tx yeah, I'll, I got to change your name.
+\ELANBegin 138.300
+\ELANEnd 140.000
+\ELANParticipant 62
+\ft
+\Notes 
+
+\ref 47e.044
+\tx okay, change my name.
+\ELANBegin 139.440
+\ELANEnd 141.240
+\ELANParticipant 38
+\ft
+\Notes 
+
+\ref 47e.045
+\tx yeah, I know who you are.
+\ELANBegin 141.290
+\ELANEnd 142.400
+\ELANParticipant 62
+\ft
+\Notes 
+
+\ref 47e.046
+\tx please, please!
+\ELANBegin 141.790
+\ELANEnd 144.850
+\ELANParticipant 38
+\ft
+\Notes 
+
+\ref 47e.047
+\tx hohou
+\mb hohou
+\ge thank you
+\ps part
+
+\ELANBegin 148.300
+\ELANEnd 148.890
+\ELANParticipant 62
+\ft
+\Notes 
+
+\ref 47e.048
+\tx umm, hohou.      Heetwonbii3ihinoo              cebiihineenoo     I   mean.
+\mb umm  hohou       heet-   won-    bii3ihi - noo  cebiihinee - noo  I   mean
+\ge umm  thank you   FUT-    ALLAT-  eat     - 1S   gamble     - 1S   I   mean
+\ps PART part        prefix- prefix- vai     - infl vai        - infl ENG ENGL
+
+\ELANBegin 148.990
+\ELANEnd 154.030
+\ELANParticipant 38
+\ft Umm, thank you. I will go eat, go gamble, I mean.
+\Notes 
+
+\ref 47e.049
+\tx Don't lose it all in one night.
+\ELANBegin 155.780
+\ELANEnd 157.130
+\ELANParticipant 62
+\ft
+\Notes 
+
+\ref 47e.050
+\tx yeah.
+\ELANBegin 157.380
+\ELANEnd 157.950
+\ELANParticipant 38
+\ft
+\Notes 
+
+
+\ELANMediaURL file:///G:/ELDP/47/47e/47e Audio.wav
+\ELANMediaMIME audio/x-wav
+\ELANMediaURL file:///G:/ELDP/47/47e/47e.avi
+\ELANMediaMIME video/*

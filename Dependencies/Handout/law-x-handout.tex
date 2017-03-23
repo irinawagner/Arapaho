@@ -1,0 +1,353 @@
+%%This handout is created using Roger Cortesi's handout as a template http://rogercortesi.com/portf/latex/. Updated: July 2016 by Irina Wagner. %%
+
+\documentclass{handout}
+\SetInstructor{Irina Wagner\textsuperscript{1}, Andrew Cowell\textsuperscript{1}, Jena D. Hwang\textsuperscript{2} \\
+\textsuperscript{1}University of Colorado Boulder,
+  Department of Linguistics; \textsuperscript{2}IHMC\\
+  {\tt \{irina.wagner, james.cowell\}@colorado.edu,  jhwang@ihmc.us}}
+\SetCourseTitle{LAW-X: Poster Session}
+\SetHandoutTitle{Applying Universal Dependency to the Arapaho Language}
+\SetSemester{Berlin; August 11, 2016}
+\usepackage{geometry}
+ \geometry{margin=0.7in}
+\usepackage{multicol}
+\usepackage{tikz-dependency}
+\usepackage{gb4e}
+
+\begin{document}
+
+\maketitleinst
+
+\begin{multicols}{2}
+
+\section{Subjects}
+%1. Prototypical subject of VAI and VII verbs
+\footnotesize
+\begin{exe}
+\ex \label{nsubj} Prototypical nominal subject.\\%Con3.050
+\begin{dependency}
+\begin{deptext}
+\textbf{neinoo} \& nihco'oniini \& nih'eeneinono'eitit.\\
+\textsc{na} \& \textsc{part} \& {vai}\\
+\end{deptext}
+\depedge[edge unit distance=1ex]{1}	{3}	{nsubj}
+\end{dependency}
+\gll \textbf{ne-inoo} nih-co'on-iini nih-'eeneinono'eiti-t.\\
+{\textsc{1s}-mother} {\textsc{pst}-always-\textsc{detach}} {\textsc{pst}-converse in Arapaho-\textsc{3s}}\\
+\trans ``My mother always spoke the Arapaho language''
+\end{exe}
+\begin{exe}
+\ex \label{csubj} Prototypical clausal subject.\\%Con123.001
+\begin{dependency}
+\begin{deptext}
+Wonoo3ee' \& \textbf{niibeete'inoni'}.\\
+\textsc{vii} \& \textsc{vii.pass}\\
+\end{deptext}
+\depedge[edge unit distance=1ex]{2}	{1}	{csubj}
+\end{dependency}
+\gll {wonoo3ee-'} \textbf{nii-beet-e'inoni-'}\\
+{be a lot-0S} {\textsc{impf}-want to-known-0S}\\
+\trans ``There's a lot you want to know.''
+\end{exe}
+
+\begin{exe}
+\ex \label{nsubj:obv} Obviative subject.\\ %Con109.064
+\begin{dependency}
+\begin{deptext}
+no'useeni3 \& nuhu' \& \textbf{koo'ohwuu}.\\
+\textsc{vai} \& \textsc{det} \& \textsc{na}\\
+\end{deptext}
+\depedge [edge unit distance=1ex]{3}	{1}	{nsubj:obv}
+\end{dependency}
+\gll no'usee-ni3 nuhu' \textbf{koo'ohw-uu}.\\
+{arrive-\textsc{4s}} this coyote-obv.\\
+\trans \textit{``This coyote came.''}
+\end{exe}
+\normalsize
+\subsection{Agents}
+\footnotesize
+\begin{exe}
+\ex \label{agent:obv} Agent as the most subject-like argument of transitive verbs.\\%con3.137
+\begin{dependency}
+\begin{deptext}
+\textbf{hiniisonoon} \& heenei'itowuuneit.\\
+\textsc{na} \& \textsc{vta}\\
+\end{deptext}
+\depedge[edge unit distance=1.5ex]{1}	{2}	{nagent:obv}
+\end{dependency}
+\gll \textbf{hi-niisonoon} {heen-ei'itowuun-eit}.\\
+\textsc{3s}-father.obv {\textsc{redup}-tell s.o.-\textsc{4/3s}}\\
+\trans \textit{His father tells him.}
+\end{exe}
+\begin{exe}
+\ex \label{middle} Oblique agent of non-active voice.\\
+\begin{dependency}
+\begin{deptext}
+\textbf{Neisonoo} \& nihcihwonbiineihini3i \& nebesiiwoho'.\\
+\textsc{na} \& \textsc{vai.pass}	\& \textsc{na}\\
+\end{deptext}
+\depedge [edge unit distance=1.5ex]{1}{2}{nagent:oblique}
+\depedge[edge unit distance=1ex]{3}	{2}	{nsubjpass:obv}
+\end{dependency}
+\gll \textbf{ne-isonoo} {nih-cih-won-biin-\textbf{eihi-ni3i}} {ne-besiiwoho'} \\
+\textbf{\textsc{1s}-father} {\textsc{pst}-to here-\textsc{allat}-give-\textsc{pass}-\textsc{4pl}} \textsc{1s}-grandfathers.obv\\
+\trans \textit{``My grandfathers were given (sth) by my father''}
+\end{exe}
+\section{Objects}
+\footnotesize
+\begin{exe}
+\ex \label{objct} Prototypical direct object of transitive verbs.\\%con15.014
+\begin{dependency}
+\begin{deptext}
+niico'ontonounowoo \& nuhu' \& \textbf{niinen}.\\
+\textsc{vti} \& \textsc{det} \& \textsc{ni}\\
+\end{deptext}
+\depedge [edge unit distance=1ex]{3}	{1}	{dobj}
+\end{dependency}
+\gll nii-co'on-tonoun-owoo nuhu' \textbf{niinen}.\\
+{\textsc{impf}-always-use-\textsc{1s}} this {piece of fat}\\
+\trans \textit{``I always use this fat.''}
+\end{exe}
+
+\begin{exe}
+\ex \label{objse} Indirect object of an intransitive verb.\\%con110.060
+\begin{dependency}
+\begin{deptext}
+Cihneeneeciihi \& \textbf{hesiiseii}.\\
+\textsc{vta} \& \textsc{ni} \\
+\end{deptext}
+\depedge [edge unit distance=1ex]{2}{1}	{iobj}
+\end{dependency}
+\gll Cih-nee-neeciih-i \textbf{he-siiseii}\\
+{\textsc{emph.imper-redup}-lend-\textsc{1s.imper}} {\textsc{2s}-eyes}\\
+\trans \textit{``Lend me your eyes.''}
+\end{exe}
+\subsection{Undergoers} 
+\footnotesize
+\begin{exe}
+\ex \label{under} Most patient-like argument of a transitive animate verb.\\
+\begin{dependency}
+\begin{deptext}
+Neisonoo \& nihcihwonbiinoot \& \textbf{nebesiiwoho'}.\\
+\textsc{na} \& \textsc{vta}	\& \textsc{na}\\
+\end{deptext}
+\depedge[edge unit distance=1ex]{3}	{2}	{dobj:under:obv}
+\end{dependency}
+\gll ne-isonoo {nih-cih-won-biin-oot} \textbf{ne-besiiwoho'} \\
+\textsc{1s}-father {\textsc{pst}-to here-\textsc{allat}-give-\textsc{3s/4}} \textbf{\textsc{1s}-grandfathers.obv}\\
+\trans \textit{``My father came to give [me] to my grandfather.''}
+\end{exe}
+
+\section{Noun Modifiers}
+\footnotesize
+\begin{exe}
+\ex \label{handgame} An argument outside of the verbal frame.\\
+\begin{dependency}
+\begin{deptext}
+Ceebe'eiheinoo \& \textbf{koxouhtiit}\\
+\textsc{vta}\& \textsc{ni}\\
+\end{deptext}
+\depedge [edge unit distance=1.5ex]{2}{1}{nmod}
+\end{dependency}
+\gll ceebe'eih-einoo \textbf{koxouhtiit}.\\
+\textsc{ic}.beat-\textsc{3s/1s} handgame\\
+\trans \textit{``He beats me in handgame.''}
+\end{exe}
+
+\subsection{Implied Objects}
+\footnotesize
+\begin{exe}
+\ex \label{nmod:objim} Noun modifier of a semi-transitive verb. \\%con123.006
+\begin{dependency}
+\begin{deptext}
+neeyeih'oonotooneenou'u \& \textbf{bei'ci3ei'i}.\\
+\textsc{vai.o}\& \textsc{ni}\\
+\end{deptext}
+\depedge {2}{1}{nmod:objim}
+\end{dependency}
+\gll neeyeih-'oonotoonee-nou'u \textbf{bei'ci3ei'i}.\\
+{\textsc{ic}.try-\textsc{redup}-borrow things-12.\textsc{iter}} money\\
+\trans \textit{``Whenever we try to borrow money.''}
+\end{exe}
+\subsection{Object of an adverbial}
+\footnotesize
+\begin{exe}
+\ex \label{objad} Argument that is modified by an adverb or a verbal prefix.\\
+\begin{dependency}
+\begin{deptext}
+nih'iinou'oo3i' \& \textbf{neci'} \& hi3oobei'i'\\
+\textsc{vai}\& \textsc{na} \& \textsc{part}\\
+\end{deptext}
+\depedge {3}{2}{case}
+\depedge{2}{1}{nmod:objad}
+\end{dependency}
+\gll nih-'iinou'oo-3i' \textbf{nec-i'} \textbf{hi3oobei'-i'}\\
+{\textsc{pst}-float around-\textsc{3pl}} \textbf{water-\textsc{loc}} \textbf{{under sth-loc}}\\
+\trans \textit{``They were floating around under the water''}
+\end{exe}
+\subsection{Instrumental}
+\footnotesize
+\begin{exe}
+\ex \label{instrument} Noun modifiers with instrumental prefixes and adverbs.\\ %77.151
+\begin{dependency}
+\begin{deptext}
+Wo'ei3 \& nehe' \& \textbf{hiicooo} \& \textbf{niinohkuuni} \& ciibeetiini'.\\
+\textsc{part} \& \textsc{det} \& \textsc{na} \& \textsc{instr} \& \textsc{vii}\\
+\end{deptext}
+\depedge[edge unit distance=1ex]{3}	{5}	{nmod:instr}
+
+\end{dependency}
+\gll wo'ei3 nehe' \textbf{hiicooo} \textbf{nii-nohku-uni} {ciibeetiini-'}\\
+or this pipe \textsc{impf}-with-\textsc{detach} {people are sweating ceremonially-\textsc{0s}}\\
+ \trans ``And then there is the pipe that you sweat with.''
+\end{exe}
+\subsection{Possessives}
+\footnotesize
+\begin{exe}
+\ex \label{poss} The possessor in the possessive construction.\\
+\begin{dependency}
+\begin{deptext}
+\textbf{nii'ehihi'} \& hi-siiseii\\
+\textsc{na}\& \textsc{ni}\\
+\end{deptext}
+\depedge{1}{2}{nmod:poss}
+\end{dependency}
+\gll \textbf{nii'eihihi'} {hi-siiseii}\\
+{little bird} {3\textsc{s}-eyes}\\
+\trans \textit{``Little bird's eyes''}
+\end{exe}
+\section{Roots}
+\footnotesize
+\begin{exe}
+\ex \label{root} Prototypical verbal root\\ 
+\begin{dependency}
+\begin{deptext}
+Nuhu' \& hitiiteebinoo, \& \textbf{hoowcee'iheeno'} \& heeyouhuu.\\
+\textsc{det} \& \textsc{ni} \& \textsc{vta} \& \textsc{ni}\\
+\end{deptext}
+\deproot[edge unit distance=1.5ex] {3}{root}
+\end{dependency}
+\gll 
+nuhu' {hit-iiteeb-inoo} \textbf{hoow-cee'ih-eeno'} heeyouhuu \\
+this {\textsc{3s}-tribe-\textsc{pl}} {\textsc{3neg}-give.gifts-\textsc{3pl/4}} thing \\ 
+\
+\trans ``They haven't given their people anything.''
+\end{exe}
+\subsection{Non-verbal roots}
+\begin{exe}
+\ex \label{topic} The topic is the root, the predicate is the backreference.
+\footnotesize
+\begin{dependency}
+\begin{deptext}
+\textbf{Ni'ook} \& he'ne'nih'iisih'it.\\
+\textsc{name} \& \textsc{vai.pass}\\
+\end{deptext}
+\deproot [edge unit distance=1.5ex]{1}{root}
+\depedge {2}{1}{backref}
+\end{dependency}
+\gll \textbf{{Ni'ook}} {he'ne'-nih-'iisih'i-t}\\
+\textbf{{Puffy Eyes}} {that-\textsc{pst}-how named-\textsc{3s}}\\
+\trans \textit{``Puffy Eyes, that is how he is named.''}
+\end{exe}
+
+\section{Some Correspondences and Considerations}
+\subsection{Adjectival Clauses}
+\footnotesize
+\begin{exe}
+\ex \label{RLCL1} Relative clause with relative prefix as an adjectival clause.\\ %Con49.003 - Relative Clause with a head noun\\ 
+\begin{dependency}
+\begin{deptext}
+Nih'e3ebno'useeno' \& nuhu' \& \textbf{nec} \& \textbf{heetou'}.\\
+\textsc{vai} \& \textsc{det} \& \textsc{ni} \& \textsc{vii.rel}\\
+\end{deptext}
+\depedge [edge unit distance=1.5ex]{3}{1}{nmod}
+\depedge{4}{3}{acl}
+\end{dependency}
+\gll
+{nih-'e3eb-no'usee-no'} nuhu' \textbf{nec} \textbf{heetou-'}\\
+{\textsc{pst}-there-arrive-12} this  water {where X is located-0S}\\
+\trans ``We would get to where the water was.''
+\end{exe}
+\subsection{Reparandum}
+\footnotesize
+\begin{exe}
+\ex \label{repair} Repairs and interjections are dependent on the following word.\\%Con110.007 -- Repair
+\begin{dependency}
+\begin{deptext}
+ Hii3e' \& hiit \& ceesen \& \textbf{he'ihP}, \& he'ih3i'ookuun \& hohootin.\\
+ \textsc{part} \& \textsc{part} \& \textsc{pro} \& \textsc{prefix-pause} \& \textsc{vai} \& \textsc{na}\\
+\end{deptext}
+\depedge{4}	{5}	{reparandum}
+\end{dependency}
+\gll  {hii3e'} hiit {ceesen} \textbf{he'ih-P} he'ih-3i'ookuu-n hohootin\\
+ {over there} here {another} \textsc{narrpst}-pause \textsc{narrpst}-stand-\textsc{2s} tree\\
+ \trans ``Over here another tree was standing.''
+\end{exe}
+\subsection{Compound}
+\footnotesize
+\begin{exe}
+\ex \label{compound} The compound dependency is the one between a word (usually a verb) and its detached prefix.\\%Con3.249 -- Skipped detached prefix\\ 
+\begin{dependency}
+\begin{deptext}
+Xonou \& \textbf{nih'iini} \& wonwo'teno'.\\
+\textsc{part} \& \textsc{detach} \& \textsc{vta}\\
+\end{deptext}
+\depedge[edge unit distance=1ex]{2}	{3}	{compound}
+\deproot [edge unit distance=1.5ex]{3}	{root}
+\end{dependency}
+\gll  xonou \textbf{nih'ii-iini} {won-wo'ten-o'}\\
+ immediately \textsc{pst.impf-detach} {\textsc{allat}-collect-\textsc{1s/3s}}\\
+ \trans ``And I went right away to pick her up.''
+ \end{exe}
+ 
+\subsection{Discourse}
+\footnotesize
+\begin{exe}
+\ex \label{dm} Prototypical discourse marker, root dependent.\\%Con3.292
+\begin{dependency}
+\begin{deptext}
+\textbf{Wohei,} \& heetwoniini \& nee'eestoonoo.\\
+\textsc{part} \& \textsc{deriv} \& \textsc{vai}\\
+\end{deptext}
+\depedge [edge unit distance=1ex]{1}	{3}	{discourse}
+\deproot  [edge unit distance=1.5ex]{3}	{root}
+\end{dependency}
+\gll \textbf{wohei} heet-woni-ini {nee'eestoo-noo}\\
+ \textbf{okay} \textsc{fut-allat-detach} {do thus-\textsc{1s}}\\
+ \trans ``Ok, I will do things like that.''
+\end{exe}
+\begin{exe}
+\ex \label{hesit} Interjection discourse marker, dependent on the following word.\\%Con89.075
+\begin{dependency}
+\begin{deptext}
+ Nohuusoho' \& hih'oowuuni \& \textbf{nihii} \& niice'iseno.\\
+ \textsc{part} \& \textsc{detach} \& \textsc{part} \& \textsc{vii}\\
+\end{deptext}
+\depedge[edge unit distance=2ex]{3}	{4}	{discourse:uh}
+\end{dependency}
+\gll  {nohuusoho'} hih'oowu-uni \textbf{nihii} {niice'ise-no}\\
+ {like that} \textsc{0.pst.neg.detach} well...  {get moldy, spoil-\textsc{0pl}}\\
+ \trans ``That's how they didn't uhh spoil.''
+\end{exe}
+\subsection{Parataxis}
+\footnotesize
+\begin{exe}
+\ex \label{cite} Verbs of citation as a sub-type of parataxis. %Con3.105
+\begin{dependency}
+\begin{deptext}
+Hee'inow       \& tih'iico'oneenetit                     \& \textbf{nih'ii3o'}.\\
+\textsc{vti} \& \textsc{vai} \& \textsc{vta}\\
+\end{deptext}
+\deproot[edge unit distance=1.5ex]{1}{root}
+\depedge[edge unit distance=1ex]{3}{1}{parataxis:cite}
+\end{dependency}
+\gll
+hee'in-ow {tih'ii-co'on-eeneti-t} \textbf{nih-'ii3-o'}\\
+know-2S {when.\textsc{pst.hab.}-always-speak-\textsc{3s}} {\textsc{pst}-say to s.o.-\textsc{1s/3s}}\\
+\trans ``You know it what she always said, I told her.''
+\end{exe}
+
+\footnotesize{*Other one-to-one correspondences with \textsc{ud} include \textit{remnant, dislocated, list, conj, cc, foreign, goeswith, vocative, dep, punct, case,} and \textit{appos}. Dependencies \textit{xcomp, neg, nummod, aux auxpass, cop, expl, mark,} and \textit{mwe } do not exist in Arapaho.}
+
+\end{multicols}
+\end{document}

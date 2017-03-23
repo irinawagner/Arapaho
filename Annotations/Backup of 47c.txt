@@ -1,0 +1,1722 @@
+\_sh v3.0  400  Text
+
+\id 47c
+
+\ref 47c.001
+\tx 'oh     ne'wo'teneit                   nuhu'.
+\mb 'oh     ne'-    wo'ten          - eit  nuhu'
+\ge but/and then-   collect/pick up - 4/3S this
+\ps part    prefix- vta             - infl det.UNDER.
+
+\ELANBegin 3.230
+\ELANEnd 4.980
+\ELANParticipant 38
+\ft Then [the sheriff] picked him up. {This is the conclusion of a story 
+about Al Moss being drunk and running off the road.}
+\Notes 
+
+\ref 47c.002
+\tx Ne'nosouniini
+\mb ne'-    nosouni- ini
+\ge then-   still-   DETACH
+\ps prefix- prefix-  deriv
+
+\tx nihwoncenihco'ooneit.
+\mb nih-    won-    cenihco'oonei               - t
+\ge PAST-   ALLAT-  holding on to a bottle(sp?) - 3.S
+\ps prefix- prefix- vai.INCORP                  - infl
+
+\ELANBegin 6.580
+\ELANEnd 9.530
+\ELANParticipant 38
+\ft Then he was still hanging on to his bottle.
+\Notes 
+
+\ref 47c.003
+\tx nooxeihi' hiihoowuhcebene'.
+\mb nooxeihi' hiihoowuh-       cebene         - '
+\ge maybe     too/excessively- drink too much - 3S
+\ps part      prefix-          vai            - infl
+
+\ELANBegin 11.910
+\ELANEnd 13.560
+\ELANParticipant 58
+\ft Maybe he drank too much.
+\Notes 
+
+\ref 47c.004
+\tx yeah.
+\mb yeah
+\ge yeah
+\ps particle
+
+\ELANBegin 13.540
+\ELANEnd 14.000
+\ELANParticipant 38
+\ft
+\Notes 
+
+\ref 47c.005
+\tx co'onno'o3ibei'ci3eibeet            'oh...
+\mb co'on-  no'o3i- bei'ci3eibee - t    'oh
+\ge always- a lot-  have money   - 3.S  but/and
+\ps prefix- prefix- vai.INCORP   - infl part
+
+\ELANBegin 20.530
+\ELANEnd 22.280
+\ELANParticipant 38
+\ft He always [says] he has a lot of money, but...
+\Notes 
+
+\ref 47c.006
+\tx Ahm,
+\mb ahm
+\ge ahm
+\ps PART
+
+\ELANBegin 23.150
+\ELANEnd 23.970
+\ELANParticipant 38
+\ft
+\Notes 
+
+\ref 47c.007
+\tx yard sales,    'innit;
+\mb yard sales     'innit
+\ge yart sales     right?
+\ps ENGL ENGL.INDP PART
+
+\tx heetnotiitiinoo                 nih'iit             that
+\mb heet-   notiitiinoo             nih-    'ii  - t    that
+\ge FUT-    thing searched for      PAST-   said - 3.S  that
+\ps prefix- ni.DEPPART.     prefix- vai  - infl ENG
+
+\tx one  time,
+\mb one  time
+\ge one  time
+\ps ENGL ENGL.DEF.ADJCT.
+
+\ELANBegin 27.600
+\ELANEnd 32.720
+\ELANParticipant 38
+\ft at yard sales, isn't it [is where he gets his clothes]; 'I am going to 
+look for them' [he said] that one time,
+\Notes 
+
+\ref 47c.008
+\tx “heetneihoowP                 my   work
+\mb heetneihoow-        P           my   work
+\ge 2.FUT.NEG-          pause/break my   work
+\ps infl+prefix+prefix- P           ENGL ENGL.
+
+\tx clothes,” nih'iit,            “my clothes,”
+\mb clothes     nih-    'ii  - t    my    clothes
+\ge clothes     PAST-   said - 3.S  my    clothes
+\ps ENGL#V.IMPOBJ???        prefix- vai  - infl ENGL  ENGL.#V.IMPOBJ.
+
+\ELANBegin 34.840
+\ELANEnd 39.320
+\ELANParticipant 38
+\ft “I will not [buy everyday clothes there], [just] my work clothes,” he 
+said, “my clothes,”
+\Notes 
+
+\ref 47c.009
+\tx ne'nii'cei'isouhut
+\mb ne'-       nii'-        cei'isouhu                 - t
+\ge that-      when.IMPERF- have new/different clothes - 3.S
+\ps proclitic- prefix-      vai                        - infl
+
+\ELANBegin 39.320
+\ELANEnd 40.710
+\ELANParticipant 38
+\ft That's when he has different/new clothes.
+\Notes 
+
+\ref 47c.010
+\tx Kookon   niineenentooyeit.
+\mb kookon   nii-    nee-    nentooyei - t
+\ge just any IMPERF- REDUP-  tell lie  - 3.S
+\ps part     prefix- prefix- vai       - infl
+
+\ELANBegin 45.340
+\ELANEnd 46.890
+\ELANParticipant 38
+\ft He's just always telling lies.
+\Notes 
+
+\ref 47c.011
+\tx niiteswooyooniP                        wooyooniini.CH***
+\mb nii-    tes-    wooyooni - P           wooyooni - ini
+\ge IMPERF- very-   new      - pause/break new      - DETACH
+\ps prefix- prefix- vii      - P           vii      - deriv
+
+\ELANBegin 48.640
+\ELANEnd 51.060
+\ELANParticipant 58
+\ft [The clothes] are real new. {Said sarcastically}.
+\Notes 
+
+\ref 47c.012
+\tx yeah.
+\mb yeah
+\ge yeah
+\ps particle
+
+\ELANBegin 51.030
+\ELANEnd 51.540
+\ELANParticipant 38
+\ft
+\Notes 
+
+\ref 47c.013
+\tx 'oh     niitP                          uhm...
+\mb 'oh     niit-              P           uhm
+\ge but/and where-             pause/break uhm
+\ps part    prefix.rel.IMPERF- P           particle
+
+\ELANBegin 57.570
+\ELANEnd 58.770
+\ELANParticipant 38
+\ft And uhm...
+\Notes 
+
+\ref 47c.014
+\tx ci'nih'oo3ousei               nihno'koohut,
+\mb ci'            - nih'oo3ousei nih-    no'koohu      - t
+\ge too            - white woman  PAST-   arrive by car - 3.S
+\ps proclitic/part - na.PP.SBJCT. prefix- vai           - infl
+
+\tx from California,   noonih'inoono'
+\mb from California    noonih'inoon - o'
+\ge from California    forget       - 1S/3S
+\ps ENGL LOC.placename vta          - infl
+
+\tx hiniisih'iit.
+\mb hi-   niisih'iit
+\ge 3S-   name
+\ps infl- ni.SECOBJ.
+
+\ELANBegin 63.330
+\ELANEnd 68.140
+\ELANParticipant 38
+\ft there was that White lady too who came from California, I forget her 
+name.
+\Notes 
+
+\ref 47c.015
+\tx That that name,                 hisei       nihnoohowoot
+\mb that that name                  hisei       nih-    noohow - oot
+\ge that that name                  woman       PAST-   see    - 3S/4
+\ps ENG  ENG  ENGL.#V.DEF.SECOBJ??? na.PP.AGENT prefix- vta    - infl
+
+\tx nuhu' beh'eihoho.
+\mb nuhu' beh'eihoho
+\ge this  old men
+\ps det   na.pl.obv.DEF.UNDER.
+
+\ELANBegin 72.580
+\ELANEnd 78.480
+\ELANParticipant 38
+\ft That, that name, [that] woman [went and] saw those old men
+\Notes 
+
+\ref 47c.016
+\tx Hoo3itoonoot        niiniP.
+\mb hoo3itoon    - oot
+\ge tell a story - 3S/4
+\ps vta          - infl
+
+\ELANBegin 80.900
+\ELANEnd 82.560
+\ELANParticipant 38
+\ft They told her stories ???.
+\Notes 
+
+\ref 47c.017
+\tx umm.
+\mb umm
+\ge umm
+\ps PART
+
+\ELANBegin 82.530
+\ELANEnd 83.540
+\ELANParticipant 58
+\ft
+\Notes 
+
+\ref 47c.018
+\tx He'ne'woo3eenei'i.
+\mb he'ne'- woo3eenei - 'i
+\ge then-   many      - 0.PL
+\ps prefix- vii + pl  - infl
+
+\ELANBegin 83.930
+\ELANEnd 85.380
+\ELANParticipant 38
+\ft Then [she had] many stories.
+\Notes 
+
+\ref 47c.019
+\tx Huut nihniiteheiwo'.
+\mb huut nih-    niiteheiw - o'
+\ge here PAST-   help      - 1S/3S
+\ps part prefix- vta       - infl
+
+\ELANBegin 85.530
+\ELANEnd 87.580
+\ELANParticipant 38
+\ft I helped her here [with the translation].
+\Notes 
+
+\ref 47c.020
+\tx 'oh     nih'iino'useet              uhm,
+\mb 'oh     nih'ii-      no'usee - t    uhm
+\ge but/and PAST.IMPERF- arrive  - 3.S  uhm
+\ps part    prefix-      vai     - infl particle
+
+\tx translate to   Arapaho, nuhu' stories.
+\mb translate to   Arapaho  nuhu' stories
+\ge translate to   Arapaho  this  stories
+\ps ENGL      ENGL PART     det   ENGL.DEF.VENG.
+
+\ELANBegin 89.540
+\ELANEnd 99.140
+\ELANParticipant 38
+\ft And she would come over and [ask me to] translate to Arapaho, these 
+stories.
+\Notes 
+
+\ref 47c.021
+\tx yeah.
+\mb yeah
+\ge yeah
+\ps particle
+
+\ELANBegin 99.090
+\ELANEnd 99.720
+\ELANParticipant 58
+\ft
+\Notes 
+
+\ref 47c.022
+\tx “woow  Edward            and
+\mb woow     Edward            and
+\ge now.PERF Edward            and
+\ps part     #V.INDP.pers name ENG
+
+\tx Mary      Kate,”          nih'ii3einoo.
+\mb Mary      Kate              nih-    'ii3        - einoo
+\ge Mary      Kate              PAST-   say to s.o. - 3S/1S
+\ps pers name #V.INDP.pers name prefix- vta         - infl
+
+\ELANBegin 102.820
+\ELANEnd 105.170
+\ELANParticipant 38
+\ft “Now [I have stories from] Edward [Willow] and Mary Kate [Underwood],” 
+she said to me.
+\Notes 
+
+\ref 47c.023
+\tx huh!
+\mb huh
+\ge huh
+\ps PART
+
+\ELANBegin 105.300
+\ELANEnd 105.690
+\ELANParticipant 58
+\ft
+\Notes 
+
+\ref 47c.024
+\tx toonheetP,                     nehe' Arapaho
+\mb toon-      heet-   P           nehe' Arapaho
+\ge INDEF-     FUT-    pause/break this  Arapaho
+\ps proclitic- prefix- P           det   PART
+
+\tx beh'eihoho',        hitoo3itooninoo.
+\mb beh'eihoho'         hit-  oo3itoon     - inoo
+\ge old men             3S-   tell a story - pers.PL
+\ps na.pl.DEF.PP.AGENT. infl- vta          - infl
+
+\ELANBegin 106.630
+\ELANEnd 110.990
+\ELANParticipant 38
+\ft Whoever [wanted to tell stories], these Arapaho elders, their stories.
+\Notes 
+
+\ref 47c.025
+\tx woow,    woow     wo3onisi'
+\mb woow     woow     wo3onisi     - '
+\ge now.PERF now.PERF written down - 0S
+\ps part     part     vii          - infl
+
+\tx he'ne'cihbiineino'.
+\mb he'ne'-    cih-     biin - eino'
+\ge that-      to here- give - 3/12
+\ps proclitic- prefix-  vta  - infl
+
+\ELANBegin 114.790
+\ELANEnd 118.870
+\ELANParticipant 38
+\ft Now, now it is written down, then she [was going to] give them to us.
+\Notes 
+
+\ref 47c.026
+\tx Noh  nii'iistii3i                  nuhu'
+\mb noh  nii'-        iistii - 3i      nuhu'
+\ge and  when.IMPERF- finish - 3S.ITER this
+\ps part prefix-      vai.t  - infl    det
+
+\tx wo3onohoe.
+\mb wo3onohoe
+\ge book
+\ps ni.DEF.IMPOBJ.
+
+\ELANBegin 120.730
+\ELANEnd 122.940
+\ELANParticipant 38
+\ft And whenever she finishes this book [she is going to give them to me].
+\Notes 
+
+\ref 47c.027
+\tx Hoono'  hoowuuni.
+\mb hoono'  hoowuuni
+\ge not yet no/not
+\ps part    prefix.det
+
+\ELANBegin 124.450
+\ELANEnd 125.880
+\ELANParticipant 38
+\ft [I haven't seen] anything yet.
+\Notes 
+
+\ref 47c.028
+\tx Bi'nentooyeit.
+\mb bi'-    nentooyei - t
+\ge just-   tell lie  - 3.S
+\ps prefix- vai       - infl
+
+\ELANBegin 127.880
+\ELANEnd 129.170
+\ELANParticipant 38
+\ft She just lied to me [maybe].
+\Notes 
+
+\ref 47c.029
+\tx 'oo.
+\mb 'oo
+\ge yes
+\ps part
+
+\ELANBegin 129.310
+\ELANEnd 129.970
+\ELANParticipant 58
+\ft yes.
+\Notes 
+
+\ref 47c.030
+\tx 'oh     tih'iiniiP,
+\mb 'oh     tih'ii-          nii-    P
+\ge but/and when.PAST.HABIT- REDUP-  pause/break
+\ps part    prefix-          prefix- P
+
+\tx niini'itoo3i'          nooxeihi' nuhu'
+\mb nii-    ni'itoo - 3i'  nooxeihi' nuhu'
+\ge IMPERF- do good - 3PL  maybe     this
+\ps prefix- vai     - infl part      det
+
+\tx wonooniii'oo3i'.
+\mb wonooniii'oo        - 3i'
+\ge IC.young generation - 3PL
+\ps vai/na              - infl.DEF.SBJCT
+
+\ELANBegin 134.430
+\ELANEnd 139.260
+\ELANParticipant 38
+\ft But maybe these younger [Arapaho] people are doing a good thing. 
+{Unclear whether the reference is to the children looking at older 
+archival materials generally, or specifically looking at these 
+materials as part of Sand Creek Run – see note below.}
+\Notes 
+
+\ref 47c.031
+\tx Niihe3ebneeneyeitii3i'                  nuh'uuno
+\mb nii-    he3eb-  nee-    neyeitii - 3i'  nuh'uuno
+\ge IMPERF- there-  REDUP-  read     - 3PL  this
+\ps prefix- prefix- prefix- vai.t    - infl det.EMPH
+
+\tx hoo3itoono        wo'ei3
+\mb hoo3itoono        wo'ei3
+\ge stories           or
+\ps ni.pl.DEF.IMPOBJ. part
+
+\tx neeneiswoowo3onkuu3eino'
+\mb neeneis-                 woo-    wo3onkuu3   - eino'
+\ge what/how-                REDUP-  record/film - 3/12
+\ps prefix.rel.REDUP.IMPERF- prefix- vta         - infl
+
+\tx nuhu' nih'oo3ou'u.
+\mb nuhu' nih'oo3ou'u
+\ge this  White           people
+\ps det   na.pl.DEF.AGENT
+
+\ELANBegin 140.160
+\ELANEnd 149.900
+\ELANParticipant 38
+\ft They go there and read these stories. Or [look at] the pictures the 
+Whites took of us.
+\Notes 
+
+\ref 47c.032
+\tx 'oo.
+\mb 'oo
+\ge yes
+\ps part
+
+\ELANBegin 149.730
+\ELANEnd 150.270
+\ELANParticipant 58
+\ft Yes.
+\Notes 
+
+\ref 47c.033
+\tx heeneisrecordyiheino'.
+\mb heeneis-          recordyih  - eino'
+\ge whatever/however- record     - 3/12
+\ps prefix.rel.REDUP- vta.INSERT - infl
+
+\ELANBegin 151.140
+\ELANEnd 152.960
+\ELANParticipant 38
+\ft [They can listen to] all the recordings they did of us.
+\Notes 
+
+\ref 47c.034
+\tx Heetne3ebiixonihoo3i'                     nuhu'.
+\mb heetn-  e3eb-   iixonih           - oo3i' nuhu'
+\ge FUT-    there-  be useful to s.o. - 3PL/4 this
+\ps prefix- prefix- vta               - infl  det.AGENT
+
+\ELANBegin 155.680
+\ELANEnd 157.720
+\ELANParticipant 38
+\ft They will make use of this material.
+\Notes 
+
+\ref 47c.035
+\tx Tih'etP                  noosoucoo3i'
+\mb tih'et-      P           noosou-   coo  - 3i'
+\ge IRREAL.PAST- pause/break IC.still- come - 3PL
+\ps prefix-      P           prefix-   vai  - infl
+
+\tx tei'yoonoh'o'.
+\mb tei'yoonoh'o'
+\ge children
+\ps na.pl.SBJCT.
+
+\ELANBegin 159.310
+\ELANEnd 161.780
+\ELANParticipant 38
+\ft [More Arapaho] children are still coming [who will/can make use of 
+those things].
+\Notes 
+
+\ref 47c.036
+\tx HeetneeP                    heetih'e3ebeenei'inou'u
+\mb heet-   nee   - P           heetih-  'e3eb-  een-    ei'in  - ou'u
+\ge FUT-    it is - pause/break so that- there-  REDUP-  know   - 3PL
+\ps prefix- vii   - P           prefix-  prefix- prefix- vti+pl - infl
+
+\tx neeneisoo'                      hiine'etiitooni',
+\mb neeneisoo                - '    hiine'etiitooni - '
+\ge it is like that          - 0S   people live     - 0S
+\ps vii.rel.REDUP            - infl vii.IMPERS      - infl
+
+\ELANBegin 161.780
+\ELANEnd 167.860
+\ELANParticipant 38
+\ft They will [use it] in order to know about how people live [today],
+\Notes 
+
+\ref 47c.037
+\tx nono'eiteen,  neeneistoo3i'.
+\mb nono'eiteen   neeneis-                 too - 3i'
+\ge Arapaho tribe what/how-                do  - 3PL
+\ps ni.PP.SBJCT.  prefix.rel.REDUP.IMPERF- vai - infl
+
+\ELANBegin 169.540
+\ELANEnd 171.770
+\ELANParticipant 38
+\ft The Arapaho Tribe, what the people do.
+\Notes 
+
+\ref 47c.038
+\tx Kookoosheihniihobein                           hinee.
+\mb kookoos-     heih-        niihobei      - n    hinee
+\ge I hope/wish- 2S.PAST-     go along with - 12   that
+\ps proclitic-   infl+prefix- vai           - infl det.IMPOBJ.
+
+\tx [CH***]
+\mb *CH
+\ge ***
+\ps ***
+
+\ELANBegin 185.080
+\ELANEnd 187.030
+\ELANParticipant 38
+\ft I wish we had gone along on that [Sand Creek Run]. {This run occurred 
+in the summer of 2009, and involved Arapaho children and elders seeking 
+to learn more about their heritage. The topic is brought up by the 
+preceding discussion.}
+\Notes 
+
+\ref 47c.039
+\tx Niixoo   niiheenesooku'ooni'               nehe',
+\mb niixoo   niih-   een-    esooku'oo  - ni'  nehe'
+\ge also/too along-  REDUP-  watch s.t. - 1PL  this
+\ps part     prefix- prefix- vai        - infl det.IMPOBJ
+
+\tx niitwonrunniini3i',
+\mb niit-              won-    runniini   - 3i'
+\ge where-             ALLAT-  run        - 3PL
+\ps prefix.rel.IMPERF- prefix- vai.INSERT - infl
+
+\tx heesbisih'einoo.[CH***           (TRANS)
+\mb hees-       bis-    ih'  - einoo
+\ge what/how-   all-    name - 3S/1S
+\ps prefix.rel- prefix- vta  - infl
+
+\ELANBegin 189.160
+\ELANEnd 198.980
+\ELANParticipant 38
+\ft We [could have] watched this, where they run, how they say it.
+\Notes Lit., 'how he/she names it all for me'. Likely garbled.
+
+\ref 47c.040
+\tx Sand       Creek
+\mb Sand       Creek
+\ge Sand       Creek
+\ps place name INDP.place name
+
+\ELANBegin 199.020
+\ELANEnd 199.910
+\ELANParticipant 58
+\ft
+\Notes 
+
+\ref 47c.041
+\tx Sand       Creek,           neihoow3o'e'in.[CH***]
+\mb Sand       Creek            neihoow-     3o'-    e'in
+\ge Sand       Creek            1.NEG-       never-  know
+\ps place name OBJCT.place name infl+prefix- prefix- vti
+
+\ELANBegin 199.850
+\ELANEnd 202.650
+\ELANParticipant 38
+\ft Sand Creek, I have never known anything about it [because I have never 
+been there]. {Sic: intended neihow3o'e'in}
+\Notes 
+
+\ref 47c.042
+\tx neih'ow3o'P                      XXX...
+\mb neih-        'ow3o'- P           *XXX
+\ge 1S.PAST-     never-  pause/break ***
+\ps infl+prefix- prefix- P           ***
+
+\ELANBegin 205.540
+\ELANEnd 207.290
+\ELANParticipant 58
+\ft ???
+\Notes 
+
+\ref 47c.043
+\tx he'iiP
+\mb he'ii-            P
+\ge DUBIT.IMPERF-     pause/break
+\ps proclitic+prefix- P
+
+\tx he'iitou'u'u
+\mb he'-       iitou'u       - 'u
+\ge DUBIT-     where located - 0.ITER
+\ps proclitic- vii.rel       - infl
+
+\ELANBegin 206.150
+\ELANEnd 207.970
+\ELANParticipant 38
+\ft I wonder where it's at.
+\Notes 
+
+\ref 47c.044
+\tx neihoowoe'in.
+\mb neihoowoe'in
+\ge I don't know
+\ps (phrase)
+
+\ELANBegin 207.990
+\ELANEnd 209.290
+\ELANParticipant 58
+\ft I don't know.
+\Notes 
+
+\ref 47c.045
+\tx neihow3o'P                       neihoowniisnihi'koo.
+\mb nei-         how3o'- P           neihoow-     niis-       nihi'koohu
+\ge 1S.IMPERF-   never-  pause/break 1.NEG-       how.IMPERF- run
+\ps infl+prefix- prefix- P           infl+prefix- prefix.rel- vai
+
+\ELANBegin 213.280
+\ELANEnd 215.660
+\ELANParticipant 38
+\ft I don't ever, I don't run/drivelike that.
+\Notes 
+
+\ref 47c.046
+\tx neihoowciiskoo.
+\mb neihoow-     ciiskoohu
+\ge 1.NEG-       drive a long ways
+\ps infl+prefix- vai
+
+\ELANBegin 217.230
+\ELANEnd 218.350
+\ELANParticipant 58
+\ft I don't run/drive very far.
+\Notes 
+
+\ref 47c.047
+\tx neihoowciiskoo.
+\mb neihoow-     ciiskoohu
+\ge 1.NEG-       drive a long ways
+\ps infl+prefix- vai
+
+\ELANBegin 218.160
+\ELANEnd 219.380
+\ELANParticipant 38
+\ft I don't run/drive very far.
+\Notes 
+
+\ref 47c.048
+\tx ceebe'eiheino'          Mary
+\mb ceebe'eih       - eino' Mary
+\ge IC.surpass/beat - 3/12  Mary
+\ps vta             - infl  pers name
+
+\tx Bear.
+\mb Bear
+\ge Bear
+\ps AGENT.pers name
+
+\ELANBegin 225.800
+\ELANEnd 227.830
+\ELANParticipant 58
+\ft Mary Bear has got us beat. {Because she goes along on these runs every 
+year}
+\Notes 
+
+\ref 47c.049
+\tx Yeah,    Mary       Bear,     nooxeihi'
+\mb yeah     Mary       Bear      nooxeihi'
+\ge yeah     SBJCT.Mary Bear      maybe
+\ps particle pers name  pers name part
+
+\tx niinee3neenihi'koohut.
+\mb nii-    nee3nee-       nihi'koohu - t
+\ge IMPERF- very-          run        - 3.S
+\ps prefix- prefix.IMPERF- vai        - infl
+
+\ELANBegin 227.740
+\ELANEnd 230.500
+\ELANParticipant 38
+\ft Yeah, Mary Bear, maybe she really runs fast/drives a lot. {In reality, older people 
+do not run in the relays – only the young people do this. The older 
+people go along as cultural resource persons.}
+\Notes 
+
+\ref 47c.050
+\tx Henee3neeco'oneentoot.
+\mb henee3nee- co'on-  eentoo - t
+\ge IC.very-   always- be at  - 3.S
+\ps prefix-    prefix- vai    - infl
+
+\ELANBegin 231.690
+\ELANEnd 233.380
+\ELANParticipant 38
+\ft She's really always around there.
+\Notes 
+
+\ref 47c.051
+\tx niico'onP                   nooxeihi'
+\mb nii-    co'on-  P           nooxeihi'
+\ge IMPERF- always- pause/break maybe
+\ps prefix- prefix- P           part
+
+\tx niiciiskoohut.
+\mb nii-    ciiskoohu         - t
+\ge IMPERF- drive a long ways - 3.S
+\ps prefix- vai               - infl
+
+\ELANBegin 232.650
+\ELANEnd 236.440
+\ELANParticipant 58
+\ft She always...maybe she runs a long ways.
+\Notes 
+
+\ref 47c.052
+\tx he'iiP                        that
+\mb he'ii-            P           that
+\ge DUBIT.IMPERF-     pause/break that
+\ps proclitic+prefix- P           ENG
+
+\tx Gail      Ridgely,
+\mb Gail      Ridgely
+\ge Gail      Ridgely
+\ps pers name DEF.SBJCT.pers name
+
+\tx Ridgelys,           nenee3i'       nih'ini,
+\mb Ridgelys            nenee-    3i'  nih-    'ini
+\ge Ridgelys            IC.it is- 3PL  PAST-   DETACH
+\ps DEF.SBJCT.pers name vai-      infl prefix- deriv
+
+\tx ceecebkoohuutii3i'             co'oniihi'.
+\mb cee-    cebkoohuutii    - 3i'  co'on-  iihi'
+\ge REDUP-  run/manage s.t. - 3PL  always- ADV
+\ps prefix- vai.t           - infl prefix- deriv
+
+\ELANBegin 243.430
+\ELANEnd 251.550
+\ELANParticipant 38
+\ft I guess that Gail Ridgely, the Ridgelys, they are the ones who run it 
+all the time.
+\Notes 
+
+\ref 47c.053
+\tx Nooxeihi' neenei'inou'u.
+\mb nooxeihi' neen-          ei'in  - ou'u
+\ge maybe     REDUP-         know   - 3PL
+\ps part      prefix.IMPERF- vti+pl - infl
+
+\ELANBegin 253.790
+\ELANEnd 255.280
+\ELANParticipant 38
+\ft Maybe they know all about it.
+\Notes 
+
+\ref 47c.054
+\tx Wooce'           cee'inowuunP                        teeP
+\mb wooce'           cee'inowuun           - P
+\ge you know that... give/provide for s.o. - pause/break
+\ps part             vta                   - P
+
+\tx bisP
+\mb bis-    P
+\ge all-    pause/break
+\ps prefix- P
+
+\tx beescee'inowuunP                            teecxo';
+\mb bees-   cee'inowuun           - P           teecxo'
+\ge big-    give/provide for s.o. - pause/break long ago
+\ps prefix- vta                   - P           part
+
+\tx how3o'uuni,    [CH***]
+\mb how3o'- uuni
+\ge never-  DETACH
+\ps prefix- deriv
+
+\ELANBegin 255.460
+\ELANEnd 259.740
+\ELANParticipant 38
+\ft You know [there was going to be a] payment, all, a big payment [they 
+said] a long time ago, [but] it never [happened],
+\Notes 
+
+\ref 47c.055
+\tx how3o'uuni.
+\mb how3o'- uuni
+\ge never-  DETACH
+\ps prefix- deriv
+
+\ELANBegin 259.380
+\ELANEnd 260.460
+\ELANParticipant 58
+\ft It never [happened]. {Reference is to claims that there would be a 
+reparations payment made to the descendants of victims and survivors of 
+the Sand Creek massacre, when the issue first was brought back to 
+national attention in the 1990s.}
+\Notes 
+
+\ref 47c.056
+\tx beni'ini        nuh'uuno, your             uhh
+\mb beni'-   ini    nuh'uuno  your             uhh
+\ge IC.just- DETACH this      your             uhh
+\ps prefix-  deriv  det.EMPH  ENGL.#V.DEF.INDP particle
+
+\ELANBegin 262.640
+\ELANEnd 265.060
+\ELANParticipant 38
+\ft [You] just [had to submit] this, your uhh
+\Notes 
+
+\ref 47c.057
+\tx applications
+\ps ENGL.#V.INDP
+\ELANBegin 265.080
+\ELANEnd 266.340
+\ELANParticipant 58
+\ft
+\Notes 
+
+\ref 47c.058
+\tx application, nuhu' niitP
+\mb application  nuhu' niit-              P
+\ge application  this  where-             pause/break
+\ps ENGL.#V.INDP det   prefix.rel.IMPERF- P
+
+\tx ahh      ancestors.
+\mb ahh      ancestors
+\ge ahh      ancestors
+\ps particle ENGL.#V.DEF.ADJCT
+
+\ELANBegin 266.320
+\ELANEnd 270.020
+\ELANParticipant 38
+\ft Application, [regarding] these...ahh ancestors.
+\Notes 
+
+\ref 47c.059
+\tx co'onnotiihou'u.             Ohh!
+\mb co'on-  notiih      - ou'u   ohh
+\ge always- search for  - 1S/3PL ohh!
+\ps prefix- vta         - infl   ENGL
+
+\ELANBegin 271.790
+\ELANEnd 273.510
+\ELANParticipant 38
+\ft I am always looking for [some of these ancestors]. {Jokingly suggests 
+that she would still like to find a way to get a reparations payment, 
+but also suggests interest in finding out about ancestors involved in 
+the event.}
+\Notes 
+
+\ref 47c.060
+\tx ci'howoo.
+\mb ci'            - howoo
+\ge too            - also
+\ps proclitic/part - part
+
+\ELANBegin 273.950
+\ELANEnd 275.000
+\ELANParticipant 58
+\ft Me too.
+\Notes 
+
+\ref 47c.061
+\tx Whole bunch,     woo3ee3i'.
+\mb whole bunch      woo3ee  - 3i'
+\ge whole bunch      be many - 3PL
+\ps ENGL  ENGL.SBJCT vai     - infl
+
+\ELANBegin 277.250
+\ELANEnd 279.050
+\ELANParticipant 58
+\ft There were many of them, a whole bunch.
+\Notes 
+
+\ref 47c.062
+\tx yeah.
+\mb yeah
+\ge yeah
+\ps particle
+
+\ELANBegin 279.040
+\ELANEnd 279.760
+\ELANParticipant 38
+\ft
+\Notes 
+
+\ref 47c.063
+\tx Woow     neebees                heene'inowoo.
+\mb woow     neebees                heen-   e'in - owoo
+\ge now.PERF have opportunity to... REDUP-  know - 1S
+\ps part     part                   prefix- vti  - infl
+
+\ELANBegin 280.280
+\ELANEnd 282.260
+\ELANParticipant 38
+\ft Now I had the opportunity to learn about all that [at least].
+\Notes 
+
+\ref 47c.064
+\tx uhm-hmm
+\mb uhm-hmm
+\ge uhm-hmm
+\ps PART
+
+\ELANBegin 282.690
+\ELANEnd 283.430
+\ELANParticipant 58
+\ft
+\Notes 
+
+\ref 47c.065
+\tx heeneeto'oono'         XXX.
+\mb heeneeto'oo     - no'  *XXX
+\ge where come from - 12   ***
+\ps vai.rel.REDUP   - infl ***
+
+\ELANBegin 283.400
+\ELANEnd 284.890
+\ELANParticipant 38
+\ft The places where we came from.
+\Notes 
+
+\ref 47c.066
+\tx howoo.
+\mb howoo
+\ge also
+\ps part
+
+\ELANBegin 284.930
+\ELANEnd 285.510
+\ELANParticipant 58
+\ft Me too.
+\Notes 
+
+\ref 47c.067
+\tx 3owo3nen[iteen]iini   uhh      Indian
+\mb 3owo3neniteen- iini   uhh      indian
+\ge indian-        DETACH uhh      indian
+\ps prefix-        deriv  particle ENGL
+
+\tx names.
+\mb names
+\ge names
+\ps ENGL.#V.INDP.
+
+\ELANBegin 289.120
+\ELANEnd 292.450
+\ELANParticipant 58
+\ft [And we got the chance to find out about] the Indian names of our 
+ancestors.
+\Notes 
+
+\ref 47c.068
+\tx yeah.
+\mb yeah
+\ge yeah
+\ps particle
+
+\ELANBegin 292.450
+\ELANEnd 293.430
+\ELANParticipant 38
+\ft
+\Notes 
+
+\ref 47c.069
+\tx keihnoohoot.
+\mb keih-                  noohoot
+\ge INTERR.2S.PAST-        see
+\ps proclitic+infl+prefix- vti
+
+\ELANBegin 293.220
+\ELANEnd 294.010
+\ELANParticipant 58
+\ft Did you see [the list of names]?
+\Notes 
+
+\ref 47c.070
+\tx wonoo3ei'i.
+\mb wonoo3ei'i
+\ge IC.be many
+\ps vii.pl
+
+\ELANBegin 294.310
+\ELANEnd 295.400
+\ELANParticipant 38
+\ft {Refers to research done by the NPS as part of the Sand Creek process, 
+and made available to the Tribe.}
+\Notes 
+
+\ref 47c.071
+\tx Woow     niikoxuuten[iini]         nouP nousinenoo     noottoneihinooni      Indian name,       give an   Indian name.
+\mb woow     nii-    koxuuten-  iini        nousine - noo  noottoneihi - nooni   indian name        give an   indian name
+\ge now.PERF IMPERF- sometimes- DETACH      stuck   - 1S   IC.asked    - 1S.ITER indian name        give an   indian name
+\ps part     prefix- prefix-    deriv       vai     - infl vai.PASS    - infl    ENGL   ENGL.VENGL. ENGL ENGL ENGL   ENGL.VENG
+
+\ELANBegin 303.780
+\ELANEnd 309.990
+\ELANParticipant 38
+\ft Now sometimes I get stuck whenever I'm asked about giving an Indian 
+name to someone.
+\Notes 
+
+\ref 47c.072
+\tx yeah.
+\mb yeah
+\ge yeah
+\ps particle
+
+\ELANBegin 309.950
+\ELANEnd 310.600
+\ELANParticipant 58
+\ft
+\Notes 
+
+\ref 47c.073
+\tx Nii3inowoo     wo3onohoe.
+\mb nii3in  - owoo wo3onohoe
+\ge possess - 1S   book
+\ps vti     - infl ni.OBJCT
+
+\ELANBegin 315.830
+\ELANEnd 317.600
+\ELANParticipant 58
+\ft I had a book [with Indian names in it].
+\Notes 
+
+\ref 47c.074
+\tx Wooce'           hei'towuune3.
+\mb wooce'           hei'towuun- e3
+\ge you know that... tell s.o.-  1S/2S
+\ps part             vta-        infl
+
+\ELANBegin 317.860
+\ELANEnd 319.240
+\ELANParticipant 58
+\ft Remember I told you about it.
+\Notes 
+
+\ref 47c.075
+\tx oh       yeah.
+\mb oh       yeah
+\ge oh       yeah
+\ps particle particle
+
+\ELANBegin 319.170
+\ELANEnd 320.020
+\ELANParticipant 38
+\ft
+\Notes 
+
+\ref 47c.076
+\tx woo3ei'i.
+\mb woo3ei'i
+\ge be many
+\ps vii.pl
+
+\ELANBegin 321.260
+\ELANEnd 322.200
+\ELANParticipant 58
+\ft There are a lot of them.
+\Notes 
+
+\ref 47c.077
+\tx Wo3onohowoo.
+\mb wo3onoh - owoo
+\ge write   - 1S
+\ps vti     - infl
+
+\ELANBegin 324.830
+\ELANEnd 326.210
+\ELANParticipant 58
+\ft I would write them down.
+\Notes 
+
+\ref 47c.078
+\tx Noh  notiitiinoo             wo3onohoe.
+\mb noh  notiitiinoo             wo3onohoe
+\ge and  thing searched for      book
+\ps part ni.DEPPART.   ni.#V.INADJ???
+
+\ELANBegin 327.470
+\ELANEnd 330.750
+\ELANParticipant 58
+\ft And I looked them up in the book.
+\Notes 
+
+\ref 47c.079
+\tx uhm-hmm.
+\mb uhm-hmm
+\ge uhm-hmm
+\ps PART
+
+\ELANBegin 330.700
+\ELANEnd 331.550
+\ELANParticipant 38
+\ft
+\Notes 
+
+\ref 47c.080
+\tx beebeet   neihow3o'bii'in
+\mb beebeet   nei-         how3o'- bii'in
+\ge just/only 1S.IMPERF-   never-  find s.t.
+\ps part      infl+prefix- prefix- vti
+
+\tx nee'eeP                       that book,
+\mb nee'ee-           P           that book
+\ge that-             pause/break that book
+\ps proclitic+prefix- P           ENG  ENGL.DEF.OBJCT.
+
+\tx hi'in                wo3onohoe
+\mb hi'in                wo3onohoe
+\ge that(aforementioned) book
+\ps det                  ni.DEF.OBJCT.
+
+\ELANBegin 334.280
+\ELANEnd 339.110
+\ELANParticipant 58
+\ft But I just never have found that book, that book [since I lost it once].
+\Notes 
+
+\ref 47c.081
+\tx Neisonoo,              nihneenit,           told about that,
+\mb ne-   isonoo           nih-    neeni - t    told about that
+\ge 1S-   father           PAST-   it is - 3.S  told about that
+\ps infl- na.obl.poss.PRED prefix- vai   - infl ENGL ENGL  ENG
+
+\tx nuhu' Sand       Creek.
+\mb nuhu' Sand       Creek
+\ge this  Sand       Creek
+\ps det   place name #VENGL.DEF.ADJCT.place name
+
+\ELANBegin 339.880
+\ELANEnd 347.140
+\ELANParticipant 58
+\ft My father, he was the one who told about this Sand Creek. {The NPS 
+project included a number of oral history interviews with Arapaho 
+tribal members.}
+\Notes 
+
+\ref 47c.082
+\tx uhm-hmm.
+\mb uhm-hmm
+\ge uhm-hmm
+\ps PART
+
+\ELANBegin 347.130
+\ELANEnd 347.800
+\ELANParticipant 38
+\ft
+\Notes 
+
+\ref 47c.083
+\tx Howoo bii3ihino',    'oh
+\mb howoo bii3ihi - no'  'oh
+\ge also  eat     - 12   but/and
+\ps part  vai     - infl part
+
+\tx noxohoenihkote'enoo.
+\mb noxohoen- ihkote'e            - noo
+\ge quickly-  be full from eating - 1S
+\ps prefix-   vai                 - infl
+
+\ELANBegin 357.550
+\ELANEnd 360.380
+\ELANParticipant 38
+\ft Also when we ate, I got full very quickly. {Reference is to the fact 
+that dinner was served earlier that day for the community across the 
+street at the Wind River Tribal College}
+\Notes 
+
+\ref 47c.084
+\tx ci'howoo.
+\mb ci'            - howoo
+\ge too            - also
+\ps proclitic/part - part
+
+\ELANBegin 360.370
+\ELANEnd 361.220
+\ELANParticipant 58
+\ft Me too.
+\Notes 
+
+\ref 47c.085
+\tx tih'iisbii3ihino'                 huu3e'.    [CH*** transl]
+\mb tih-       'iis-   bii3ihi - no'  huu3e'
+\ge when.PAST- PERF-   eat     - 12   over there
+\ps prefix-    prefix- vai     - infl part.loc
+
+\ELANBegin 360.880
+\ELANEnd 362.490
+\ELANParticipant 38
+\ft When we ate over there.
+\Notes 
+
+\ref 47c.086
+\tx Hookohuusiihi'.              [CH*** TRANSL]
+\mb hookohuus-            iihi'
+\ge necessary/obligatory- ADV
+\ps prefix-               deriv
+
+\ELANBegin 364.080
+\ELANEnd 365.210
+\ELANParticipant 38
+\ft It's just that way now [that I'm older].
+\Notes 
+
+\ref 47c.087
+\tx 'oo.
+\mb 'oo
+\ge yes
+\ps part
+
+\ELANBegin 365.210
+\ELANEnd 365.680
+\ELANParticipant 58
+\ft Yes.
+\Notes 
+
+\ref 47c.088
+\tx Nihbii3inoo             cee'ei'i.         [CH***]
+\mb nih-    bii3i    - noo  cee'ei    - 'i
+\ge PAST-   eat s.t. - 1S   IC.potato - 0.PL
+\ps prefix- vai.t    - infl vii+pl/ni - infl.IMPOBJ
+
+\ELANBegin 366.660
+\ELANEnd 368.430
+\ELANParticipant 58
+\ft I ate potatoes.
+\Notes 
+
+\ref 47c.089
+\tx 'oh     niscih'ebiit.
+\mb 'oh     niscih'ebiit
+\ge but/and soda           pop
+\ps part    ni.#V.IMPOBJ
+
+\ELANBegin 369.800
+\ELANEnd 371.390
+\ELANParticipant 58
+\ft And pop.
+\Notes 
+
+\ref 47c.090
+\tx nooxeihi'
+\mb nooxeihi'
+\ge maybe
+\ps part
+
+\tx ne'ce'niineyei3eibeeet
+\mb ne'-       ce'-    nii-    neyei3eibeee - t
+\ge that-      again-  IMPERF- teach people - 3.S
+\ps proclitic- prefix- prefix- vai.o        - infl
+
+\tx hii3e'.
+\mb hii3e'
+\ge over there
+\ps part.loc
+
+\ELANBegin 378.990
+\ELANEnd 381.520
+\ELANParticipant 38
+\ft Maybe he is teaching over there again. {Reference is to Andrew Cowell}
+\Notes 
+
+\ref 47c.091
+\tx huutiino    nuhu'?
+\mb huutiino    nuhu'
+\ge around here this
+\ps part        det.#V.LOC.
+
+\ELANBegin 382.020
+\ELANEnd 383.080
+\ELANParticipant 58
+\ft Here at this [place]?
+\Notes 
+
+\ref 47c.092
+\tx yeah. Tribal      College.
+\ps part  ENGL.#V.LOC
+\ELANBegin 383.020
+\ELANEnd 384.560
+\ELANParticipant 38
+\ft
+\Notes 
+
+\ref 47c.093
+\tx Heetwonniiniitenowoo                    nuh'uuno.
+\mb heet-   won-    niin-   iten     - owoo nuh'uuno
+\ge FUT-    ALLAT-  REDUP-  get/take - 1S   this
+\ps prefix- prefix- prefix- vta      - infl det.EMPH.???OBJCT
+
+\ELANBegin 386.570
+\ELANEnd 388.700
+\ELANParticipant 38
+\ft I [was supposed to] take some classes.
+\Notes 
+
+\ref 47c.094
+\tx 'oh     siineihoowuuni.
+\mb 'oh     sii-    neihoow-     uuni
+\ge but/and REDUP-  1.NEG-       DETACH
+\ps part    prefix- infl+prefix- deriv
+
+\ELANBegin 393.800
+\ELANEnd 395.270
+\ELANParticipant 38
+\ft But I didn't get to take any.
+\Notes 
+
+\ref 47c.095
+\tx Co'onii3beenoo        noo'eeckoohunooni.
+\mb co'onii3bee    - noo  noo'eeckoohu   - nooni
+\ge always cooking - 1S   IC.arrive home - 1S.ITER
+\ps vai            - infl vai            - infl
+
+\ELANBegin 399.150
+\ELANEnd 403.350
+\ELANParticipant 38
+\ft I'm always cooking when I get home.
+\Notes 
+
+\ref 47c.096
+\tx uhm.
+\mb uhm
+\ge uhm
+\ps particle
+
+\ELANBegin 403.150
+\ELANEnd 403.970
+\ELANParticipant 58
+\ft
+\Notes 
+
+\ref 47c.097
+\tx 'oh     niibeetneyei3einoo
+\mb 'oh     nii-    beet-    neyei3ei     - noo
+\ge but/and IMPERF- want to- go to school - 1S
+\ps part    prefix- prefix-  vai          - infl
+
+\tx nosouniihi'   'iiii.
+\mb nosoun- iihi' 'iiii
+\ge still-  ADV   ha ha
+\ps prefix- deriv PART
+
+\ELANBegin 408.360
+\ELANEnd 411.360
+\ELANParticipant 38
+\ft But I still want to study some more, ha-ha.
+\Notes 
+
+\ref 47c.098
+\tx Noosouneyei3ein.
+\mb noosou-   neyei3ei     - n
+\ge IC.still- go to school - 2S
+\ps prefix-   vai          - infl
+
+\ELANBegin 411.220
+\ELANEnd 412.560
+\ELANParticipant 58
+\ft you are still learning/going to school.
+\Notes 
+
+\ref 47c.099
+\tx noosouneyeitiinoo         nuhu' hinono'eitiit.
+\mb noosou-   neyeitii - noo  nuhu' hinono'eitiit
+\ge IC.still- learn    - 1S   this  Arapaho       language
+\ps prefix-   vai.t    - infl det   ni.DEF.IMPOBJ
+
+\ELANBegin 412.740
+\ELANEnd 414.960
+\ELANParticipant 38
+\ft I am still learning this Arapaho language.
+\Notes 
+
+\ref 47c.100
+\tx Nih'oo3oo    nooxeihi' woow...
+\mb nih'oo3oo    nooxeihi' woow
+\ge White person maybe     now.PERF
+\ps na.#V.SBJCT. part      part
+
+\ELANBegin 416.860
+\ELANEnd 418.360
+\ELANParticipant 58
+\ft [That] white guy maybe now...
+\Notes 
+
+\ref 47c.101
+\tx woow     biisee'ino'.
+\mb woow     biis-   ee'in - o'
+\ge now.PERF IC.all- know  - 3S
+\ps part     prefix- vti   - infl
+
+\ELANBegin 418.810
+\ELANEnd 420.380
+\ELANParticipant 58
+\ft Now he knows it all.
+\Notes 
+
+\ref 47c.102
+\tx woow     biisee'ino'.
+\mb woow     biis-   ee'in - o'
+\ge now.PERF IC.all- know  - 3S
+\ps part     prefix- vti   - infl
+
+\ELANBegin 419.630
+\ELANEnd 421.150
+\ELANParticipant 38
+\ft Now he knows it all.
+\Notes 
+
+\ref 47c.103
+\tx biisee'inou'u.
+\mb biis-   ee'in - ou'u
+\ge IC.all- know  - 3PL
+\ps prefix- vti   - infl
+
+\ELANBegin 421.280
+\ELANEnd 422.640
+\ELANParticipant 58
+\ft They know it all.
+\Notes 
+
+\ref 47c.104
+\tx Heetce'neyei3eih-eino'.
+\mb heet-   ce'-    neyei3eih - eino'
+\ge FUT-    back-   teach     - 3/12
+\ps prefix- prefix- vta       - infl
+
+\ELANBegin 425.980
+\ELANEnd 427.880
+\ELANParticipant 58
+\ft They will come back and teach us.
+\Notes 
+
+\ref 47c.105
+\tx yeah.
+\mb yeah
+\ge yeah
+\ps particle
+
+\ELANBegin 428.020
+\ELANEnd 428.740
+\ELANParticipant 38
+\ft
+\Notes 
+
+\ref 47c.106
+\tx Heeyouhuu,  niikoxuuten[iini]
+\mb heeyouhuu   nii-    koxuuten-  iini
+\ge thing       IMPERF- sometimes- DETACH
+\ps ni.PP.ADJCT prefix- prefix-    deriv
+
+\tx beesiini       teecxo'  nehe' heenetiit
+\mb beesi-  ini    teecxo'  nehe' heenetiit
+\ge big-    DETACH long ago this  language
+\ps prefix- deriv  part     det   ni.DEF.PP.IMPOBJ.
+
+\tx niinoononih'inoo.
+\mb nii-    noo-    nonih'i - noo
+\ge IMPERF- REDUP-  forget  - 1S
+\ps prefix- prefix- vai     - infl
+
+\ELANBegin 435.320
+\ELANEnd 443.120
+\ELANParticipant 38
+\ft Something, sometimes, I forget these big words from a long time ago.
+\Notes 
+
+\ref 47c.107
+\tx 'oh     hooweentoono'
+\mb 'oh     hoow-        eentoo - no'
+\ge but/and 3.NEG-       be at  - pers.PL
+\ps part    infl+prefix- vai    - infl
+
+\tx heihoowoe'P,                     neihoowoe'in.
+\mb heihoow-     oe'in - P           neihoowoe'in
+\ge 2.NEG-       know  - pause/break I don't know
+\ps infl+prefix- vti   - P           (phrase)
+
+\ELANBegin 454.390
+\ELANEnd 458.130
+\ELANParticipant 38
+\ft But [the ones who knew those words] are not around anymore, you don't 
+know...I don't know.
+\Notes 
+
+\ref 47c.108
+\tx Hini'iitiino                old  Arapaho words
+\mb hini'iitiino                old  Arapaho words
+\ge that (aforementioned) there old  Arapaho words
+\ps det.EMPH                    ENGL PART    ENGL.DEF.OBJCT.
+
+\tx nih'iitootonounou'u.
+\mb nih'ii-      too-    tonoun - ou'u
+\ge PAST.IMPERF- REDUP-  use    - 3PL
+\ps prefix-      prefix- vti    - infl
+
+\ELANBegin 459.970
+\ELANEnd 464.500
+\ELANParticipant 38
+\ft Those old Arapaho words, they used them.
+\Notes 
+
+\ref 47c.109
+\tx Uhm-hmm.
+\mb uhm-hmm
+\ge uhm-hmm
+\ps PART
+
+\ELANBegin 464.480
+\ELANEnd 465.260
+\ELANParticipant 58
+\ft
+\Notes 
+
+\ref 47c.110
+\tx Cora               niinoonottonoot
+\mb Cora               nii-    noo-    notton - oot
+\ge Cora               IMPERF- REDUP-  ask    - 3S/4
+\ps PP.AGENT.pers name prefix- prefix- vta    - infl
+
+\tx noo'oeneecee.  [CH***]
+\mb noo'oe- neecee
+\ge around- chief
+\ps prefix- na.UNDER.
+
+\ELANBegin 468.080
+\ELANEnd 470.940
+\ELANParticipant 58
+\ft Cora asks Edward Willow about them. {Cora teaches Arapaho at Wyoming 
+Indian Middle School, and consults with her older brother Edward when 
+she does not know a word}
+\Notes 
+
+\ref 47c.111
+\tx uhh-huh.
+\mb uhh      - huh
+\ge uhh      - huh
+\ps particle - PART
+
+\ELANBegin 470.900
+\ELANEnd 471.600
+\ELANParticipant 38
+\ft
+\Notes 
+
+\ref 47c.112
+\tx he tells her;
+\ELANBegin 472.050
+\ELANEnd 473.040
+\ELANParticipant 58
+\ft
+\Notes 
+
+\ref 47c.113
+\tx nei'towuuneit     neinoo,             teebe
+\mb nei'towuun - eit  neinoo              teebe
+\ge tell       - 4/3S 1S.mother           just now
+\ps vta.IMPERF - infl infl+oblposs.AGENT. part
+
+\tx tihcesistoono'                neh'eeno.
+\mb tih-       cesis-  too - no'  neh'eeno
+\ge when.PAST- begin-  do  - 12   this
+\ps prefix-    prefix- vai - infl det.EMPH.IMPOBJ
+
+\ELANBegin 473.040
+\ELANEnd 483.620
+\ELANParticipant 58
+\ft my mother would tell her, when we first started [working here].
+\Notes 
+
+\ref 47c.114
+\tx Nottonin         heinoo.
+\mb notton - in      hei-         noo
+\ge ask    - 3.IMPER 2S.IMPERF-   1S
+\ps vta    - infl    infl+prefix- infl
+
+\ELANBegin 484.330
+\ELANEnd 486.040
+\ELANParticipant 58
+\ft Ask your mother [he would say].
+\Notes 
+
+\ref 47c.115
+\tx He got 'em all.
+\ELANBegin 487.430
+\ELANEnd 488.660
+\ELANParticipant 58
+\ft
+\Notes 
+
+\ref 47c.116
+\tx 'ine no'o3iit           Helen
+\mb 'ine no'o3-  ii  - t    Helen
+\ge okay a lot-  say - 3.S  Helen
+\ps part prefix- vai - infl SBJCT.2V.SBJCT.pers name
+
+\tx nii'nottonee3i,
+\mb nii'-        nottonee                 - 3i
+\ge when.IMPERF- s.o. is asked a question - 3S.ITER
+\ps prefix-      vai.MID                  - infl
+
+\ELANBegin 497.430
+\ELANEnd 501.400
+\ELANParticipant 38
+\ft Gee, Helen would say(??) whenever we asked her about a word,
+\Notes 
+
+\ref 47c.117
+\tx uhm-hmm.
+\mb uhm-hmm
+\ge uhm-hmm
+\ps PART
+
+\ELANBegin 501.380
+\ELANEnd 502.110
+\ELANParticipant 58
+\ft
+\Notes 
+
+\ref 47c.118
+\tx hees-iitousinihiitoon                   nuh'uuno,
+\mb hees-       ii-     tousinihiitoon      nuh'uuno
+\ge what/how-   IMPERF- how does one say... this
+\ps prefix.rel- prefix- vii.impers.interr   det.EMPH.IMPOBJ.
+
+\tx heeneiseetee'.
+\mb heeneiseetee   - '
+\ge whatever it is - 0S
+\ps vii.rel.REDUP  - infl
+
+\ELANBegin 502.670
+\ELANEnd 510.110
+\ELANParticipant 38
+\ft How do you say this whatever-it-is [we would ask her].
+\Notes 
+
+\ref 47c.119
+\tx 'iiheihoo, neneenin
+\mb 'iiheihoo  neneeni-  n
+\ge oh gosh!   IC.it is- 2S
+\ps part       vai-      infl
+
+\tx tohneyei3eibeeen.           Neihoowuneen.
+\mb toh-    neyei3eibeee - n    neihoowu-    neeni
+\ge since-  teach people - 2S   1.NEG-       it is
+\ps prefix- vai.o        - infl infl+prefix- vai
+
+\ELANBegin 510.890
+\ELANEnd 515.120
+\ELANParticipant 38
+\ft Gee whiz!, you are the one who is teaching. I'm not the one [who is 
+teaching].
+\Notes 
+
+\ref 47c.120
+\tx ciiniihene'inowuu            nih'ii3einoo.
+\mb cii-    niihen-  e'in - owuu nih-    'ii3        - einoo
+\ge NEG-    oneself- know - 3PL  PAST-   say to s.o. - 3S/1S
+\ps prefix- prefix-  vti  - infl prefix- vta         - infl
+
+\ELANBegin 515.770
+\ELANEnd 517.790
+\ELANParticipant 38
+\ft They should know it themsellves, she said to me.
+\Notes 
+
+
+\ELANMediaURL file:///G:/ELDP/47/47c/47c Audio.wav
+\ELANMediaMIME audio/x-wav
+\ELANMediaURL file:///G:/ELDP/47/47c/47c.avi
+\ELANMediaMIME video/*

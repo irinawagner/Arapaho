@@ -1,0 +1,96 @@
+\documentclass[11pt]{article}
+\usepackage{acl2016}
+\usepackage{times}
+\usepackage{url}
+\usepackage{latexsym}
+\usepackage{url}
+\usepackage{graphicx}
+\usepackage{changepage}
+\usepackage{multirow}
+\usepackage{amssymb}
+\usepackage{pifont}
+\newcommand{\cmark}{\ding{51}}%
+\newcommand{\xmark}{\ding{55}}%
+\usepackage{array}
+\renewcommand{\arraystretch}{1.2}
+\usepackage{tikz-dependency}
+\usepackage{gb4e}
+\exewidth{(\thexnumi)}
+%\aclfinalcopy
+\setlength\titlebox{3cm}
+\title{Applying Universal Dependency to the Arapaho Language\\Supplemental Materials}
+\date{}
+
+\begin{document}
+\onecolumn
+\begin{table}[!ht]
+\centering \small
+\caption{\label{table:map}Supplemental material: Mapping of the \textsc{ud} labels and Arapaho scheme labels.}
+\begin{tabular}{l l p{4in}}
+\hline
+\textbf{\textsc{ud}} & \textbf{Arapaho Dependencies} & \textbf{Notes}\\ \hline
+nsubj &	nsubj(:obv) &  Nominal subjects of \textsc{vii}, \textsc{vai}, and \textsc{vti} verbs.\\
+csubj & csubj(:obv) & Clausal subjects of \textsc{vii}, \textsc{vai}, and \textsc{vti} verbs.\\
+nsubjpass & nusubjpass(:obv) & \cmark\\
+csubjpass & csubjpass(:obv) & \cmark\\
+\multirow{3}{*} {\xmark} & agent & Proximate agent of \textsc{vta} expressed by a noun.\\
+& nagent:obv & Obviative agent of \textsc{vta} expressed by a clause.\\
+& nagent:oblique(:obv) & Oblique agents of passive verbs\\
+\multirow{3}{*} {\xmark} & cagent & Proximate agent of \textsc{vta} expressed by a clause.\\
+& cagent:obv & Obviative agent of \textsc{vta} expressed by a clause.\\
+& cagent:oblique(:obv) & Oblique agents of passive verbs\\
+\multirow {3}{*}{dobj} & dobj & Inanimate nominals as objects of \textsc{vti}\\
+& dobj:under & Animate proximate nominals, undergoers of \textsc{vta}\\
+& dobj:under:obv & Animate obviative undergoers of \textsc{vta}\\
+iobj & iobj & Secondary objects of \textsc{vta} not expressed in the verb\\
+ccomp & ccomp & Additional specification of dependency (e.g., dobj, dobj:under, iobj, nmod) is required\\
+xcomp & \xmark & \\
+\multirow {2}{*}{nmod} & nmod & Adjuncts of verbs\\
+& nmod:impobj & Implied objects of \textsc{vai.o, vai.t}, and incorporated verbs\\
+& nmod:objad & Objects of adverbial particles and some verbal prefixes\\
+& nmod:instr & Objects of instrumental particles and instrumental verbal prefixes\\
+\hline
+advmod & advmod & \cmark \\
+advcl & advcl & Morphologically specific clauses \\
+neg & \xmark & \\
+\hline
+det & det & Determiners modifying nouns only\\
+amod & \xmark  & \\
+appos & appos & \cmark \\
+nummod & \xmark & Numerals are verbs and treated like other verbs \\
+acl & acl & Must have a relativizing prefix and a head \\
+case & case & \cmark \\
+\xmark & poss & Possessor modifier of the possessive constructions\\
+\hline
+root & root & \cmark \\
+punct & punct & \cmark \\
+\xmark & backref & Backreference between topicalized nominals and verbs that co-refer to them as well as another argument\\
+aux & \xmark & \\
+auxpass & \xmark & \\
+cop & \xmark & \\
+\hline
+expl & \xmark & \\
+mark & \xmark & \\
+\multirow {2}{*}{discourse} & discourse & Regular discourse markers, dependents of roots\\
+& discourse:uh & Interjections by the word \textit{nihii} ``uh'' and \textit{uh}; dependents of the following words\\
+vocative & vocative & \cmark \\
+dep & dep & \cmark \\
+\hline
+compound & compound & Detached adverbial prefixes and the following verbs\\
+name & name & English names only. Arapaho traditional names are analyzed as regular clauses. \\
+mwe & \xmark & \\
+goeswith & goeswith & \cmark \\
+foreign & foreign & \cmark \\
+reparandum & reparandum & The interjection and the repaired word\\
+\hline
+conj & conj & \cmark \\
+cc & cc & \cmark \\
+\multirow {2}{*}{parataxis} & parataxis & \cmark \\
+& parataxis:cite & Used for words of citation \\
+list & list & \cmark \\
+dislocated & dislocated & \cmark \\
+remnant & remnant & \cmark \\
+\hline
+\end{tabular}
+\end{table}
+\end{document}

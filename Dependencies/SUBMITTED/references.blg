@@ -1,0 +1,50 @@
+This is BibTeX, Version 0.99d (TeX Live 2015)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: references.aux
+The style file: acl.bst
+Database file #1: Dependency.bib
+Warning--entry type for "ud2014" isn't style-file defined
+--line 41 of file Dependency.bib
+Warning--empty journal in Marneffe2008
+You've used 12 entries,
+            2490 wiz_defined-function locations,
+            634 strings with 7374 characters,
+and the built_in function-call counts, 6062 in all, are:
+= -- 647
+> -- 256
+< -- 8
++ -- 89
+- -- 89
+* -- 431
+:= -- 937
+add.period$ -- 50
+call.type$ -- 12
+change.case$ -- 91
+chr.to.int$ -- 12
+cite$ -- 13
+duplicate$ -- 260
+empty$ -- 428
+format.name$ -- 105
+if$ -- 1303
+int.to.chr$ -- 1
+int.to.str$ -- 0
+missing$ -- 12
+newline$ -- 75
+num.names$ -- 38
+pop$ -- 109
+preamble$ -- 1
+purify$ -- 104
+quote$ -- 0
+skip$ -- 221
+stack$ -- 0
+substring$ -- 335
+swap$ -- 92
+text.length$ -- 8
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 92
+warning$ -- 1
+while$ -- 53
+width$ -- 15
+write$ -- 174
+(There were 2 warnings)
